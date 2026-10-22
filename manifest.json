@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "version": "0.2.0-draft.1",
+  "version": "0.2.0-draft.2",
   "repository": "https://github.com/eduardoaugustolb/assets",
   "license": "All rights reserved",
   "icons": {
@@ -10,8 +10,8 @@
   "files": [
     {
       "path": ".gitattributes",
-      "bytes": 120,
-      "sha256": "dc64203f04e8a5a9cceb9f139611e7493c249275a0b588f89486adad4be6979f"
+      "bytes": 166,
+      "sha256": "a2d465b4ea73dea2e8f3ef1a73dc37b3be0001da105107705bfd2bcaa0a06ae0"
     },
     {
       "path": ".gitignore",
@@ -19,19 +19,24 @@
       "sha256": "3215c34ef617dd134e3242b6f7b77478602f5c77490d8180f55ca6987e48d6bc"
     },
     {
+      "path": ".nojekyll",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
       "path": "CHANGELOG.md",
-      "bytes": 679,
-      "sha256": "34e7c42b13a2335c10278593814ed428db1e1a0955d26b21c7494f2abad7d5f3"
+      "bytes": 998,
+      "sha256": "b9cb704915d01e822297f5037a6cede98f0dffcbe5cf6685ffeaf1a123a6f817"
     },
     {
       "path": "LICENSE.md",
-      "bytes": 1358,
-      "sha256": "dc7387b34492316b33996ce9e05eaddb1149e4f17d597c2a9d6651e15a69b6c8"
+      "bytes": 1783,
+      "sha256": "32c16c5d86c5a28127b9d4fd83781afc6efaf9cbb81c3cdda86d3e88eb5bc057"
     },
     {
       "path": "README.md",
-      "bytes": 2717,
-      "sha256": "23aff11ad17a0a21050e63eadab755b959d53db526ca574e3775b45bed914021"
+      "bytes": 2840,
+      "sha256": "439ecc2fdf671404601d7921e347a0edd04cd0541aa28d62f18abfede266cd41"
     },
     {
       "path": "brand/avatars/avatar-dark-1024.png",
@@ -395,8 +400,8 @@
     },
     {
       "path": "icons/README.md",
-      "bytes": 2591,
-      "sha256": "e7f10d7307dfee4e6d0c8d30145976acd47a30dd54d04179b28f5dc300f50efe"
+      "bytes": 7382,
+      "sha256": "db8e58bb828e347a48211456c51679c9cb00e15edc7e69c4f7ea447f8d1ef8ea"
     },
     {
       "path": "icons/manifest.json",
@@ -492,6 +497,41 @@
       "path": "icons/svg/plus.svg",
       "bytes": 218,
       "sha256": "1b9c4ad2369666e2545daa05b4037c2ad5ed7b5dd3af3fa2dfdb2135222eaefd"
+    },
+    {
+      "path": "index.html",
+      "bytes": 25687,
+      "sha256": "60e27ea97adbc2f3579c6a6b49f89e26530f53e2849b680c71be937f605a6ee5"
+    },
+    {
+      "path": "site/app.js",
+      "bytes": 4801,
+      "sha256": "f9c717265b21ce79f0859e4a25f5c87e9373981a55f17a6e613b5668285e783a"
+    },
+    {
+      "path": "site/fonts/InstrumentSans-OFL.txt",
+      "bytes": 4403,
+      "sha256": "9e27a72ed30eb49a08678f6a5d6ed98ec7ba5368f541637ee0683ec9134ef966"
+    },
+    {
+      "path": "site/fonts/InstrumentSans-Variable.ttf",
+      "bytes": 194336,
+      "sha256": "b24f1812584816958afcf22e22d08e44318c5e51651e25d2438efdde389b33b1"
+    },
+    {
+      "path": "site/fonts/InstrumentSerif-OFL.txt",
+      "bytes": 4405,
+      "sha256": "129ed7618959716959f2941fdd5b49e0ad6e6c1d78726761786a00253d865521"
+    },
+    {
+      "path": "site/fonts/InstrumentSerif-Regular.ttf",
+      "bytes": 70012,
+      "sha256": "498efd461f6ddfcb7a111bf9a565709d2085d48201d501ead960d93e84ffbb88"
+    },
+    {
+      "path": "site/styles.css",
+      "bytes": 13049,
+      "sha256": "0864770c384969020f8e1591b9d611f771697fb2902c5b00bb9050d618a6ea88"
     }
   ]
 }

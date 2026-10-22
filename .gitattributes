@@ -6,3 +6,5 @@
 *.pdf binary
 *.docx binary
 *.dotx binary
+*.ttf binary
+site/fonts/*-OFL.txt -whitespace

@@ -2,6 +2,12 @@
 
 [Início](README.md)
 
+## 0.2.0-draft.2 — 2026-10-21
+
+- Preview e documentação em HTML/CSS/JavaScript, com busca, categorias, temas, tamanho, cor, inspeção e cópia de SVG.
+- Mesmos catálogo e exemplos gerados em Markdown em `icons/README.md`.
+- Página preparada para GitHub Pages, com fontes locais e respectivas licenças SIL OFL.
+
 ## 0.2.0-draft.1 — em revisão
 
 - Primeiro lote de seis pictogramas para o portfólio, sujeito a revisão.

@@ -2,6 +2,8 @@
 
 Assets finais da identidade visual de **Eduardo Augusto** e espaço de distribuição da futura coleção de ícones autorais.
 
+[Preview e documentação dos ícones](https://eduardoaugustolb.github.io/assets/) · [Versão Markdown](icons/README.md)
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="brand/logos/assinatura-horizontal-paper.svg">
   <img src="brand/logos/assinatura-horizontal-ink.svg" alt="Eduardo Augusto" width="360">
