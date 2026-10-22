@@ -23,9 +23,9 @@ O [manifesto](manifest.json) lista os arquivos distribuídos e seus hashes SHA-2
 
 ## Ícones
 
-A coleção está em preparação: **nenhum ícone funcional foi publicado ainda**. A direção parte de curvas estruturais, cortes e espaços negativos, com desenho vetorial monocromático e atenção à leitura em tamanhos pequenos.
+A coleção tem um **lote piloto de seis desenhos em revisão**, com SVGs monocromáticos: setas diagonal, para baixo e para cima, mais, pausa e play. A direção parte de curvas estruturais, terminais retos e espaços negativos. Os desenhos ainda não constituem uma versão estável aprovada.
 
-Entregas planejadas: SVG avulso, componentes React, uso em HTML/CSS/JavaScript e Astro, além de imagens para Markdown e README do GitHub. Não há pacote publicado em registro nem comando de instalação disponível nesta etapa.
+O lote inclui SVGs com `currentColor` para inclusão inline e variantes `ink` e `paper` para imagens externas. Componentes React e uma integração Astro distribuível continuam planejados; a primeira integração Astro é local ao portfólio. Não há pacote publicado em registro nem comando de instalação disponível nesta etapa.
 
 ## Uso dos materiais da marca
 

@@ -2,6 +2,12 @@
 
 [Início](README.md)
 
+## 0.2.0-draft.1 — em revisão
+
+- Primeiro lote de seis pictogramas para o portfólio, sujeito a revisão.
+- SVGs com cor herdada e variantes tinta/papel para imagens externas.
+- Integração Astro experimentada localmente; sem pacote React ou Astro publicado.
+
 ## 0.1.0 — 2026-10-21
 
 - Estrutura inicial do repositório público de assets de Eduardo Augusto.

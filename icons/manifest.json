@@ -1,6 +1,62 @@
 {
   "schemaVersion": 1,
-  "status": "preparation",
+  "version": "0.1.0-draft.1",
+  "status": "draft",
   "license": "All rights reserved",
-  "icons": []
+  "icons": [
+    {
+      "name": "arrow-up-right",
+      "label": "Seta diagonal",
+      "category": "navigation",
+      "viewBox": "0 0 24 24",
+      "file": "svg/arrow-up-right.svg",
+      "ink": "svg/ink/arrow-up-right.svg",
+      "paper": "svg/paper/arrow-up-right.svg"
+    },
+    {
+      "name": "arrow-down",
+      "label": "Seta para baixo",
+      "category": "navigation",
+      "viewBox": "0 0 24 24",
+      "file": "svg/arrow-down.svg",
+      "ink": "svg/ink/arrow-down.svg",
+      "paper": "svg/paper/arrow-down.svg"
+    },
+    {
+      "name": "arrow-up",
+      "label": "Seta para cima",
+      "category": "navigation",
+      "viewBox": "0 0 24 24",
+      "file": "svg/arrow-up.svg",
+      "ink": "svg/ink/arrow-up.svg",
+      "paper": "svg/paper/arrow-up.svg"
+    },
+    {
+      "name": "plus",
+      "label": "Expandir",
+      "category": "interface",
+      "viewBox": "0 0 24 24",
+      "file": "svg/plus.svg",
+      "ink": "svg/ink/plus.svg",
+      "paper": "svg/paper/plus.svg"
+    },
+    {
+      "name": "pause",
+      "label": "Pausar",
+      "category": "media",
+      "viewBox": "0 0 24 24",
+      "file": "svg/pause.svg",
+      "ink": "svg/ink/pause.svg",
+      "paper": "svg/paper/pause.svg"
+    },
+    {
+      "name": "play",
+      "label": "Reproduzir",
+      "category": "media",
+      "viewBox": "0 0 24 24",
+      "file": "svg/play.svg",
+      "ink": "svg/ink/play.svg",
+      "paper": "svg/paper/play.svg"
+    }
+  ]
 }

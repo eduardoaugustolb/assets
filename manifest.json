@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "version": "0.1.0",
+  "version": "0.2.0-draft.1",
   "repository": "https://github.com/eduardoaugustolb/assets",
   "license": "All rights reserved",
   "icons": {
-    "status": "preparation",
-    "count": 0
+    "status": "draft",
+    "count": 6
   },
   "files": [
     {
@@ -20,8 +20,8 @@
     },
     {
       "path": "CHANGELOG.md",
-      "bytes": 415,
-      "sha256": "e269b63d18069c7e7ba8f1574694ce196cc085af989d53b787555568b42198c7"
+      "bytes": 679,
+      "sha256": "34e7c42b13a2335c10278593814ed428db1e1a0955d26b21c7494f2abad7d5f3"
     },
     {
       "path": "LICENSE.md",
@@ -30,8 +30,8 @@
     },
     {
       "path": "README.md",
-      "bytes": 2552,
-      "sha256": "578b391562bee2aaf9db7c0a6ec774b97b9c62ddb26fb4fd86ceb4d98f07e0aa"
+      "bytes": 2717,
+      "sha256": "23aff11ad17a0a21050e63eadab755b959d53db526ca574e3775b45bed914021"
     },
     {
       "path": "brand/avatars/avatar-dark-1024.png",
@@ -395,13 +395,103 @@
     },
     {
       "path": "icons/README.md",
-      "bytes": 1615,
-      "sha256": "482fa2bbfc46a0d53399f8b47b7faf08c12cfb9fc6da0096aeabe9b09d22aa5e"
+      "bytes": 2591,
+      "sha256": "e7f10d7307dfee4e6d0c8d30145976acd47a30dd54d04179b28f5dc300f50efe"
     },
     {
       "path": "icons/manifest.json",
-      "bytes": 103,
-      "sha256": "117cad55582ce01e1e98d86e1849776f07647563e0fe405f1ace2cb81cfaed89"
+      "bytes": 1558,
+      "sha256": "5d53058881d55d43b1051db68864cd4a7b22f5be04ca18bc0ff21020a8be1b4a"
+    },
+    {
+      "path": "icons/svg/arrow-down.svg",
+      "bytes": 329,
+      "sha256": "a2203bfc0fa4b88865ae6383a11d69f3b7ac91a2b885521b89d95f2a28d2805d"
+    },
+    {
+      "path": "icons/svg/arrow-up-right.svg",
+      "bytes": 328,
+      "sha256": "e6d90426ba1c8431fac928441b405cc1314f49d902cabbe99e1c92e0b5ba4934"
+    },
+    {
+      "path": "icons/svg/arrow-up.svg",
+      "bytes": 292,
+      "sha256": "226ec292314aef10838047619716e15842cf392995aa7f5727ae450092916d0a"
+    },
+    {
+      "path": "icons/svg/ink/arrow-down.svg",
+      "bytes": 324,
+      "sha256": "d6fef7b5c7a4fd9eab0293207c4893284c2640dd20a1014688051e65c2a03a79"
+    },
+    {
+      "path": "icons/svg/ink/arrow-up-right.svg",
+      "bytes": 323,
+      "sha256": "06254c5ea8ff5c0111fc35ed69e70d3bffeef906a4a30c008d62860dd6ed5daa"
+    },
+    {
+      "path": "icons/svg/ink/arrow-up.svg",
+      "bytes": 287,
+      "sha256": "7def77e9516f60ef7d65e82701de0c547553e989fdeaab92fcab55bbbd9da34b"
+    },
+    {
+      "path": "icons/svg/ink/pause.svg",
+      "bytes": 199,
+      "sha256": "349908dea5be12b648c1fe88b13cd1b9ae5ed92895b9f10777149b142badf4cf"
+    },
+    {
+      "path": "icons/svg/ink/play.svg",
+      "bytes": 209,
+      "sha256": "a888dd17241cf9494ed3719e347dbf6dbf9c09850eee8cce61125176ce7c34d8"
+    },
+    {
+      "path": "icons/svg/ink/plus.svg",
+      "bytes": 213,
+      "sha256": "5369fc6d508028e092ca19ae4432d1caa5b23b1dc28c8ebf7bf84c200eba8f45"
+    },
+    {
+      "path": "icons/svg/paper/arrow-down.svg",
+      "bytes": 324,
+      "sha256": "f26709ef004213dcaccbfc27f2d0af539bf7362e329780e788ca60a9ffca0ca5"
+    },
+    {
+      "path": "icons/svg/paper/arrow-up-right.svg",
+      "bytes": 323,
+      "sha256": "5691bda42396d6e14d4688189a11f0bb9f9620503b8c79a924c2184110acaaf3"
+    },
+    {
+      "path": "icons/svg/paper/arrow-up.svg",
+      "bytes": 287,
+      "sha256": "6bc74e508549dad654e658643ac1d96513b8d6bab807bf9f5d29a820d164cd3b"
+    },
+    {
+      "path": "icons/svg/paper/pause.svg",
+      "bytes": 199,
+      "sha256": "523203cb416289c8588aa5571c9418267cf28a0307b1b82693f7838bd0e792cb"
+    },
+    {
+      "path": "icons/svg/paper/play.svg",
+      "bytes": 209,
+      "sha256": "d53b05f1befc7963dcf2c0c200dd4ab2458e0ddb73e4eecc2537d6a180aa8a2b"
+    },
+    {
+      "path": "icons/svg/paper/plus.svg",
+      "bytes": 213,
+      "sha256": "c309157368e4b661f90cbc7adfeb2212ec2f87b59d2373dd753e3d1235f3c588"
+    },
+    {
+      "path": "icons/svg/pause.svg",
+      "bytes": 204,
+      "sha256": "c64328f1aff1e6ee390d011c475288b087a145bc633230cde934a23578bc5fd5"
+    },
+    {
+      "path": "icons/svg/play.svg",
+      "bytes": 214,
+      "sha256": "fbd8f7b278752193553d076f8c31c74cfc3703b4e68424ed7d4517492a3a4bb1"
+    },
+    {
+      "path": "icons/svg/plus.svg",
+      "bytes": 218,
+      "sha256": "1b9c4ad2369666e2545daa05b4037c2ad5ed7b5dd3af3fa2dfdb2135222eaefd"
     }
   ]
 }
