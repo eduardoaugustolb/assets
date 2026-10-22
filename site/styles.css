@@ -821,3 +821,14 @@ pre {
    min-width: 0;
 
 }
+
+.tag-filters {border:1px solid var(--line); display:flex; flex-wrap:wrap; gap:12px; margin:24px 0; padding:16px; min-width:0}
+.tag-filters label {display:inline-flex; gap:6px; align-items:center; font-size:13px}
+.tag-filters input {accent-color:var(--ink)}
+.card-bottom {flex-wrap:wrap; overflow-wrap:anywhere}
+.badge-preview {margin:16px 0}
+.inspector select {max-width:100%; margin:8px}
+.inspector button {cursor:pointer}
+.tag-filters {gap:4px 14px}
+.tag-filters label {min-height:36px; cursor:pointer}
+.tag-filters input {min-height:0; width:16px; height:16px; margin:0; accent-color:var(--fg)}

@@ -15,3 +15,7 @@ Marcas de tecnologias eventualmente representadas nas peças pertencem aos respe
 Instrument Sans e Instrument Serif são componentes de terceiros distribuídos em `site/fonts/` para renderizar a página de preview. São licenciados sob SIL Open Font License, conforme [Instrument Sans OFL](site/fonts/InstrumentSans-OFL.txt) e [Instrument Serif OFL](site/fonts/InstrumentSerif-OFL.txt). As condições desses arquivos aplicam-se às fontes e não concedem licença aberta sobre os ícones, código ou identidade próprios.
 
 Os arquivos são fornecidos no estado em que se encontram, sem garantia de adequação a uma finalidade específica. Para solicitar autorização, use os canais públicos disponibilizados no [perfil do titular](https://github.com/eduardoaugustolb).
+
+## Logos de terceiros
+
+A reserva de direitos acima aplica-se aos desenhos e código próprios. Logos importados do Simple Icons não são autoria de Eduardo Augusto: consulte [créditos e condições](icons/THIRD-PARTY.md) e a proveniência de cada item no [manifesto](icons/manifest.json). Direitos de marca e licenças individuais permanecem com seus titulares. A composição dos badges não transfere esses direitos.

@@ -1,5 +1,11 @@
 # Notas de distribuição
 
+## 0.3.0-draft.1 — revisão local
+
+- Expansão para 78 ícones, badges claros/escuros e proveniência de logos.
+- Vocabulário de tags, aliases PT-BR/EN, filtros combinados e cópia de Markdown/HTML/URL.
+- Validação remota no README do GitHub pendente de publicação.
+
 [Início](README.md)
 
 ## 0.2.0-draft.2 — 2026-10-21
@@ -8,7 +14,7 @@
 - Mesmos catálogo e exemplos gerados em Markdown em `icons/README.md`.
 - Página preparada para GitHub Pages, com fontes locais e respectivas licenças SIL OFL.
 
-## 0.2.0-draft.1 — em revisão
+## 0.3.0-draft.1 — em revisão
 
 - Primeiro lote de seis pictogramas para o portfólio, sujeito a revisão.
 - SVGs com cor herdada e variantes tinta/papel para imagens externas.

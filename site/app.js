@@ -35,7 +35,8 @@ function filter() {
   document.querySelectorAll('.icon-card').forEach(card => {
     const icon = icons.find(icon => icon.name === card.dataset.name);
     const match = (category.value === 'all' || card.dataset.category === category.value)
-      && normalize(`${icon.name} ${icon.label} ${icon.usage}`).includes(query);
+      && [...document.querySelectorAll('input[name="tag"]:checked')].every(input => icon.tags.includes(input.value))
+      && normalize(`${icon.name} ${icon.label} ${icon.usage} ${icon.tags.join(' ')} ${icon.tagLabels.join(' ')} ${icon.aliases.join(' ')}`).includes(query);
     card.hidden = !match;
     if (match) count++;
   });
@@ -47,6 +48,9 @@ function select(name) {
   selected = icons.find(icon => icon.name === name);
   $('#selected-title').textContent = selected.name;
   $('#selected-usage').textContent = selected.usage;
+  $('#selected-tags').textContent = selected.tagLabels.join(' · ');
+  $('#selected-origin').textContent = selected.provenance.kind === 'third-party' ? 'Terceiros · Simple Icons ' + selected.provenance.version + ' · fontes e condições no manifesto.' : 'Pictograma autoral · Eduardo Augusto';
+  updateBadge();
   $('#selected-code').textContent = selected.svg;
   for (const [id, folder] of [['current', ''], ['ink', 'ink/'], ['paper', 'paper/']]) {
     $(`#download-${id}`).href = `icons/svg/${folder}${selected.name}.svg`;
@@ -73,6 +77,7 @@ function theme(dark) {
   button.textContent = dark ? 'Tema claro' : 'Tema escuro';
   color.value = dark ? '#f7f3ea' : '#0b0b0b';
   $('meta[name="theme-color"]').content = dark ? '#0b0b0b' : '#f7f3ea';
+  updateBadge();
   previewColor();
 }
 
@@ -86,7 +91,7 @@ size.addEventListener('input', () => {
 color.addEventListener('input', previewColor);
 $('#theme-toggle').addEventListener('click', () => theme(root.dataset.theme !== 'dark'));
 $('#reset').addEventListener('click', () => {
-  search.value = ''; category.value = 'all'; size.value = '40';
+  clearFilters(); size.value = '40';
   size.dispatchEvent(new Event('input'));
   theme(root.dataset.theme === 'dark');
   select(icons[0].name);
@@ -99,3 +104,28 @@ $('#copy-selected').addEventListener('click', () => copy(selected.svg));
 document.querySelectorAll('button[disabled], input[disabled], select[disabled]').forEach(element => element.disabled = false);
 $('#theme-toggle').hidden = false;
 theme(window.matchMedia('(prefers-color-scheme: dark)').matches);
+
+function clearFilters() {
+  search.value = ''; category.value = 'all';
+  document.querySelectorAll('input[name="tag"]').forEach(input => input.checked = false);
+  filter();
+}
+function updateBadge() {
+  const dark = $('#asset-theme').value === 'dark';
+  $('#badge-preview').src = 'icons/badges/' + (dark ? 'dark' : 'light') + '/' + selected.name + '.svg';
+  $('#badge-preview').alt = selected.label;
+}
+function assetSnippet(format) {
+  const badge = $('#asset-kind').value === 'badge', dark = $('#asset-theme').value === 'dark';
+  const path = badge ? 'badges/' + (dark ? 'dark/' : 'light/') : 'svg/' + (dark ? 'paper/' : 'ink/');
+  const url = 'https://raw.githubusercontent.com/eduardoaugustolb/assets/main/icons/' + path + selected.name + '.svg';
+  if (format === 'url') return url;
+  if (format === 'markdown') return '![' + selected.label + '](' + url + ')';
+  const escape = value => value.replaceAll('&','&amp;').replaceAll('"','&quot;').replaceAll('<','&lt;');
+  return '<img src="' + url + '" height="' + (badge ? 32 : 24) + '" alt="' + escape(selected.label) + '">';
+}
+document.querySelectorAll('input[name="tag"]').forEach(input => input.addEventListener('change',filter));
+$('#clear-filters').addEventListener('click',clearFilters);
+$('#asset-theme').addEventListener('change',updateBadge);
+document.querySelectorAll('[data-copy-format]').forEach(button => button.addEventListener('click', () => copy(assetSnippet(button.dataset.copyFormat))));
+select(icons[0].name);

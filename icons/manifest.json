@@ -1,14 +1,69 @@
 {
-  "schemaVersion": 1,
-  "version": "0.1.0-draft.1",
+  "schemaVersion": 2,
+  "tags": {
+    "3d": "3D",
+    "architecture": "Arquitetura",
+    "author": "Sobre / about",
+    "backend": "Backend",
+    "community": "Comunidade",
+    "contact": "Contato / contact",
+    "database": "Banco de dados",
+    "design": "Design",
+    "devops": "DevOps",
+    "docs": "Docs",
+    "documentation": "Documentação",
+    "email": "E-mail",
+    "framework": "Framework",
+    "frontend": "Frontend",
+    "git": "Git",
+    "installation": "Instalação",
+    "interface": "Interface",
+    "javascript": "JavaScript",
+    "language": "Linguagem",
+    "license": "Licença",
+    "media": "Mídia",
+    "navigation": "Navegação",
+    "package-manager": "Gerenciador de pacotes",
+    "planning": "Planejamento",
+    "readme-section": "Seções de README",
+    "repository": "Repositório",
+    "runtime": "Runtime",
+    "security": "Segurança",
+    "social": "Redes sociais",
+    "statistics": "Estatísticas",
+    "status": "Estados",
+    "technology": "Tecnologias / stack",
+    "testing": "Testes",
+    "typescript": "TypeScript",
+    "version": "Versões",
+    "website": "Site"
+  },
+  "version": "0.3.0-draft.1",
   "status": "draft",
   "license": "All rights reserved",
+  "licenseScope": "Own pictograms and code only; third-party logos retain their individual conditions in provenance and THIRD-PARTY.md",
   "icons": [
     {
       "name": "arrow-up-right",
       "label": "Seta diagonal",
       "category": "navigation",
       "viewBox": "0 0 24 24",
+      "tags": [
+        "navigation"
+      ],
+      "aliases": [
+        "navegação",
+        "navigation"
+      ],
+      "provenance": {
+        "author": "Eduardo Augusto",
+        "license": "All rights reserved",
+        "kind": "original"
+      },
+      "badges": {
+        "light": "badges/light/arrow-up-right.svg",
+        "dark": "badges/dark/arrow-up-right.svg"
+      },
       "file": "svg/arrow-up-right.svg",
       "ink": "svg/ink/arrow-up-right.svg",
       "paper": "svg/paper/arrow-up-right.svg"
@@ -18,6 +73,22 @@
       "label": "Seta para baixo",
       "category": "navigation",
       "viewBox": "0 0 24 24",
+      "tags": [
+        "navigation"
+      ],
+      "aliases": [
+        "navegação",
+        "navigation"
+      ],
+      "provenance": {
+        "author": "Eduardo Augusto",
+        "license": "All rights reserved",
+        "kind": "original"
+      },
+      "badges": {
+        "light": "badges/light/arrow-down.svg",
+        "dark": "badges/dark/arrow-down.svg"
+      },
       "file": "svg/arrow-down.svg",
       "ink": "svg/ink/arrow-down.svg",
       "paper": "svg/paper/arrow-down.svg"
@@ -27,6 +98,22 @@
       "label": "Seta para cima",
       "category": "navigation",
       "viewBox": "0 0 24 24",
+      "tags": [
+        "navigation"
+      ],
+      "aliases": [
+        "navegação",
+        "navigation"
+      ],
+      "provenance": {
+        "author": "Eduardo Augusto",
+        "license": "All rights reserved",
+        "kind": "original"
+      },
+      "badges": {
+        "light": "badges/light/arrow-up.svg",
+        "dark": "badges/dark/arrow-up.svg"
+      },
       "file": "svg/arrow-up.svg",
       "ink": "svg/ink/arrow-up.svg",
       "paper": "svg/paper/arrow-up.svg"
@@ -36,6 +123,22 @@
       "label": "Expandir",
       "category": "interface",
       "viewBox": "0 0 24 24",
+      "tags": [
+        "interface"
+      ],
+      "aliases": [
+        "interface",
+        "expandir"
+      ],
+      "provenance": {
+        "author": "Eduardo Augusto",
+        "license": "All rights reserved",
+        "kind": "original"
+      },
+      "badges": {
+        "light": "badges/light/plus.svg",
+        "dark": "badges/dark/plus.svg"
+      },
       "file": "svg/plus.svg",
       "ink": "svg/ink/plus.svg",
       "paper": "svg/paper/plus.svg"
@@ -45,6 +148,22 @@
       "label": "Pausar",
       "category": "media",
       "viewBox": "0 0 24 24",
+      "tags": [
+        "media"
+      ],
+      "aliases": [
+        "mídia",
+        "motion"
+      ],
+      "provenance": {
+        "author": "Eduardo Augusto",
+        "license": "All rights reserved",
+        "kind": "original"
+      },
+      "badges": {
+        "light": "badges/light/pause.svg",
+        "dark": "badges/dark/pause.svg"
+      },
       "file": "svg/pause.svg",
       "ink": "svg/ink/pause.svg",
       "paper": "svg/paper/pause.svg"
@@ -54,9 +173,2230 @@
       "label": "Reproduzir",
       "category": "media",
       "viewBox": "0 0 24 24",
+      "tags": [
+        "media"
+      ],
+      "aliases": [
+        "mídia",
+        "motion"
+      ],
+      "provenance": {
+        "author": "Eduardo Augusto",
+        "license": "All rights reserved",
+        "kind": "original"
+      },
+      "badges": {
+        "light": "badges/light/play.svg",
+        "dark": "badges/dark/play.svg"
+      },
       "file": "svg/play.svg",
       "ink": "svg/ink/play.svg",
       "paper": "svg/paper/play.svg"
+    },
+    {
+      "name": "html",
+      "label": "HTML5",
+      "category": "technology",
+      "viewBox": "0 0 24 24",
+      "tags": [
+        "technology",
+        "language",
+        "frontend"
+      ],
+      "aliases": [
+        "HTML5",
+        "stack",
+        "tecnologias"
+      ],
+      "provenance": {
+        "kind": "third-party",
+        "author": "Simple Icons contributors / respective brand owners",
+        "collection": "Simple Icons",
+        "version": "16.35.0",
+        "source": "https://www.w3.org/html/logo/",
+        "upstream": "https://github.com/simple-icons/simple-icons/blob/16.35.0/icons/html5.svg",
+        "license": null,
+        "guidelines": null,
+        "collectionLicense": "simple-icons-16-LICENSE.md"
+      },
+      "badges": {
+        "light": "badges/light/html.svg",
+        "dark": "badges/dark/html.svg"
+      },
+      "file": "svg/html.svg",
+      "ink": "svg/ink/html.svg",
+      "paper": "svg/paper/html.svg"
+    },
+    {
+      "name": "css",
+      "label": "CSS",
+      "category": "technology",
+      "viewBox": "0 0 24 24",
+      "tags": [
+        "technology",
+        "language",
+        "frontend"
+      ],
+      "aliases": [
+        "CSS3",
+        "stack",
+        "tecnologias"
+      ],
+      "provenance": {
+        "kind": "third-party",
+        "author": "Simple Icons contributors / respective brand owners",
+        "collection": "Simple Icons",
+        "version": "16.35.0",
+        "source": "https://github.com/CSS-Next/logo.css/blob/bacc20878227204b283c68a6b935f8279e06b0cd/css.svg",
+        "upstream": "https://github.com/simple-icons/simple-icons/blob/16.35.0/icons/css.svg",
+        "license": null,
+        "guidelines": "https://github.com/CSS-Next/logo.css",
+        "collectionLicense": "simple-icons-16-LICENSE.md"
+      },
+      "badges": {
+        "light": "badges/light/css.svg",
+        "dark": "badges/dark/css.svg"
+      },
+      "file": "svg/css.svg",
+      "ink": "svg/ink/css.svg",
+      "paper": "svg/paper/css.svg"
+    },
+    {
+      "name": "javascript",
+      "label": "JavaScript",
+      "category": "technology",
+      "viewBox": "0 0 24 24",
+      "tags": [
+        "technology",
+        "language",
+        "frontend"
+      ],
+      "aliases": [
+        "JavaScript",
+        "stack",
+        "tecnologias"
+      ],
+      "provenance": {
+        "kind": "third-party",
+        "author": "Simple Icons contributors / respective brand owners",
+        "collection": "Simple Icons",
+        "version": "16.35.0",
+        "source": "https://github.com/voodootikigod/logo.js/blob/1544bdeed6d618a6cfe4f0650d04ab8d9cfa76d9/js.svg",
+        "upstream": "https://github.com/simple-icons/simple-icons/blob/16.35.0/icons/javascript.svg",
+        "license": {
+          "type": "MIT",
+          "url": "https://spdx.org/licenses/MIT"
+        },
+        "guidelines": null,
+        "collectionLicense": "simple-icons-16-LICENSE.md"
+      },
+      "badges": {
+        "light": "badges/light/javascript.svg",
+        "dark": "badges/dark/javascript.svg"
+      },
+      "file": "svg/javascript.svg",
+      "ink": "svg/ink/javascript.svg",
+      "paper": "svg/paper/javascript.svg"
+    },
+    {
+      "name": "typescript",
+      "label": "TypeScript",
+      "category": "technology",
+      "viewBox": "0 0 24 24",
+      "tags": [
+        "technology",
+        "language",
+        "frontend"
+      ],
+      "aliases": [
+        "TypeScript",
+        "stack",
+        "tecnologias"
+      ],
+      "provenance": {
+        "kind": "third-party",
+        "author": "Simple Icons contributors / respective brand owners",
+        "collection": "Simple Icons",
+        "version": "16.35.0",
+        "source": "https://www.typescriptlang.org/branding",
+        "upstream": "https://github.com/simple-icons/simple-icons/blob/16.35.0/icons/typescript.svg",
+        "license": null,
+        "guidelines": "https://www.typescriptlang.org/branding",
+        "collectionLicense": "simple-icons-16-LICENSE.md"
+      },
+      "badges": {
+        "light": "badges/light/typescript.svg",
+        "dark": "badges/dark/typescript.svg"
+      },
+      "file": "svg/typescript.svg",
+      "ink": "svg/ink/typescript.svg",
+      "paper": "svg/paper/typescript.svg"
+    },
+    {
+      "name": "go",
+      "label": "Go",
+      "category": "technology",
+      "viewBox": "0 0 24 24",
+      "tags": [
+        "technology",
+        "language",
+        "backend"
+      ],
+      "aliases": [
+        "Go",
+        "stack",
+        "tecnologias"
+      ],
+      "provenance": {
+        "kind": "third-party",
+        "author": "Simple Icons contributors / respective brand owners",
+        "collection": "Simple Icons",
+        "version": "16.35.0",
+        "source": "https://blog.golang.org/go-brand",
+        "upstream": "https://github.com/simple-icons/simple-icons/blob/16.35.0/icons/go.svg",
+        "license": null,
+        "guidelines": "https://blog.golang.org/go-brand",
+        "collectionLicense": "simple-icons-16-LICENSE.md"
+      },
+      "badges": {
+        "light": "badges/light/go.svg",
+        "dark": "badges/dark/go.svg"
+      },
+      "file": "svg/go.svg",
+      "ink": "svg/ink/go.svg",
+      "paper": "svg/paper/go.svg"
+    },
+    {
+      "name": "python",
+      "label": "Python",
+      "category": "technology",
+      "viewBox": "0 0 24 24",
+      "tags": [
+        "technology",
+        "language",
+        "backend"
+      ],
+      "aliases": [
+        "Python",
+        "stack",
+        "tecnologias"
+      ],
+      "provenance": {
+        "kind": "third-party",
+        "author": "Simple Icons contributors / respective brand owners",
+        "collection": "Simple Icons",
+        "version": "16.35.0",
+        "source": "https://www.python.org/community/logos/",
+        "upstream": "https://github.com/simple-icons/simple-icons/blob/16.35.0/icons/python.svg",
+        "license": null,
+        "guidelines": "https://www.python.org/community/logos/",
+        "collectionLicense": "simple-icons-16-LICENSE.md"
+      },
+      "badges": {
+        "light": "badges/light/python.svg",
+        "dark": "badges/dark/python.svg"
+      },
+      "file": "svg/python.svg",
+      "ink": "svg/ink/python.svg",
+      "paper": "svg/paper/python.svg"
+    },
+    {
+      "name": "bash",
+      "label": "GNU Bash",
+      "category": "technology",
+      "viewBox": "0 0 24 24",
+      "tags": [
+        "technology",
+        "language"
+      ],
+      "aliases": [
+        "GNU Bash",
+        "stack",
+        "tecnologias"
+      ],
+      "provenance": {
+        "kind": "third-party",
+        "author": "Simple Icons contributors / respective brand owners",
+        "collection": "Simple Icons",
+        "version": "16.35.0",
+        "source": "https://github.com/odb/official-bash-logo/tree/61eff022f2dad3c7468f5deb4f06652d15f2c143",
+        "upstream": "https://github.com/simple-icons/simple-icons/blob/16.35.0/icons/gnubash.svg",
+        "license": {
+          "type": "MIT",
+          "url": "https://spdx.org/licenses/MIT"
+        },
+        "guidelines": "https://github.com/odb/official-bash-logo",
+        "collectionLicense": "simple-icons-16-LICENSE.md"
+      },
+      "badges": {
+        "light": "badges/light/bash.svg",
+        "dark": "badges/dark/bash.svg"
+      },
+      "file": "svg/bash.svg",
+      "ink": "svg/ink/bash.svg",
+      "paper": "svg/paper/bash.svg"
+    },
+    {
+      "name": "react",
+      "label": "React",
+      "category": "technology",
+      "viewBox": "0 0 24 24",
+      "tags": [
+        "technology",
+        "framework",
+        "frontend"
+      ],
+      "aliases": [
+        "React",
+        "stack",
+        "tecnologias"
+      ],
+      "provenance": {
+        "kind": "third-party",
+        "author": "Simple Icons contributors / respective brand owners",
+        "collection": "Simple Icons",
+        "version": "16.35.0",
+        "source": "https://github.com/facebook/create-react-app/blob/282c03f9525fdf8061ffa1ec50dce89296d916bd/test/fixtures/relative-paths/src/logo.svg",
+        "upstream": "https://github.com/simple-icons/simple-icons/blob/16.35.0/icons/react.svg",
+        "license": null,
+        "guidelines": null,
+        "collectionLicense": "simple-icons-16-LICENSE.md"
+      },
+      "badges": {
+        "light": "badges/light/react.svg",
+        "dark": "badges/dark/react.svg"
+      },
+      "file": "svg/react.svg",
+      "ink": "svg/ink/react.svg",
+      "paper": "svg/paper/react.svg"
+    },
+    {
+      "name": "next-js",
+      "label": "Next.js",
+      "category": "technology",
+      "viewBox": "0 0 24 24",
+      "tags": [
+        "technology",
+        "framework",
+        "frontend"
+      ],
+      "aliases": [
+        "Next.js",
+        "stack",
+        "tecnologias"
+      ],
+      "provenance": {
+        "kind": "third-party",
+        "author": "Simple Icons contributors / respective brand owners",
+        "collection": "Simple Icons",
+        "version": "16.35.0",
+        "source": "https://vercel.com/design/brands#next-js",
+        "upstream": "https://github.com/simple-icons/simple-icons/blob/16.35.0/icons/nextdotjs.svg",
+        "license": null,
+        "guidelines": "https://vercel.com/design/brands#next-js",
+        "collectionLicense": "simple-icons-16-LICENSE.md"
+      },
+      "badges": {
+        "light": "badges/light/next-js.svg",
+        "dark": "badges/dark/next-js.svg"
+      },
+      "file": "svg/next-js.svg",
+      "ink": "svg/ink/next-js.svg",
+      "paper": "svg/paper/next-js.svg"
+    },
+    {
+      "name": "astro",
+      "label": "Astro",
+      "category": "technology",
+      "viewBox": "0 0 24 24",
+      "tags": [
+        "technology",
+        "framework",
+        "frontend"
+      ],
+      "aliases": [
+        "Astro",
+        "stack",
+        "tecnologias"
+      ],
+      "provenance": {
+        "kind": "third-party",
+        "author": "Simple Icons contributors / respective brand owners",
+        "collection": "Simple Icons",
+        "version": "16.35.0",
+        "source": "https://astro.build/press",
+        "upstream": "https://github.com/simple-icons/simple-icons/blob/16.35.0/icons/astro.svg",
+        "license": null,
+        "guidelines": null,
+        "collectionLicense": "simple-icons-16-LICENSE.md"
+      },
+      "badges": {
+        "light": "badges/light/astro.svg",
+        "dark": "badges/dark/astro.svg"
+      },
+      "file": "svg/astro.svg",
+      "ink": "svg/ink/astro.svg",
+      "paper": "svg/paper/astro.svg"
+    },
+    {
+      "name": "vue",
+      "label": "Vue.js",
+      "category": "technology",
+      "viewBox": "0 0 24 24",
+      "tags": [
+        "technology",
+        "framework",
+        "frontend"
+      ],
+      "aliases": [
+        "Vue.js",
+        "stack",
+        "tecnologias"
+      ],
+      "provenance": {
+        "kind": "third-party",
+        "author": "Simple Icons contributors / respective brand owners",
+        "collection": "Simple Icons",
+        "version": "16.35.0",
+        "source": "https://github.com/vuejs/art/blob/a1c78b74569b70a25300925b4eacfefcc143b8f6/logo.svg",
+        "upstream": "https://github.com/simple-icons/simple-icons/blob/16.35.0/icons/vuedotjs.svg",
+        "license": {
+          "type": "CC-BY-NC-SA-4.0",
+          "url": "https://spdx.org/licenses/CC-BY-NC-SA-4.0"
+        },
+        "guidelines": "https://github.com/vuejs/art/blob/a1c78b74569b70a25300925b4eacfefcc143b8f6/README.md",
+        "collectionLicense": "simple-icons-16-LICENSE.md"
+      },
+      "badges": {
+        "light": "badges/light/vue.svg",
+        "dark": "badges/dark/vue.svg"
+      },
+      "file": "svg/vue.svg",
+      "ink": "svg/ink/vue.svg",
+      "paper": "svg/paper/vue.svg"
+    },
+    {
+      "name": "svelte",
+      "label": "Svelte",
+      "category": "technology",
+      "viewBox": "0 0 24 24",
+      "tags": [
+        "technology",
+        "framework",
+        "frontend"
+      ],
+      "aliases": [
+        "Svelte",
+        "stack",
+        "tecnologias"
+      ],
+      "provenance": {
+        "kind": "third-party",
+        "author": "Simple Icons contributors / respective brand owners",
+        "collection": "Simple Icons",
+        "version": "16.35.0",
+        "source": "https://github.com/sveltejs/branding/blob/c4dfca6743572087a6aef0e109ffe3d95596e86a/svelte-logo.svg",
+        "upstream": "https://github.com/simple-icons/simple-icons/blob/16.35.0/icons/svelte.svg",
+        "license": null,
+        "guidelines": null,
+        "collectionLicense": "simple-icons-16-LICENSE.md"
+      },
+      "badges": {
+        "light": "badges/light/svelte.svg",
+        "dark": "badges/dark/svelte.svg"
+      },
+      "file": "svg/svelte.svg",
+      "ink": "svg/ink/svelte.svg",
+      "paper": "svg/paper/svelte.svg"
+    },
+    {
+      "name": "tailwind-css",
+      "label": "Tailwind CSS",
+      "category": "technology",
+      "viewBox": "0 0 24 24",
+      "tags": [
+        "technology",
+        "framework",
+        "frontend"
+      ],
+      "aliases": [
+        "Tailwind CSS",
+        "stack",
+        "tecnologias"
+      ],
+      "provenance": {
+        "kind": "third-party",
+        "author": "Simple Icons contributors / respective brand owners",
+        "collection": "Simple Icons",
+        "version": "16.35.0",
+        "source": "https://tailwindcss.com/brand",
+        "upstream": "https://github.com/simple-icons/simple-icons/blob/16.35.0/icons/tailwindcss.svg",
+        "license": null,
+        "guidelines": "https://tailwindcss.com/brand",
+        "collectionLicense": "simple-icons-16-LICENSE.md"
+      },
+      "badges": {
+        "light": "badges/light/tailwind-css.svg",
+        "dark": "badges/dark/tailwind-css.svg"
+      },
+      "file": "svg/tailwind-css.svg",
+      "ink": "svg/ink/tailwind-css.svg",
+      "paper": "svg/paper/tailwind-css.svg"
+    },
+    {
+      "name": "bun",
+      "label": "Bun",
+      "category": "technology",
+      "viewBox": "0 0 24 24",
+      "tags": [
+        "technology",
+        "runtime",
+        "backend",
+        "package-manager",
+        "javascript",
+        "typescript"
+      ],
+      "aliases": [
+        "Bun",
+        "stack",
+        "tecnologias"
+      ],
+      "provenance": {
+        "kind": "third-party",
+        "author": "Simple Icons contributors / respective brand owners",
+        "collection": "Simple Icons",
+        "version": "16.35.0",
+        "source": "https://bun.sh/press-kit",
+        "upstream": "https://github.com/simple-icons/simple-icons/blob/16.35.0/icons/bun.svg",
+        "license": null,
+        "guidelines": null,
+        "collectionLicense": "simple-icons-16-LICENSE.md"
+      },
+      "badges": {
+        "light": "badges/light/bun.svg",
+        "dark": "badges/dark/bun.svg"
+      },
+      "file": "svg/bun.svg",
+      "ink": "svg/ink/bun.svg",
+      "paper": "svg/paper/bun.svg"
+    },
+    {
+      "name": "node-js",
+      "label": "Node.js",
+      "category": "technology",
+      "viewBox": "0 0 24 24",
+      "tags": [
+        "technology",
+        "runtime",
+        "backend"
+      ],
+      "aliases": [
+        "Node.js",
+        "stack",
+        "tecnologias"
+      ],
+      "provenance": {
+        "kind": "third-party",
+        "author": "Simple Icons contributors / respective brand owners",
+        "collection": "Simple Icons",
+        "version": "16.35.0",
+        "source": "https://nodejs.org/en/about/branding",
+        "upstream": "https://github.com/simple-icons/simple-icons/blob/16.35.0/icons/nodedotjs.svg",
+        "license": null,
+        "guidelines": "https://nodejs.org/en/about/branding",
+        "collectionLicense": "simple-icons-16-LICENSE.md"
+      },
+      "badges": {
+        "light": "badges/light/node-js.svg",
+        "dark": "badges/dark/node-js.svg"
+      },
+      "file": "svg/node-js.svg",
+      "ink": "svg/ink/node-js.svg",
+      "paper": "svg/paper/node-js.svg"
+    },
+    {
+      "name": "vite",
+      "label": "Vite",
+      "category": "technology",
+      "viewBox": "0 0 24 24",
+      "tags": [
+        "technology",
+        "devops"
+      ],
+      "aliases": [
+        "Vite",
+        "stack",
+        "tecnologias"
+      ],
+      "provenance": {
+        "kind": "third-party",
+        "author": "Simple Icons contributors / respective brand owners",
+        "collection": "Simple Icons",
+        "version": "16.35.0",
+        "source": "https://github.com/voidzero-dev/community-design-resources/blob/55902097229cf01cf2a4ceb376f992f5cf306756/brand-assets/vite/vite-icon-color-bracketless.svg",
+        "upstream": "https://github.com/simple-icons/simple-icons/blob/16.35.0/icons/vite.svg",
+        "license": null,
+        "guidelines": null,
+        "collectionLicense": "simple-icons-16-LICENSE.md"
+      },
+      "badges": {
+        "light": "badges/light/vite.svg",
+        "dark": "badges/dark/vite.svg"
+      },
+      "file": "svg/vite.svg",
+      "ink": "svg/ink/vite.svg",
+      "paper": "svg/paper/vite.svg"
+    },
+    {
+      "name": "git",
+      "label": "Git",
+      "category": "technology",
+      "viewBox": "0 0 24 24",
+      "tags": [
+        "technology",
+        "devops"
+      ],
+      "aliases": [
+        "Git",
+        "stack",
+        "tecnologias"
+      ],
+      "provenance": {
+        "kind": "third-party",
+        "author": "Simple Icons contributors / respective brand owners",
+        "collection": "Simple Icons",
+        "version": "16.35.0",
+        "source": "https://git-scm.com/community/logos",
+        "upstream": "https://github.com/simple-icons/simple-icons/blob/16.35.0/icons/git.svg",
+        "license": {
+          "type": "CC-BY-3.0",
+          "url": "https://spdx.org/licenses/CC-BY-3.0"
+        },
+        "guidelines": null,
+        "collectionLicense": "simple-icons-16-LICENSE.md"
+      },
+      "badges": {
+        "light": "badges/light/git.svg",
+        "dark": "badges/dark/git.svg"
+      },
+      "file": "svg/git.svg",
+      "ink": "svg/ink/git.svg",
+      "paper": "svg/paper/git.svg"
+    },
+    {
+      "name": "docker",
+      "label": "Docker",
+      "category": "technology",
+      "viewBox": "0 0 24 24",
+      "tags": [
+        "technology",
+        "devops"
+      ],
+      "aliases": [
+        "Docker",
+        "stack",
+        "tecnologias"
+      ],
+      "provenance": {
+        "kind": "third-party",
+        "author": "Simple Icons contributors / respective brand owners",
+        "collection": "Simple Icons",
+        "version": "16.35.0",
+        "source": "https://www.docker.com/company/newsroom/media-resources",
+        "upstream": "https://github.com/simple-icons/simple-icons/blob/16.35.0/icons/docker.svg",
+        "license": null,
+        "guidelines": null,
+        "collectionLicense": "simple-icons-16-LICENSE.md"
+      },
+      "badges": {
+        "light": "badges/light/docker.svg",
+        "dark": "badges/dark/docker.svg"
+      },
+      "file": "svg/docker.svg",
+      "ink": "svg/ink/docker.svg",
+      "paper": "svg/paper/docker.svg"
+    },
+    {
+      "name": "linux",
+      "label": "Linux",
+      "category": "technology",
+      "viewBox": "0 0 24 24",
+      "tags": [
+        "technology",
+        "devops"
+      ],
+      "aliases": [
+        "Linux",
+        "stack",
+        "tecnologias"
+      ],
+      "provenance": {
+        "kind": "third-party",
+        "author": "Simple Icons contributors / respective brand owners",
+        "collection": "Simple Icons",
+        "version": "16.35.0",
+        "source": "https://www.linuxfoundation.org/the-linux-mark/",
+        "upstream": "https://github.com/simple-icons/simple-icons/blob/16.35.0/icons/linux.svg",
+        "license": null,
+        "guidelines": null,
+        "collectionLicense": "simple-icons-16-LICENSE.md"
+      },
+      "badges": {
+        "light": "badges/light/linux.svg",
+        "dark": "badges/dark/linux.svg"
+      },
+      "file": "svg/linux.svg",
+      "ink": "svg/ink/linux.svg",
+      "paper": "svg/paper/linux.svg"
+    },
+    {
+      "name": "arch-linux",
+      "label": "Arch Linux",
+      "category": "technology",
+      "viewBox": "0 0 24 24",
+      "tags": [
+        "technology",
+        "devops"
+      ],
+      "aliases": [
+        "Arch Linux",
+        "stack",
+        "tecnologias"
+      ],
+      "provenance": {
+        "kind": "third-party",
+        "author": "Simple Icons contributors / respective brand owners",
+        "collection": "Simple Icons",
+        "version": "16.35.0",
+        "source": "https://www.archlinux.org/art",
+        "upstream": "https://github.com/simple-icons/simple-icons/blob/16.35.0/icons/archlinux.svg",
+        "license": null,
+        "guidelines": "https://wiki.archlinux.org/index.php/DeveloperWiki:TrademarkPolicy#Logo_Usage_Guidelines",
+        "collectionLicense": "simple-icons-16-LICENSE.md"
+      },
+      "badges": {
+        "light": "badges/light/arch-linux.svg",
+        "dark": "badges/dark/arch-linux.svg"
+      },
+      "file": "svg/arch-linux.svg",
+      "ink": "svg/ink/arch-linux.svg",
+      "paper": "svg/paper/arch-linux.svg"
+    },
+    {
+      "name": "github-actions",
+      "label": "GitHub Actions",
+      "category": "technology",
+      "viewBox": "0 0 24 24",
+      "tags": [
+        "technology",
+        "devops"
+      ],
+      "aliases": [
+        "GitHub Actions",
+        "stack",
+        "tecnologias"
+      ],
+      "provenance": {
+        "kind": "third-party",
+        "author": "Simple Icons contributors / respective brand owners",
+        "collection": "Simple Icons",
+        "version": "16.35.0",
+        "source": "https://github.com/features/actions",
+        "upstream": "https://github.com/simple-icons/simple-icons/blob/16.35.0/icons/githubactions.svg",
+        "license": null,
+        "guidelines": null,
+        "collectionLicense": "simple-icons-16-LICENSE.md"
+      },
+      "badges": {
+        "light": "badges/light/github-actions.svg",
+        "dark": "badges/dark/github-actions.svg"
+      },
+      "file": "svg/github-actions.svg",
+      "ink": "svg/ink/github-actions.svg",
+      "paper": "svg/paper/github-actions.svg"
+    },
+    {
+      "name": "vercel",
+      "label": "Vercel",
+      "category": "technology",
+      "viewBox": "0 0 24 24",
+      "tags": [
+        "technology",
+        "devops"
+      ],
+      "aliases": [
+        "Vercel",
+        "stack",
+        "tecnologias"
+      ],
+      "provenance": {
+        "kind": "third-party",
+        "author": "Simple Icons contributors / respective brand owners",
+        "collection": "Simple Icons",
+        "version": "16.35.0",
+        "source": "https://vercel.com/geist/brands",
+        "upstream": "https://github.com/simple-icons/simple-icons/blob/16.35.0/icons/vercel.svg",
+        "license": null,
+        "guidelines": "https://vercel.com/geist/brands",
+        "collectionLicense": "simple-icons-16-LICENSE.md"
+      },
+      "badges": {
+        "light": "badges/light/vercel.svg",
+        "dark": "badges/dark/vercel.svg"
+      },
+      "file": "svg/vercel.svg",
+      "ink": "svg/ink/vercel.svg",
+      "paper": "svg/paper/vercel.svg"
+    },
+    {
+      "name": "aws",
+      "label": "Amazon AWS",
+      "category": "technology",
+      "viewBox": "0 0 24 24",
+      "tags": [
+        "technology",
+        "devops"
+      ],
+      "aliases": [
+        "Amazon AWS",
+        "stack",
+        "tecnologias"
+      ],
+      "provenance": {
+        "kind": "third-party",
+        "author": "Simple Icons contributors / respective brand owners",
+        "collection": "Simple Icons",
+        "version": "11.15.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Amazon_Web_Services_Logo.svg",
+        "upstream": "https://github.com/simple-icons/simple-icons/blob/11.15.0/icons/amazonaws.svg",
+        "license": null,
+        "guidelines": null,
+        "collectionLicense": "simple-icons-LICENSE.md"
+      },
+      "badges": {
+        "light": "badges/light/aws.svg",
+        "dark": "badges/dark/aws.svg"
+      },
+      "file": "svg/aws.svg",
+      "ink": "svg/ink/aws.svg",
+      "paper": "svg/paper/aws.svg"
+    },
+    {
+      "name": "postgresql",
+      "label": "PostgreSQL",
+      "category": "technology",
+      "viewBox": "0 0 24 24",
+      "tags": [
+        "technology",
+        "database",
+        "backend"
+      ],
+      "aliases": [
+        "PostgreSQL",
+        "stack",
+        "tecnologias"
+      ],
+      "provenance": {
+        "kind": "third-party",
+        "author": "Simple Icons contributors / respective brand owners",
+        "collection": "Simple Icons",
+        "version": "16.35.0",
+        "source": "https://wiki.postgresql.org/wiki/Logo",
+        "upstream": "https://github.com/simple-icons/simple-icons/blob/16.35.0/icons/postgresql.svg",
+        "license": null,
+        "guidelines": "https://www.postgresql.org/about/policies/trademarks/",
+        "collectionLicense": "simple-icons-16-LICENSE.md"
+      },
+      "badges": {
+        "light": "badges/light/postgresql.svg",
+        "dark": "badges/dark/postgresql.svg"
+      },
+      "file": "svg/postgresql.svg",
+      "ink": "svg/ink/postgresql.svg",
+      "paper": "svg/paper/postgresql.svg"
+    },
+    {
+      "name": "sqlite",
+      "label": "SQLite",
+      "category": "technology",
+      "viewBox": "0 0 24 24",
+      "tags": [
+        "technology",
+        "database",
+        "backend"
+      ],
+      "aliases": [
+        "SQLite",
+        "stack",
+        "tecnologias"
+      ],
+      "provenance": {
+        "kind": "third-party",
+        "author": "Simple Icons contributors / respective brand owners",
+        "collection": "Simple Icons",
+        "version": "16.35.0",
+        "source": "https://github.com/sqlite/sqlite/blob/43e862723ec680542ca6f608f9963c0993dd7324/art/sqlite370.eps",
+        "upstream": "https://github.com/simple-icons/simple-icons/blob/16.35.0/icons/sqlite.svg",
+        "license": null,
+        "guidelines": null,
+        "collectionLicense": "simple-icons-16-LICENSE.md"
+      },
+      "badges": {
+        "light": "badges/light/sqlite.svg",
+        "dark": "badges/dark/sqlite.svg"
+      },
+      "file": "svg/sqlite.svg",
+      "ink": "svg/ink/sqlite.svg",
+      "paper": "svg/paper/sqlite.svg"
+    },
+    {
+      "name": "redis",
+      "label": "Redis",
+      "category": "technology",
+      "viewBox": "0 0 24 24",
+      "tags": [
+        "technology",
+        "database",
+        "backend"
+      ],
+      "aliases": [
+        "Redis",
+        "stack",
+        "tecnologias"
+      ],
+      "provenance": {
+        "kind": "third-party",
+        "author": "Simple Icons contributors / respective brand owners",
+        "collection": "Simple Icons",
+        "version": "16.35.0",
+        "source": "https://redis.io/brand-guidelines",
+        "upstream": "https://github.com/simple-icons/simple-icons/blob/16.35.0/icons/redis.svg",
+        "license": null,
+        "guidelines": "https://redis.io/brand-guidelines",
+        "collectionLicense": "simple-icons-16-LICENSE.md"
+      },
+      "badges": {
+        "light": "badges/light/redis.svg",
+        "dark": "badges/dark/redis.svg"
+      },
+      "file": "svg/redis.svg",
+      "ink": "svg/ink/redis.svg",
+      "paper": "svg/paper/redis.svg"
+    },
+    {
+      "name": "figma",
+      "label": "Figma",
+      "category": "technology",
+      "viewBox": "0 0 24 24",
+      "tags": [
+        "technology",
+        "design"
+      ],
+      "aliases": [
+        "Figma",
+        "stack",
+        "tecnologias"
+      ],
+      "provenance": {
+        "kind": "third-party",
+        "author": "Simple Icons contributors / respective brand owners",
+        "collection": "Simple Icons",
+        "version": "16.35.0",
+        "source": "https://www.figma.com/using-the-figma-brand/",
+        "upstream": "https://github.com/simple-icons/simple-icons/blob/16.35.0/icons/figma.svg",
+        "license": null,
+        "guidelines": "https://www.figma.com/using-the-figma-brand/",
+        "collectionLicense": "simple-icons-16-LICENSE.md"
+      },
+      "badges": {
+        "light": "badges/light/figma.svg",
+        "dark": "badges/dark/figma.svg"
+      },
+      "file": "svg/figma.svg",
+      "ink": "svg/ink/figma.svg",
+      "paper": "svg/paper/figma.svg"
+    },
+    {
+      "name": "blender",
+      "label": "Blender",
+      "category": "technology",
+      "viewBox": "0 0 24 24",
+      "tags": [
+        "technology",
+        "design",
+        "3d"
+      ],
+      "aliases": [
+        "Blender",
+        "stack",
+        "tecnologias"
+      ],
+      "provenance": {
+        "kind": "third-party",
+        "author": "Simple Icons contributors / respective brand owners",
+        "collection": "Simple Icons",
+        "version": "16.35.0",
+        "source": "https://www.blender.org/about/logo",
+        "upstream": "https://github.com/simple-icons/simple-icons/blob/16.35.0/icons/blender.svg",
+        "license": null,
+        "guidelines": "https://www.blender.org/about/logo",
+        "collectionLicense": "simple-icons-16-LICENSE.md"
+      },
+      "badges": {
+        "light": "badges/light/blender.svg",
+        "dark": "badges/dark/blender.svg"
+      },
+      "file": "svg/blender.svg",
+      "ink": "svg/ink/blender.svg",
+      "paper": "svg/paper/blender.svg"
+    },
+    {
+      "name": "three-js",
+      "label": "Three.js",
+      "category": "technology",
+      "viewBox": "0 0 24 24",
+      "tags": [
+        "technology",
+        "design",
+        "3d"
+      ],
+      "aliases": [
+        "Three.js",
+        "stack",
+        "tecnologias"
+      ],
+      "provenance": {
+        "kind": "third-party",
+        "author": "Simple Icons contributors / respective brand owners",
+        "collection": "Simple Icons",
+        "version": "16.35.0",
+        "source": "https://github.com/mrdoob/three.js/blob/a567b810cfcb7f6a03e4faea99f03c53081da477/files/icon.svg",
+        "upstream": "https://github.com/simple-icons/simple-icons/blob/16.35.0/icons/threedotjs.svg",
+        "license": null,
+        "guidelines": null,
+        "collectionLicense": "simple-icons-16-LICENSE.md"
+      },
+      "badges": {
+        "light": "badges/light/three-js.svg",
+        "dark": "badges/dark/three-js.svg"
+      },
+      "file": "svg/three-js.svg",
+      "ink": "svg/ink/three-js.svg",
+      "paper": "svg/paper/three-js.svg"
+    },
+    {
+      "name": "gsap",
+      "label": "GSAP",
+      "category": "technology",
+      "viewBox": "0 0 24 24",
+      "tags": [
+        "technology",
+        "design"
+      ],
+      "aliases": [
+        "GreenSock",
+        "stack",
+        "tecnologias"
+      ],
+      "provenance": {
+        "kind": "third-party",
+        "author": "Simple Icons contributors / respective brand owners",
+        "collection": "Simple Icons",
+        "version": "16.35.0",
+        "source": "https://gsap.com/brand/",
+        "upstream": "https://github.com/simple-icons/simple-icons/blob/16.35.0/icons/gsap.svg",
+        "license": null,
+        "guidelines": "https://gsap.com/brand/",
+        "collectionLicense": "simple-icons-16-LICENSE.md"
+      },
+      "badges": {
+        "light": "badges/light/gsap.svg",
+        "dark": "badges/dark/gsap.svg"
+      },
+      "file": "svg/gsap.svg",
+      "ink": "svg/ink/gsap.svg",
+      "paper": "svg/paper/gsap.svg"
+    },
+    {
+      "name": "github",
+      "label": "GitHub",
+      "category": "technology",
+      "viewBox": "0 0 24 24",
+      "tags": [
+        "social",
+        "technology",
+        "git",
+        "repository",
+        "community"
+      ],
+      "aliases": [
+        "GitHub",
+        "stack",
+        "tecnologias"
+      ],
+      "provenance": {
+        "kind": "third-party",
+        "author": "Simple Icons contributors / respective brand owners",
+        "collection": "Simple Icons",
+        "version": "16.35.0",
+        "source": "https://github.com/logos",
+        "upstream": "https://github.com/simple-icons/simple-icons/blob/16.35.0/icons/github.svg",
+        "license": null,
+        "guidelines": "https://github.com/logos",
+        "collectionLicense": "simple-icons-16-LICENSE.md"
+      },
+      "badges": {
+        "light": "badges/light/github.svg",
+        "dark": "badges/dark/github.svg"
+      },
+      "file": "svg/github.svg",
+      "ink": "svg/ink/github.svg",
+      "paper": "svg/paper/github.svg"
+    },
+    {
+      "name": "gitlab",
+      "label": "GitLab",
+      "category": "technology",
+      "viewBox": "0 0 24 24",
+      "tags": [
+        "social",
+        "technology",
+        "git",
+        "repository",
+        "community"
+      ],
+      "aliases": [
+        "GitLab",
+        "stack",
+        "tecnologias"
+      ],
+      "provenance": {
+        "kind": "third-party",
+        "author": "Simple Icons contributors / respective brand owners",
+        "collection": "Simple Icons",
+        "version": "16.35.0",
+        "source": "https://about.gitlab.com/press/press-kit/",
+        "upstream": "https://github.com/simple-icons/simple-icons/blob/16.35.0/icons/gitlab.svg",
+        "license": null,
+        "guidelines": "https://about.gitlab.com/handbook/marketing/corporate-marketing/brand-activation/trademark-guidelines/",
+        "collectionLicense": "simple-icons-16-LICENSE.md"
+      },
+      "badges": {
+        "light": "badges/light/gitlab.svg",
+        "dark": "badges/dark/gitlab.svg"
+      },
+      "file": "svg/gitlab.svg",
+      "ink": "svg/ink/gitlab.svg",
+      "paper": "svg/paper/gitlab.svg"
+    },
+    {
+      "name": "linkedin",
+      "label": "LinkedIn",
+      "category": "social",
+      "viewBox": "0 0 24 24",
+      "tags": [
+        "social",
+        "contact"
+      ],
+      "aliases": [
+        "LinkedIn"
+      ],
+      "provenance": {
+        "kind": "third-party",
+        "author": "Simple Icons contributors / respective brand owners",
+        "collection": "Simple Icons",
+        "version": "11.15.0",
+        "source": "https://brand.linkedin.com",
+        "upstream": "https://github.com/simple-icons/simple-icons/blob/11.15.0/icons/linkedin.svg",
+        "license": null,
+        "guidelines": "https://brand.linkedin.com/policies",
+        "collectionLicense": "simple-icons-LICENSE.md"
+      },
+      "badges": {
+        "light": "badges/light/linkedin.svg",
+        "dark": "badges/dark/linkedin.svg"
+      },
+      "file": "svg/linkedin.svg",
+      "ink": "svg/ink/linkedin.svg",
+      "paper": "svg/paper/linkedin.svg"
+    },
+    {
+      "name": "instagram",
+      "label": "Instagram",
+      "category": "social",
+      "viewBox": "0 0 24 24",
+      "tags": [
+        "social"
+      ],
+      "aliases": [
+        "Instagram"
+      ],
+      "provenance": {
+        "kind": "third-party",
+        "author": "Simple Icons contributors / respective brand owners",
+        "collection": "Simple Icons",
+        "version": "16.35.0",
+        "source": "https://about.meta.com/brand/resources/instagram",
+        "upstream": "https://github.com/simple-icons/simple-icons/blob/16.35.0/icons/instagram.svg",
+        "license": null,
+        "guidelines": "https://about.meta.com/brand/resources/instagram",
+        "collectionLicense": "simple-icons-16-LICENSE.md"
+      },
+      "badges": {
+        "light": "badges/light/instagram.svg",
+        "dark": "badges/dark/instagram.svg"
+      },
+      "file": "svg/instagram.svg",
+      "ink": "svg/ink/instagram.svg",
+      "paper": "svg/paper/instagram.svg"
+    },
+    {
+      "name": "youtube",
+      "label": "YouTube",
+      "category": "social",
+      "viewBox": "0 0 24 24",
+      "tags": [
+        "social"
+      ],
+      "aliases": [
+        "YouTube"
+      ],
+      "provenance": {
+        "kind": "third-party",
+        "author": "Simple Icons contributors / respective brand owners",
+        "collection": "Simple Icons",
+        "version": "16.35.0",
+        "source": "https://www.youtube.com/howyoutubeworks/resources/brand-resources/#logos-icons-and-colors",
+        "upstream": "https://github.com/simple-icons/simple-icons/blob/16.35.0/icons/youtube.svg",
+        "license": null,
+        "guidelines": "https://www.youtube.com/howyoutubeworks/resources/brand-resources/#logos-icons-and-colors",
+        "collectionLicense": "simple-icons-16-LICENSE.md"
+      },
+      "badges": {
+        "light": "badges/light/youtube.svg",
+        "dark": "badges/dark/youtube.svg"
+      },
+      "file": "svg/youtube.svg",
+      "ink": "svg/ink/youtube.svg",
+      "paper": "svg/paper/youtube.svg"
+    },
+    {
+      "name": "x",
+      "label": "X",
+      "category": "social",
+      "viewBox": "0 0 24 24",
+      "tags": [
+        "social"
+      ],
+      "aliases": [
+        "X",
+        "Twitter",
+        "X/Twitter"
+      ],
+      "provenance": {
+        "kind": "third-party",
+        "author": "Simple Icons contributors / respective brand owners",
+        "collection": "Simple Icons",
+        "version": "16.35.0",
+        "source": "https://x.com",
+        "upstream": "https://github.com/simple-icons/simple-icons/blob/16.35.0/icons/x.svg",
+        "license": null,
+        "guidelines": "https://about.x.com/en/who-we-are/brand-toolkit",
+        "collectionLicense": "simple-icons-16-LICENSE.md"
+      },
+      "badges": {
+        "light": "badges/light/x.svg",
+        "dark": "badges/dark/x.svg"
+      },
+      "file": "svg/x.svg",
+      "ink": "svg/ink/x.svg",
+      "paper": "svg/paper/x.svg"
+    },
+    {
+      "name": "bluesky",
+      "label": "Bluesky",
+      "category": "social",
+      "viewBox": "0 0 24 24",
+      "tags": [
+        "social"
+      ],
+      "aliases": [
+        "Bluesky"
+      ],
+      "provenance": {
+        "kind": "third-party",
+        "author": "Simple Icons contributors / respective brand owners",
+        "collection": "Simple Icons",
+        "version": "16.35.0",
+        "source": "https://bsky.social/about/blog/press-faq",
+        "upstream": "https://github.com/simple-icons/simple-icons/blob/16.35.0/icons/bluesky.svg",
+        "license": null,
+        "guidelines": "https://bsky.social/about/blog/press-faq",
+        "collectionLicense": "simple-icons-16-LICENSE.md"
+      },
+      "badges": {
+        "light": "badges/light/bluesky.svg",
+        "dark": "badges/dark/bluesky.svg"
+      },
+      "file": "svg/bluesky.svg",
+      "ink": "svg/ink/bluesky.svg",
+      "paper": "svg/paper/bluesky.svg"
+    },
+    {
+      "name": "discord",
+      "label": "Discord",
+      "category": "social",
+      "viewBox": "0 0 24 24",
+      "tags": [
+        "social"
+      ],
+      "aliases": [
+        "Discord"
+      ],
+      "provenance": {
+        "kind": "third-party",
+        "author": "Simple Icons contributors / respective brand owners",
+        "collection": "Simple Icons",
+        "version": "16.35.0",
+        "source": "https://discord.com/branding",
+        "upstream": "https://github.com/simple-icons/simple-icons/blob/16.35.0/icons/discord.svg",
+        "license": null,
+        "guidelines": "https://discord.com/branding",
+        "collectionLicense": "simple-icons-16-LICENSE.md"
+      },
+      "badges": {
+        "light": "badges/light/discord.svg",
+        "dark": "badges/dark/discord.svg"
+      },
+      "file": "svg/discord.svg",
+      "ink": "svg/ink/discord.svg",
+      "paper": "svg/paper/discord.svg"
+    },
+    {
+      "name": "whatsapp",
+      "label": "WhatsApp",
+      "category": "social",
+      "viewBox": "0 0 24 24",
+      "tags": [
+        "social",
+        "contact"
+      ],
+      "aliases": [
+        "WhatsApp"
+      ],
+      "provenance": {
+        "kind": "third-party",
+        "author": "Simple Icons contributors / respective brand owners",
+        "collection": "Simple Icons",
+        "version": "16.35.0",
+        "source": "https://about.meta.com/brand/resources/whatsapp/whatsapp-brand",
+        "upstream": "https://github.com/simple-icons/simple-icons/blob/16.35.0/icons/whatsapp.svg",
+        "license": null,
+        "guidelines": "https://about.meta.com/brand/resources/whatsapp/whatsapp-brand",
+        "collectionLicense": "simple-icons-16-LICENSE.md"
+      },
+      "badges": {
+        "light": "badges/light/whatsapp.svg",
+        "dark": "badges/dark/whatsapp.svg"
+      },
+      "file": "svg/whatsapp.svg",
+      "ink": "svg/ink/whatsapp.svg",
+      "paper": "svg/paper/whatsapp.svg"
+    },
+    {
+      "name": "telegram",
+      "label": "Telegram",
+      "category": "social",
+      "viewBox": "0 0 24 24",
+      "tags": [
+        "social",
+        "contact"
+      ],
+      "aliases": [
+        "Telegram"
+      ],
+      "provenance": {
+        "kind": "third-party",
+        "author": "Simple Icons contributors / respective brand owners",
+        "collection": "Simple Icons",
+        "version": "16.35.0",
+        "source": "https://telegram.org/tour/screenshots",
+        "upstream": "https://github.com/simple-icons/simple-icons/blob/16.35.0/icons/telegram.svg",
+        "license": null,
+        "guidelines": null,
+        "collectionLicense": "simple-icons-16-LICENSE.md"
+      },
+      "badges": {
+        "light": "badges/light/telegram.svg",
+        "dark": "badges/dark/telegram.svg"
+      },
+      "file": "svg/telegram.svg",
+      "ink": "svg/ink/telegram.svg",
+      "paper": "svg/paper/telegram.svg"
+    },
+    {
+      "name": "sql",
+      "label": "SQL",
+      "category": "technology",
+      "viewBox": "0 0 24 24",
+      "tags": [
+        "database",
+        "backend",
+        "language"
+      ],
+      "aliases": [
+        "consulta",
+        "query"
+      ],
+      "provenance": {
+        "kind": "original",
+        "author": "Eduardo Augusto",
+        "license": "All rights reserved"
+      },
+      "badges": {
+        "light": "badges/light/sql.svg",
+        "dark": "badges/dark/sql.svg"
+      },
+      "file": "svg/sql.svg",
+      "ink": "svg/ink/sql.svg",
+      "paper": "svg/paper/sql.svg"
+    },
+    {
+      "name": "mail",
+      "label": "E-mail",
+      "category": "contact",
+      "viewBox": "0 0 24 24",
+      "tags": [
+        "contact",
+        "social",
+        "email"
+      ],
+      "aliases": [
+        "contato",
+        "contact",
+        "envelope"
+      ],
+      "provenance": {
+        "kind": "original",
+        "author": "Eduardo Augusto",
+        "license": "All rights reserved"
+      },
+      "badges": {
+        "light": "badges/light/mail.svg",
+        "dark": "badges/dark/mail.svg"
+      },
+      "file": "svg/mail.svg",
+      "ink": "svg/ink/mail.svg",
+      "paper": "svg/paper/mail.svg"
+    },
+    {
+      "name": "globe",
+      "label": "Site / portfólio",
+      "category": "contact",
+      "viewBox": "0 0 24 24",
+      "tags": [
+        "contact",
+        "social",
+        "website"
+      ],
+      "aliases": [
+        "site",
+        "portfolio",
+        "website",
+        "contato"
+      ],
+      "provenance": {
+        "kind": "original",
+        "author": "Eduardo Augusto",
+        "license": "All rights reserved"
+      },
+      "badges": {
+        "light": "badges/light/globe.svg",
+        "dark": "badges/dark/globe.svg"
+      },
+      "file": "svg/globe.svg",
+      "ink": "svg/ink/globe.svg",
+      "paper": "svg/paper/globe.svg"
+    },
+    {
+      "name": "user",
+      "label": "Sobre mim",
+      "category": "readme-section",
+      "viewBox": "0 0 24 24",
+      "tags": [
+        "readme-section",
+        "author"
+      ],
+      "aliases": [
+        "sobre",
+        "about",
+        "autor"
+      ],
+      "provenance": {
+        "kind": "original",
+        "author": "Eduardo Augusto",
+        "license": "All rights reserved"
+      },
+      "badges": {
+        "light": "badges/light/user.svg",
+        "dark": "badges/dark/user.svg"
+      },
+      "file": "svg/user.svg",
+      "ink": "svg/ink/user.svg",
+      "paper": "svg/paper/user.svg"
+    },
+    {
+      "name": "code",
+      "label": "Tecnologias / stack",
+      "category": "readme-section",
+      "viewBox": "0 0 24 24",
+      "tags": [
+        "readme-section",
+        "technology"
+      ],
+      "aliases": [
+        "tecnologias",
+        "stack",
+        "about-code"
+      ],
+      "provenance": {
+        "kind": "original",
+        "author": "Eduardo Augusto",
+        "license": "All rights reserved"
+      },
+      "badges": {
+        "light": "badges/light/code.svg",
+        "dark": "badges/dark/code.svg"
+      },
+      "file": "svg/code.svg",
+      "ink": "svg/ink/code.svg",
+      "paper": "svg/paper/code.svg"
+    },
+    {
+      "name": "folder",
+      "label": "Projetos",
+      "category": "readme-section",
+      "viewBox": "0 0 24 24",
+      "tags": [
+        "readme-section",
+        "repository"
+      ],
+      "aliases": [
+        "projetos",
+        "portfolio",
+        "projects"
+      ],
+      "provenance": {
+        "kind": "original",
+        "author": "Eduardo Augusto",
+        "license": "All rights reserved"
+      },
+      "badges": {
+        "light": "badges/light/folder.svg",
+        "dark": "badges/dark/folder.svg"
+      },
+      "file": "svg/folder.svg",
+      "ink": "svg/ink/folder.svg",
+      "paper": "svg/paper/folder.svg"
+    },
+    {
+      "name": "sparkles",
+      "label": "Funcionalidades",
+      "category": "readme-section",
+      "viewBox": "0 0 24 24",
+      "tags": [
+        "readme-section",
+        "interface"
+      ],
+      "aliases": [
+        "features",
+        "funcionalidades"
+      ],
+      "provenance": {
+        "kind": "original",
+        "author": "Eduardo Augusto",
+        "license": "All rights reserved"
+      },
+      "badges": {
+        "light": "badges/light/sparkles.svg",
+        "dark": "badges/dark/sparkles.svg"
+      },
+      "file": "svg/sparkles.svg",
+      "ink": "svg/ink/sparkles.svg",
+      "paper": "svg/paper/sparkles.svg"
+    },
+    {
+      "name": "rocket",
+      "label": "Começando",
+      "category": "readme-section",
+      "viewBox": "0 0 24 24",
+      "tags": [
+        "readme-section",
+        "installation"
+      ],
+      "aliases": [
+        "getting-started",
+        "inicio",
+        "instalação"
+      ],
+      "provenance": {
+        "kind": "original",
+        "author": "Eduardo Augusto",
+        "license": "All rights reserved"
+      },
+      "badges": {
+        "light": "badges/light/rocket.svg",
+        "dark": "badges/dark/rocket.svg"
+      },
+      "file": "svg/rocket.svg",
+      "ink": "svg/ink/rocket.svg",
+      "paper": "svg/paper/rocket.svg"
+    },
+    {
+      "name": "download",
+      "label": "Instalação",
+      "category": "readme-section",
+      "viewBox": "0 0 24 24",
+      "tags": [
+        "readme-section",
+        "installation",
+        "navigation"
+      ],
+      "aliases": [
+        "download",
+        "instalar",
+        "instalação"
+      ],
+      "provenance": {
+        "kind": "original",
+        "author": "Eduardo Augusto",
+        "license": "All rights reserved"
+      },
+      "badges": {
+        "light": "badges/light/download.svg",
+        "dark": "badges/dark/download.svg"
+      },
+      "file": "svg/download.svg",
+      "ink": "svg/ink/download.svg",
+      "paper": "svg/paper/download.svg"
+    },
+    {
+      "name": "terminal",
+      "label": "Uso / comandos",
+      "category": "readme-section",
+      "viewBox": "0 0 24 24",
+      "tags": [
+        "readme-section",
+        "interface"
+      ],
+      "aliases": [
+        "usage",
+        "uso",
+        "comandos",
+        "shell"
+      ],
+      "provenance": {
+        "kind": "original",
+        "author": "Eduardo Augusto",
+        "license": "All rights reserved"
+      },
+      "badges": {
+        "light": "badges/light/terminal.svg",
+        "dark": "badges/dark/terminal.svg"
+      },
+      "file": "svg/terminal.svg",
+      "ink": "svg/ink/terminal.svg",
+      "paper": "svg/paper/terminal.svg"
+    },
+    {
+      "name": "book-open",
+      "label": "Documentação",
+      "category": "readme-section",
+      "viewBox": "0 0 24 24",
+      "tags": [
+        "readme-section",
+        "documentation",
+        "docs"
+      ],
+      "aliases": [
+        "documentacao",
+        "documentation",
+        "docs"
+      ],
+      "provenance": {
+        "kind": "original",
+        "author": "Eduardo Augusto",
+        "license": "All rights reserved"
+      },
+      "badges": {
+        "light": "badges/light/book-open.svg",
+        "dark": "badges/dark/book-open.svg"
+      },
+      "file": "svg/book-open.svg",
+      "ink": "svg/ink/book-open.svg",
+      "paper": "svg/paper/book-open.svg"
+    },
+    {
+      "name": "layers",
+      "label": "Arquitetura",
+      "category": "readme-section",
+      "viewBox": "0 0 24 24",
+      "tags": [
+        "readme-section",
+        "architecture"
+      ],
+      "aliases": [
+        "arquitetura",
+        "architecture"
+      ],
+      "provenance": {
+        "kind": "original",
+        "author": "Eduardo Augusto",
+        "license": "All rights reserved"
+      },
+      "badges": {
+        "light": "badges/light/layers.svg",
+        "dark": "badges/dark/layers.svg"
+      },
+      "file": "svg/layers.svg",
+      "ink": "svg/ink/layers.svg",
+      "paper": "svg/paper/layers.svg"
+    },
+    {
+      "name": "settings",
+      "label": "Configuração",
+      "category": "readme-section",
+      "viewBox": "0 0 24 24",
+      "tags": [
+        "readme-section",
+        "interface"
+      ],
+      "aliases": [
+        "configuracao",
+        "configuration",
+        "settings"
+      ],
+      "provenance": {
+        "kind": "original",
+        "author": "Eduardo Augusto",
+        "license": "All rights reserved"
+      },
+      "badges": {
+        "light": "badges/light/settings.svg",
+        "dark": "badges/dark/settings.svg"
+      },
+      "file": "svg/settings.svg",
+      "ink": "svg/ink/settings.svg",
+      "paper": "svg/paper/settings.svg"
+    },
+    {
+      "name": "flask",
+      "label": "Testes",
+      "category": "readme-section",
+      "viewBox": "0 0 24 24",
+      "tags": [
+        "readme-section",
+        "testing"
+      ],
+      "aliases": [
+        "testes",
+        "tests",
+        "testing"
+      ],
+      "provenance": {
+        "kind": "original",
+        "author": "Eduardo Augusto",
+        "license": "All rights reserved"
+      },
+      "badges": {
+        "light": "badges/light/flask.svg",
+        "dark": "badges/dark/flask.svg"
+      },
+      "file": "svg/flask.svg",
+      "ink": "svg/ink/flask.svg",
+      "paper": "svg/paper/flask.svg"
+    },
+    {
+      "name": "map",
+      "label": "Roadmap",
+      "category": "readme-section",
+      "viewBox": "0 0 24 24",
+      "tags": [
+        "readme-section",
+        "planning"
+      ],
+      "aliases": [
+        "roadmap",
+        "planejamento"
+      ],
+      "provenance": {
+        "kind": "original",
+        "author": "Eduardo Augusto",
+        "license": "All rights reserved"
+      },
+      "badges": {
+        "light": "badges/light/map.svg",
+        "dark": "badges/dark/map.svg"
+      },
+      "file": "svg/map.svg",
+      "ink": "svg/ink/map.svg",
+      "paper": "svg/paper/map.svg"
+    },
+    {
+      "name": "users",
+      "label": "Comunidade",
+      "category": "readme-section",
+      "viewBox": "0 0 24 24",
+      "tags": [
+        "readme-section",
+        "community",
+        "social"
+      ],
+      "aliases": [
+        "contribuicao",
+        "community",
+        "comunidade"
+      ],
+      "provenance": {
+        "kind": "original",
+        "author": "Eduardo Augusto",
+        "license": "All rights reserved"
+      },
+      "badges": {
+        "light": "badges/light/users.svg",
+        "dark": "badges/dark/users.svg"
+      },
+      "file": "svg/users.svg",
+      "ink": "svg/ink/users.svg",
+      "paper": "svg/paper/users.svg"
+    },
+    {
+      "name": "git-pull-request",
+      "label": "Contribuição",
+      "category": "readme-section",
+      "viewBox": "0 0 24 24",
+      "tags": [
+        "readme-section",
+        "git",
+        "community"
+      ],
+      "aliases": [
+        "contribuicao",
+        "contribution",
+        "pull-request"
+      ],
+      "provenance": {
+        "kind": "original",
+        "author": "Eduardo Augusto",
+        "license": "All rights reserved"
+      },
+      "badges": {
+        "light": "badges/light/git-pull-request.svg",
+        "dark": "badges/dark/git-pull-request.svg"
+      },
+      "file": "svg/git-pull-request.svg",
+      "ink": "svg/ink/git-pull-request.svg",
+      "paper": "svg/paper/git-pull-request.svg"
+    },
+    {
+      "name": "history",
+      "label": "Changelog",
+      "category": "readme-section",
+      "viewBox": "0 0 24 24",
+      "tags": [
+        "readme-section",
+        "version"
+      ],
+      "aliases": [
+        "changelog",
+        "historico",
+        "versões"
+      ],
+      "provenance": {
+        "kind": "original",
+        "author": "Eduardo Augusto",
+        "license": "All rights reserved"
+      },
+      "badges": {
+        "light": "badges/light/history.svg",
+        "dark": "badges/dark/history.svg"
+      },
+      "file": "svg/history.svg",
+      "ink": "svg/ink/history.svg",
+      "paper": "svg/paper/history.svg"
+    },
+    {
+      "name": "tag",
+      "label": "Versões",
+      "category": "readme-section",
+      "viewBox": "0 0 24 24",
+      "tags": [
+        "readme-section",
+        "version"
+      ],
+      "aliases": [
+        "tag",
+        "release",
+        "versoes"
+      ],
+      "provenance": {
+        "kind": "original",
+        "author": "Eduardo Augusto",
+        "license": "All rights reserved"
+      },
+      "badges": {
+        "light": "badges/light/tag.svg",
+        "dark": "badges/dark/tag.svg"
+      },
+      "file": "svg/tag.svg",
+      "ink": "svg/ink/tag.svg",
+      "paper": "svg/paper/tag.svg"
+    },
+    {
+      "name": "scale",
+      "label": "Licença",
+      "category": "readme-section",
+      "viewBox": "0 0 24 24",
+      "tags": [
+        "readme-section",
+        "license"
+      ],
+      "aliases": [
+        "licenca",
+        "license"
+      ],
+      "provenance": {
+        "kind": "original",
+        "author": "Eduardo Augusto",
+        "license": "All rights reserved"
+      },
+      "badges": {
+        "light": "badges/light/scale.svg",
+        "dark": "badges/dark/scale.svg"
+      },
+      "file": "svg/scale.svg",
+      "ink": "svg/ink/scale.svg",
+      "paper": "svg/paper/scale.svg"
+    },
+    {
+      "name": "message-circle",
+      "label": "Contato",
+      "category": "contact",
+      "viewBox": "0 0 24 24",
+      "tags": [
+        "readme-section",
+        "contact",
+        "social"
+      ],
+      "aliases": [
+        "contato",
+        "contact",
+        "mensagem"
+      ],
+      "provenance": {
+        "kind": "original",
+        "author": "Eduardo Augusto",
+        "license": "All rights reserved"
+      },
+      "badges": {
+        "light": "badges/light/message-circle.svg",
+        "dark": "badges/dark/message-circle.svg"
+      },
+      "file": "svg/message-circle.svg",
+      "ink": "svg/ink/message-circle.svg",
+      "paper": "svg/paper/message-circle.svg"
+    },
+    {
+      "name": "link",
+      "label": "Link",
+      "category": "interface",
+      "viewBox": "0 0 24 24",
+      "tags": [
+        "interface",
+        "navigation"
+      ],
+      "aliases": [
+        "link",
+        "url",
+        "ligação"
+      ],
+      "provenance": {
+        "kind": "original",
+        "author": "Eduardo Augusto",
+        "license": "All rights reserved"
+      },
+      "badges": {
+        "light": "badges/light/link.svg",
+        "dark": "badges/dark/link.svg"
+      },
+      "file": "svg/link.svg",
+      "ink": "svg/ink/link.svg",
+      "paper": "svg/paper/link.svg"
+    },
+    {
+      "name": "copy",
+      "label": "Copiar",
+      "category": "interface",
+      "viewBox": "0 0 24 24",
+      "tags": [
+        "interface"
+      ],
+      "aliases": [
+        "copiar",
+        "copy"
+      ],
+      "provenance": {
+        "kind": "original",
+        "author": "Eduardo Augusto",
+        "license": "All rights reserved"
+      },
+      "badges": {
+        "light": "badges/light/copy.svg",
+        "dark": "badges/dark/copy.svg"
+      },
+      "file": "svg/copy.svg",
+      "ink": "svg/ink/copy.svg",
+      "paper": "svg/paper/copy.svg"
+    },
+    {
+      "name": "search",
+      "label": "Busca",
+      "category": "interface",
+      "viewBox": "0 0 24 24",
+      "tags": [
+        "interface",
+        "navigation"
+      ],
+      "aliases": [
+        "busca",
+        "search",
+        "pesquisar"
+      ],
+      "provenance": {
+        "kind": "original",
+        "author": "Eduardo Augusto",
+        "license": "All rights reserved"
+      },
+      "badges": {
+        "light": "badges/light/search.svg",
+        "dark": "badges/dark/search.svg"
+      },
+      "file": "svg/search.svg",
+      "ink": "svg/ink/search.svg",
+      "paper": "svg/paper/search.svg"
+    },
+    {
+      "name": "check",
+      "label": "Concluído",
+      "category": "status",
+      "viewBox": "0 0 24 24",
+      "tags": [
+        "status"
+      ],
+      "aliases": [
+        "concluido",
+        "check",
+        "sucesso",
+        "success"
+      ],
+      "provenance": {
+        "kind": "original",
+        "author": "Eduardo Augusto",
+        "license": "All rights reserved"
+      },
+      "badges": {
+        "light": "badges/light/check.svg",
+        "dark": "badges/dark/check.svg"
+      },
+      "file": "svg/check.svg",
+      "ink": "svg/ink/check.svg",
+      "paper": "svg/paper/check.svg"
+    },
+    {
+      "name": "alert-triangle",
+      "label": "Aviso",
+      "category": "status",
+      "viewBox": "0 0 24 24",
+      "tags": [
+        "status"
+      ],
+      "aliases": [
+        "aviso",
+        "warning",
+        "alert"
+      ],
+      "provenance": {
+        "kind": "original",
+        "author": "Eduardo Augusto",
+        "license": "All rights reserved"
+      },
+      "badges": {
+        "light": "badges/light/alert-triangle.svg",
+        "dark": "badges/dark/alert-triangle.svg"
+      },
+      "file": "svg/alert-triangle.svg",
+      "ink": "svg/ink/alert-triangle.svg",
+      "paper": "svg/paper/alert-triangle.svg"
+    },
+    {
+      "name": "info",
+      "label": "Informação",
+      "category": "status",
+      "viewBox": "0 0 24 24",
+      "tags": [
+        "status"
+      ],
+      "aliases": [
+        "informacao",
+        "info",
+        "information"
+      ],
+      "provenance": {
+        "kind": "original",
+        "author": "Eduardo Augusto",
+        "license": "All rights reserved"
+      },
+      "badges": {
+        "light": "badges/light/info.svg",
+        "dark": "badges/dark/info.svg"
+      },
+      "file": "svg/info.svg",
+      "ink": "svg/ink/info.svg",
+      "paper": "svg/paper/info.svg"
+    },
+    {
+      "name": "star",
+      "label": "Favoritos",
+      "category": "interface",
+      "viewBox": "0 0 24 24",
+      "tags": [
+        "interface"
+      ],
+      "aliases": [
+        "favoritos",
+        "star",
+        "favorite"
+      ],
+      "provenance": {
+        "kind": "original",
+        "author": "Eduardo Augusto",
+        "license": "All rights reserved"
+      },
+      "badges": {
+        "light": "badges/light/star.svg",
+        "dark": "badges/dark/star.svg"
+      },
+      "file": "svg/star.svg",
+      "ink": "svg/ink/star.svg",
+      "paper": "svg/paper/star.svg"
+    },
+    {
+      "name": "heart",
+      "label": "Apoio",
+      "category": "interface",
+      "viewBox": "0 0 24 24",
+      "tags": [
+        "interface",
+        "social"
+      ],
+      "aliases": [
+        "apoio",
+        "heart",
+        "support"
+      ],
+      "provenance": {
+        "kind": "original",
+        "author": "Eduardo Augusto",
+        "license": "All rights reserved"
+      },
+      "badges": {
+        "light": "badges/light/heart.svg",
+        "dark": "badges/dark/heart.svg"
+      },
+      "file": "svg/heart.svg",
+      "ink": "svg/ink/heart.svg",
+      "paper": "svg/paper/heart.svg"
+    },
+    {
+      "name": "chart",
+      "label": "Estatísticas",
+      "category": "interface",
+      "viewBox": "0 0 24 24",
+      "tags": [
+        "interface",
+        "statistics"
+      ],
+      "aliases": [
+        "estatisticas",
+        "chart",
+        "stats"
+      ],
+      "provenance": {
+        "kind": "original",
+        "author": "Eduardo Augusto",
+        "license": "All rights reserved"
+      },
+      "badges": {
+        "light": "badges/light/chart.svg",
+        "dark": "badges/dark/chart.svg"
+      },
+      "file": "svg/chart.svg",
+      "ink": "svg/ink/chart.svg",
+      "paper": "svg/paper/chart.svg"
+    },
+    {
+      "name": "shield",
+      "label": "Segurança",
+      "category": "status",
+      "viewBox": "0 0 24 24",
+      "tags": [
+        "status",
+        "security"
+      ],
+      "aliases": [
+        "seguranca",
+        "security",
+        "shield"
+      ],
+      "provenance": {
+        "kind": "original",
+        "author": "Eduardo Augusto",
+        "license": "All rights reserved"
+      },
+      "badges": {
+        "light": "badges/light/shield.svg",
+        "dark": "badges/dark/shield.svg"
+      },
+      "file": "svg/shield.svg",
+      "ink": "svg/ink/shield.svg",
+      "paper": "svg/paper/shield.svg"
+    },
+    {
+      "name": "bug",
+      "label": "Bugs",
+      "category": "status",
+      "viewBox": "0 0 24 24",
+      "tags": [
+        "status",
+        "testing"
+      ],
+      "aliases": [
+        "bug",
+        "falha",
+        "erro"
+      ],
+      "provenance": {
+        "kind": "original",
+        "author": "Eduardo Augusto",
+        "license": "All rights reserved"
+      },
+      "badges": {
+        "light": "badges/light/bug.svg",
+        "dark": "badges/dark/bug.svg"
+      },
+      "file": "svg/bug.svg",
+      "ink": "svg/ink/bug.svg",
+      "paper": "svg/paper/bug.svg"
     }
   ]
 }
