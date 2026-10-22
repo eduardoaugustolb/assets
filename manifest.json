@@ -1,0 +1,407 @@
+{
+  "schemaVersion": 1,
+  "version": "0.1.0",
+  "repository": "https://github.com/eduardoaugustolb/assets",
+  "license": "All rights reserved",
+  "icons": {
+    "status": "preparation",
+    "count": 0
+  },
+  "files": [
+    {
+      "path": ".gitattributes",
+      "bytes": 120,
+      "sha256": "dc64203f04e8a5a9cceb9f139611e7493c249275a0b588f89486adad4be6979f"
+    },
+    {
+      "path": ".gitignore",
+      "bytes": 48,
+      "sha256": "3215c34ef617dd134e3242b6f7b77478602f5c77490d8180f55ca6987e48d6bc"
+    },
+    {
+      "path": "CHANGELOG.md",
+      "bytes": 415,
+      "sha256": "e269b63d18069c7e7ba8f1574694ce196cc085af989d53b787555568b42198c7"
+    },
+    {
+      "path": "LICENSE.md",
+      "bytes": 1358,
+      "sha256": "dc7387b34492316b33996ce9e05eaddb1149e4f17d597c2a9d6651e15a69b6c8"
+    },
+    {
+      "path": "README.md",
+      "bytes": 2552,
+      "sha256": "578b391562bee2aaf9db7c0a6ec774b97b9c62ddb26fb4fd86ceb4d98f07e0aa"
+    },
+    {
+      "path": "brand/avatars/avatar-dark-1024.png",
+      "bytes": 26075,
+      "sha256": "92960bffe14c2208acf928949486f04474cc0828888f5e4b07098de70ae04639"
+    },
+    {
+      "path": "brand/avatars/avatar-dark-1024.svg",
+      "bytes": 718,
+      "sha256": "df2d1ed3142e735b6a99009a2fd1bbf1edf94174a1d8275f11ae78ee2571941a"
+    },
+    {
+      "path": "brand/avatars/avatar-dark-128.png",
+      "bytes": 2707,
+      "sha256": "51f593e4d00a7fdc638c4dddec78fd7a018b933a734466b237672d07c1e1c36a"
+    },
+    {
+      "path": "brand/avatars/avatar-dark-128.svg",
+      "bytes": 715,
+      "sha256": "2ed573b4401e607fb50e209ba3e6ee78a85c872ad5159588e9623549e09766ec"
+    },
+    {
+      "path": "brand/avatars/avatar-dark-512.png",
+      "bytes": 11729,
+      "sha256": "31bf5ada2a240ccaf429fb81ddc8440582725ed91cf4962c2271f99299086848"
+    },
+    {
+      "path": "brand/avatars/avatar-dark-512.svg",
+      "bytes": 712,
+      "sha256": "3d98232d9b3d27e1ccd0f94b6fb168946a4a0ce3be4d5fb1f5eb96b915fac2b3"
+    },
+    {
+      "path": "brand/avatars/avatar-light-1024.png",
+      "bytes": 25841,
+      "sha256": "5b71f012da680fc66e51892529cffbd22129ecf5e72c5f080cfe66f960a7e576"
+    },
+    {
+      "path": "brand/avatars/avatar-light-1024.svg",
+      "bytes": 718,
+      "sha256": "dc2a65dd38772e509318791f5cb81fb0ca7168edd25f62e0886c11f52a13a58e"
+    },
+    {
+      "path": "brand/avatars/avatar-light-128.png",
+      "bytes": 2648,
+      "sha256": "7d51b0ec4239ffbe00935d47c93f1cf2a42284afe33424bd56ed8bec0f6da648"
+    },
+    {
+      "path": "brand/avatars/avatar-light-128.svg",
+      "bytes": 715,
+      "sha256": "27d0d6eb15196d33a626812f5c56ee6e005f20a3d710446204377f49c87bbd7b"
+    },
+    {
+      "path": "brand/avatars/avatar-light-512.png",
+      "bytes": 11421,
+      "sha256": "adcff2b872e822c3ab2f67fca806926edf877a38eb0398061b9d9459042c014b"
+    },
+    {
+      "path": "brand/avatars/avatar-light-512.svg",
+      "bytes": 712,
+      "sha256": "0f5dd34ad05f49ae85658d07f2f8a7452c2a1b8c83e3819a07a0906347c140d7"
+    },
+    {
+      "path": "brand/banners/youtube-dark-2560x1440.png",
+      "bytes": 2559420,
+      "sha256": "f95a32b2a0271294626a60f4296550d64eec6d3f6c1954a73b9fe4f111b32836"
+    },
+    {
+      "path": "brand/banners/youtube-dark-2560x1440.svg",
+      "bytes": 838979,
+      "sha256": "22cf44889e6e1b85391cdf11da01e5ed1d33a5ccdbcd7483531bf7599bbf7386"
+    },
+    {
+      "path": "brand/banners/youtube-light-2560x1440.png",
+      "bytes": 3172384,
+      "sha256": "f77cc6242e2fc571b1a12c6b65a3218aa513ce2c99492f297515eb642c7c1391"
+    },
+    {
+      "path": "brand/banners/youtube-light-2560x1440.svg",
+      "bytes": 1013675,
+      "sha256": "70697fbd568ef51f291c064f395ea6c75f792109c91c2add3b884732829a0be4"
+    },
+    {
+      "path": "brand/github/capa-dark-1280x640.png",
+      "bytes": 861076,
+      "sha256": "adca347513d4cb481700790e636750a64274eb0090ad8b048cf289a01d645bfe"
+    },
+    {
+      "path": "brand/github/capa-dark-1280x640.svg",
+      "bytes": 877628,
+      "sha256": "fc610c6aa74a8565c48b9ab494b6e40e91d1a7783b00a31e0bf507079195ec09"
+    },
+    {
+      "path": "brand/github/capa-light-1280x640.png",
+      "bytes": 1036960,
+      "sha256": "6fd5a1a0a4388b28eee602efd74cf6211ce179ed406006a7d698c0b5bfd9ed35"
+    },
+    {
+      "path": "brand/github/capa-light-1280x640.svg",
+      "bytes": 1052324,
+      "sha256": "bed1c5f7cbcb71f9fef2413146470338724bd3866ff11b820815a0707744338f"
+    },
+    {
+      "path": "brand/logos/assinatura-horizontal-black.png",
+      "bytes": 15899,
+      "sha256": "b73bb9b428b2fc1928a7121916d87ea5ea073d27b5283eae212a5ac3ef9c8840"
+    },
+    {
+      "path": "brand/logos/assinatura-horizontal-black.svg",
+      "bytes": 10067,
+      "sha256": "2b71add18e64bfca542d7c17c796230655852c1984d34da62e0e4586d52623cb"
+    },
+    {
+      "path": "brand/logos/assinatura-horizontal-ink.png",
+      "bytes": 22665,
+      "sha256": "d49f32b8012228b1b22ce926ad69f699b0e4dac22bf887298a768358438bbad5"
+    },
+    {
+      "path": "brand/logos/assinatura-horizontal-ink.svg",
+      "bytes": 10067,
+      "sha256": "44deb84ecc8a0f7137199d0b7440e92b9e90bffd680764d98dac21e3c4af4f80"
+    },
+    {
+      "path": "brand/logos/assinatura-horizontal-paper.png",
+      "bytes": 24072,
+      "sha256": "516287a9c7337d6f8f04e51f478ac2fc20d09d073445ad972dcada53a1424b79"
+    },
+    {
+      "path": "brand/logos/assinatura-horizontal-paper.svg",
+      "bytes": 10067,
+      "sha256": "fc2f51ef23a677ba446e3bd4ad5193286881a5ee1df55d9c2073a73bcb8bd297"
+    },
+    {
+      "path": "brand/logos/assinatura-horizontal-white.png",
+      "bytes": 18073,
+      "sha256": "3af3761dce7fb2339983748c428c230dba89b206a50239cc2cfd8ccb5f9c4b8f"
+    },
+    {
+      "path": "brand/logos/assinatura-horizontal-white.svg",
+      "bytes": 10067,
+      "sha256": "b1c473cf0f086859957493b3df1ac86fa051994962a9653698e0217338fdeea9"
+    },
+    {
+      "path": "brand/logos/assinatura-vertical-black.png",
+      "bytes": 15309,
+      "sha256": "f2276eda8fd89f4b5260bbc513c8f2f21b77e8bb1de7b341c5075ad53f460565"
+    },
+    {
+      "path": "brand/logos/assinatura-vertical-black.svg",
+      "bytes": 10042,
+      "sha256": "c2ab8f5341a79a2775dea533ef88f3f273d2ec758323448308177d3286e9867e"
+    },
+    {
+      "path": "brand/logos/assinatura-vertical-ink.png",
+      "bytes": 22210,
+      "sha256": "424f5a3d4c8053e04b46ff5083605fb31de556a2bca14e69ce3026d28137f969"
+    },
+    {
+      "path": "brand/logos/assinatura-vertical-ink.svg",
+      "bytes": 10042,
+      "sha256": "92e9e9564ba399c605c6940bfa905ca6d5b7a4d1f1e72cced8230900eeacbcb6"
+    },
+    {
+      "path": "brand/logos/assinatura-vertical-paper.png",
+      "bytes": 23366,
+      "sha256": "9ed7fb7b5d45fea786a1e32802f2195865c6559a71a919cacf9b6352b42d15d2"
+    },
+    {
+      "path": "brand/logos/assinatura-vertical-paper.svg",
+      "bytes": 10042,
+      "sha256": "6cc95e7ffe7b348d607d08aaf7773f9eff0aee1e3e3a6715535ec0aae8fd0372"
+    },
+    {
+      "path": "brand/logos/assinatura-vertical-white.png",
+      "bytes": 17577,
+      "sha256": "2194463af8338dab775336fdeac2a19c9f477e59944b67a40fcfefe3d02983a3"
+    },
+    {
+      "path": "brand/logos/assinatura-vertical-white.svg",
+      "bytes": 10042,
+      "sha256": "1cdf3aaa9d443f9675d0f8045ce83933eb513d634a09f2c4ec8fc037af47a8c9"
+    },
+    {
+      "path": "brand/logos/favicon.png",
+      "bytes": 1573,
+      "sha256": "c779e1572990650dff9c69f8146861e1134b11c0ff9736efe9a1c2829b752c41"
+    },
+    {
+      "path": "brand/logos/favicon.svg",
+      "bytes": 697,
+      "sha256": "77ad4ddb4ec5dc29452a723cb5f288523c1884ba2a9fdb05dc9ae03a0ecf715c"
+    },
+    {
+      "path": "brand/logos/simbolo-black.png",
+      "bytes": 5832,
+      "sha256": "d2bd31b43048dc16ab71e1c6a8c2a77193b95109b4e3ff1eab95da37232ad415"
+    },
+    {
+      "path": "brand/logos/simbolo-black.svg",
+      "bytes": 656,
+      "sha256": "81540db35dab4a23ceca4f71307040aebddd2087a9c35e67fd46f3d76a894f36"
+    },
+    {
+      "path": "brand/logos/simbolo-currentColor.svg",
+      "bytes": 657,
+      "sha256": "1b2c499b69d92932285e7868ecbbf7a5019e3327e3baf03628d7f063c586f36d"
+    },
+    {
+      "path": "brand/logos/simbolo-ink.png",
+      "bytes": 8544,
+      "sha256": "444212be54f357158dd7d1e38d2883d956a3aeb527053864e129975c82868f31"
+    },
+    {
+      "path": "brand/logos/simbolo-ink.svg",
+      "bytes": 656,
+      "sha256": "ffd98136cd39415b97614369cf65ede6be005d31cdb9aba9ccb2e49b296ae9cd"
+    },
+    {
+      "path": "brand/logos/simbolo-paper.png",
+      "bytes": 8922,
+      "sha256": "65f2e9b3b33f7171e73f8e3d63a54424a1a8de0b9c60916655d59276b33b3bbf"
+    },
+    {
+      "path": "brand/logos/simbolo-paper.svg",
+      "bytes": 656,
+      "sha256": "23679e2ed5e8c22ae682b50e1c2f630373a90cc1e77b68cabd0336cfb2466b87"
+    },
+    {
+      "path": "brand/logos/simbolo-white.png",
+      "bytes": 7194,
+      "sha256": "b119d05c0c99f3706986c702a408a60523a477cc89f708ef535f59110ff72ad9"
+    },
+    {
+      "path": "brand/logos/simbolo-white.svg",
+      "bytes": 656,
+      "sha256": "cfcc6ca4fda8cf43568624c3cd7a37e8240e713075f36fcb5205ef836e6c3160"
+    },
+    {
+      "path": "brand/templates/moldura-estrutura.png",
+      "bytes": 4340,
+      "sha256": "692eece97ceb3c7d1e41675f43ebf0cd26a049a928f93c6c21b5666ae246961f"
+    },
+    {
+      "path": "brand/templates/moldura-estrutura.svg",
+      "bytes": 386,
+      "sha256": "147164467ab6ef7796b1018880aaa476f219434cf14ba23acd8bdc92a0de827c"
+    },
+    {
+      "path": "brand/templates/papel-timbrado-a4.docx",
+      "bytes": 40278,
+      "sha256": "236f60f1e977b2fe9f645d72fe56c1a7a68bb73bbd805afde6bf8c4d04268295"
+    },
+    {
+      "path": "brand/templates/papel-timbrado-a4.dotx",
+      "bytes": 40281,
+      "sha256": "a9123bbbf3c9f883b0cc4c93a3636477cd1f506fb782a642bf90d00f9500abbb"
+    },
+    {
+      "path": "brand/templates/papel-timbrado-a4.pdf",
+      "bytes": 28980,
+      "sha256": "2c7384d6b8cdeb61d4b13f768665919c169624ae65848fdeac21381332b8d414"
+    },
+    {
+      "path": "brand/templates/papel-timbrado-a4.png",
+      "bytes": 64482,
+      "sha256": "f6ee60fd340324fe828b681ddfc2d7aeadd8b8700ac12f32efa1e0da017e54c1"
+    },
+    {
+      "path": "brand/templates/papel-timbrado-a4.svg",
+      "bytes": 70775,
+      "sha256": "f8caf7c1eb7afcb9832754e9b8e74f034b729f668d5517789ef201930995bad8"
+    },
+    {
+      "path": "brand/templates/thumb-conceito-dark-1280x720.svg",
+      "bytes": 356777,
+      "sha256": "21f76839634438a59480d42ee75506e34857e37260fdd19cfa2e53d66e456624"
+    },
+    {
+      "path": "brand/templates/thumb-conceito-light-1280x720.svg",
+      "bytes": 356777,
+      "sha256": "a7f1097bfbf688201354808f828eae3437385dec6435678b7c03ed9f76e2a3d0"
+    },
+    {
+      "path": "brand/templates/thumb-diagramas-dark-1280x720.svg",
+      "bytes": 356736,
+      "sha256": "50bb9a8160cdb04424ca2eb14cde025864749583db7319b85921e4e1d648b995"
+    },
+    {
+      "path": "brand/templates/thumb-diagramas-light-1280x720.svg",
+      "bytes": 356736,
+      "sha256": "58b5d8ba99458cd85f78d2e8c5bef8008f7ea16c69f23b70efc33b0782b830ef"
+    },
+    {
+      "path": "brand/templates/thumb-projeto-dark-1280x720.svg",
+      "bytes": 356724,
+      "sha256": "fd105668573f2a439d904862a4c3192ecaa7968c7d5fb28d506ad21cc5db021d"
+    },
+    {
+      "path": "brand/templates/thumb-projeto-light-1280x720.svg",
+      "bytes": 356724,
+      "sha256": "c1d562061528ee68679985731d8036726e0e0565f0f2460e78e8e3d283d6373f"
+    },
+    {
+      "path": "brand/thumbnails/thumb-conceito-dark-1280x720.png",
+      "bytes": 95296,
+      "sha256": "7feb53e455e6047bc8cccbbe6266fbd29f7ade05624747bedb7a0b2c4787fa7a"
+    },
+    {
+      "path": "brand/thumbnails/thumb-conceito-dark-1280x720.svg",
+      "bytes": 75953,
+      "sha256": "05363ff0d6617d15c7b70f205b9a2cf2799465706c60cca9552cf0f05f067fef"
+    },
+    {
+      "path": "brand/thumbnails/thumb-conceito-light-1280x720.png",
+      "bytes": 112385,
+      "sha256": "e9ce333e25184f2b7f7ffab92d88a1406633e5e67c85f2ee22715aa8eedc54bf"
+    },
+    {
+      "path": "brand/thumbnails/thumb-conceito-light-1280x720.svg",
+      "bytes": 75953,
+      "sha256": "c307228836e995f772078811fe6f27ea2ac95f47fb246c42189b8447abad2a00"
+    },
+    {
+      "path": "brand/thumbnails/thumb-diagramas-dark-1280x720.png",
+      "bytes": 202787,
+      "sha256": "ef786ed8674cfe333142506461354444f469128cda13e3d9e0d0441e320d0ed2"
+    },
+    {
+      "path": "brand/thumbnails/thumb-diagramas-dark-1280x720.svg",
+      "bytes": 109491,
+      "sha256": "93f4e0b94f1ac6c4d56b3af8030b72ce07078b2cf1ed1be2590afc4ccd737ce5"
+    },
+    {
+      "path": "brand/thumbnails/thumb-diagramas-light-1280x720.png",
+      "bytes": 211884,
+      "sha256": "296c83c7ec99bb49d6d6429c1d6a685850696921eaba9087f9634f8352214f48"
+    },
+    {
+      "path": "brand/thumbnails/thumb-diagramas-light-1280x720.svg",
+      "bytes": 109491,
+      "sha256": "edf12a77302d4685d173f5f3c081e0f6aab99eb1e1ec4eaea64f1941140e13df"
+    },
+    {
+      "path": "brand/thumbnails/thumb-projeto-dark-1280x720.png",
+      "bytes": 191215,
+      "sha256": "709d0e477e005821ed85b30691c0b8d6525915cbbcaba0df9f15019782b1ef85"
+    },
+    {
+      "path": "brand/thumbnails/thumb-projeto-dark-1280x720.svg",
+      "bytes": 73988,
+      "sha256": "a813e0ca9636f87b90207a2606d1796100ec8269928da0acd75b918e8e4960af"
+    },
+    {
+      "path": "brand/thumbnails/thumb-projeto-light-1280x720.png",
+      "bytes": 200618,
+      "sha256": "af2fe4d8860e39d8c1585ca0a910dca51b077d253b7fd83804cb063d0788b962"
+    },
+    {
+      "path": "brand/thumbnails/thumb-projeto-light-1280x720.svg",
+      "bytes": 73988,
+      "sha256": "10b84fadf314e3d2349411f88aadf187839b96f3839459f5ec489f056ce1e7c1"
+    },
+    {
+      "path": "icons/README.md",
+      "bytes": 1615,
+      "sha256": "482fa2bbfc46a0d53399f8b47b7faf08c12cfb9fc6da0096aeabe9b09d22aa5e"
+    },
+    {
+      "path": "icons/manifest.json",
+      "bytes": 103,
+      "sha256": "117cad55582ce01e1e98d86e1849776f07647563e0fe405f1ace2cb81cfaed89"
+    }
+  ]
+}
