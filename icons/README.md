@@ -4,7 +4,7 @@
 
 Pequenas formas, desenhadas com o mesmo cuidado do conjunto. Esta é a versão Markdown da página de preview e documentação. Ajustes de tamanho, cor, busca e cópia estão na [versão HTML](https://eduardoaugustolb.github.io/assets/); aqui, as prévias são estáticas.
 
-**78 ícones · SVG · 24 × 24 · 0.3.0-draft.1 · piloto em revisão.**
+**81 ícones · SVG · 24 × 24 · 0.3.0-draft.1 · piloto em revisão.**
 
 ## Catálogo
 
@@ -88,6 +88,9 @@ Pequenas formas, desenhadas com o mesmo cuidado do conjunto. Esta é a versão M
 | <picture><source media="(prefers-color-scheme: dark)" srcset="svg/paper/chart.svg"><img src="svg/ink/chart.svg" width="32" height="32" alt="Estatísticas"></picture> | [`chart`](svg/chart.svg) | README · Estatísticas | [Tinta](svg/ink/chart.svg) · [Papel](svg/paper/chart.svg) |
 | <picture><source media="(prefers-color-scheme: dark)" srcset="svg/paper/shield.svg"><img src="svg/ink/shield.svg" width="32" height="32" alt="Segurança"></picture> | [`shield`](svg/shield.svg) | README · Segurança | [Tinta](svg/ink/shield.svg) · [Papel](svg/paper/shield.svg) |
 | <picture><source media="(prefers-color-scheme: dark)" srcset="svg/paper/bug.svg"><img src="svg/ink/bug.svg" width="32" height="32" alt="Bugs"></picture> | [`bug`](svg/bug.svg) | README · Bugs | [Tinta](svg/ink/bug.svg) · [Papel](svg/paper/bug.svg) |
+| <picture><source media="(prefers-color-scheme: dark)" srcset="svg/paper/hono.svg"><img src="svg/ink/hono.svg" width="32" height="32" alt="Hono"></picture> | [`hono`](svg/hono.svg) | README · Hono | [Tinta](svg/ink/hono.svg) · [Papel](svg/paper/hono.svg) |
+| <picture><source media="(prefers-color-scheme: dark)" srcset="svg/paper/fastify.svg"><img src="svg/ink/fastify.svg" width="32" height="32" alt="Fastify"></picture> | [`fastify`](svg/fastify.svg) | README · Fastify | [Tinta](svg/ink/fastify.svg) · [Papel](svg/paper/fastify.svg) |
+| <picture><source media="(prefers-color-scheme: dark)" srcset="svg/paper/express.svg"><img src="svg/ink/express.svg" width="32" height="32" alt="Express"></picture> | [`express`](svg/express.svg) | README · Express | [Tinta](svg/ink/express.svg) · [Papel](svg/paper/express.svg) |
 
 ## Da forma ao uso
 

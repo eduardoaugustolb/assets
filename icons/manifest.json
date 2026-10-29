@@ -2397,6 +2397,116 @@
       "file": "svg/bug.svg",
       "ink": "svg/ink/bug.svg",
       "paper": "svg/paper/bug.svg"
+    },
+    {
+      "name": "hono",
+      "label": "Hono",
+      "category": "technology",
+      "viewBox": "0 0 24 24",
+      "tags": [
+        "technology",
+        "framework",
+        "backend",
+        "javascript",
+        "typescript"
+      ],
+      "aliases": [
+        "Hono",
+        "honojs",
+        "stack",
+        "tecnologias"
+      ],
+      "provenance": {
+        "kind": "third-party",
+        "author": "Simple Icons contributors / respective brand owners",
+        "collection": "Simple Icons",
+        "version": "16.35.0",
+        "source": "https://github.com/honojs/hono/blob/76dbc74407329c46870af6aa4fab0c04036d8ae2/docs/images/hono-logo.svg",
+        "upstream": "https://github.com/simple-icons/simple-icons/blob/16.35.0/icons/hono.svg",
+        "license": null,
+        "guidelines": null,
+        "collectionLicense": "simple-icons-16-LICENSE.md"
+      },
+      "badges": {
+        "light": "badges/light/hono.svg",
+        "dark": "badges/dark/hono.svg"
+      },
+      "file": "svg/hono.svg",
+      "ink": "svg/ink/hono.svg",
+      "paper": "svg/paper/hono.svg"
+    },
+    {
+      "name": "fastify",
+      "label": "Fastify",
+      "category": "technology",
+      "viewBox": "0 0 24 24",
+      "tags": [
+        "technology",
+        "framework",
+        "backend",
+        "javascript"
+      ],
+      "aliases": [
+        "Fastify",
+        "Fastify.js",
+        "stack",
+        "tecnologias"
+      ],
+      "provenance": {
+        "kind": "third-party",
+        "author": "Simple Icons contributors / respective brand owners",
+        "collection": "Simple Icons",
+        "version": "16.35.0",
+        "source": "https://github.com/fastify/graphics/blob/91e8a3d4754807de3b69440f66c72a737a5fde94/fastify-1000px-square-02.svg",
+        "upstream": "https://github.com/simple-icons/simple-icons/blob/16.35.0/icons/fastify.svg",
+        "license": null,
+        "guidelines": null,
+        "collectionLicense": "simple-icons-16-LICENSE.md"
+      },
+      "badges": {
+        "light": "badges/light/fastify.svg",
+        "dark": "badges/dark/fastify.svg"
+      },
+      "file": "svg/fastify.svg",
+      "ink": "svg/ink/fastify.svg",
+      "paper": "svg/paper/fastify.svg"
+    },
+    {
+      "name": "express",
+      "label": "Express",
+      "category": "technology",
+      "viewBox": "0 0 24 24",
+      "tags": [
+        "technology",
+        "framework",
+        "backend",
+        "javascript"
+      ],
+      "aliases": [
+        "Express",
+        "Express.js",
+        "expressjs",
+        "stack",
+        "tecnologias"
+      ],
+      "provenance": {
+        "kind": "third-party",
+        "author": "Simple Icons contributors / respective brand owners",
+        "collection": "Simple Icons",
+        "version": "16.35.0",
+        "source": "https://github.com/openjs-foundation/artwork/blob/3816245ebbf4707bdafde748350ac8476b6b5b62/projects/express/express-icon-black.svg",
+        "upstream": "https://github.com/simple-icons/simple-icons/blob/16.35.0/icons/express.svg",
+        "license": null,
+        "guidelines": null,
+        "collectionLicense": "simple-icons-16-LICENSE.md"
+      },
+      "badges": {
+        "light": "badges/light/express.svg",
+        "dark": "badges/dark/express.svg"
+      },
+      "file": "svg/express.svg",
+      "ink": "svg/ink/express.svg",
+      "paper": "svg/paper/express.svg"
     }
   ]
 }

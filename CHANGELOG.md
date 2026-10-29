@@ -1,5 +1,10 @@
 # Notas de distribuição
 
+## Não publicado — frameworks backend
+
+- Adicionados Hono, Fastify e Express a partir de Simple Icons 16.35.0, com proveniência, aliases e tags de backend.
+- Catálogo com 81 ícones estáticos e 162 badges nos temas claro e escuro.
+
 ## 0.3.0-draft.1 — revisão local
 
 - Expansão para 78 ícones, badges claros/escuros e proveniência de logos.
