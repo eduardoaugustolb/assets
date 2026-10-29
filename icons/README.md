@@ -4,7 +4,7 @@
 
 Pequenas formas, desenhadas com o mesmo cuidado do conjunto. Esta é a versão Markdown da página de preview e documentação. Ajustes de tamanho, cor, busca e cópia estão na [versão HTML](https://eduardoaugustolb.github.io/assets/); aqui, as prévias são estáticas.
 
-**81 ícones · SVG · 24 × 24 · 0.3.0-draft.1 · piloto em revisão.**
+**82 ícones · SVG · 24 × 24 · 0.5.0-draft.1 · piloto em revisão.**
 
 ## Catálogo
 
@@ -91,6 +91,7 @@ Pequenas formas, desenhadas com o mesmo cuidado do conjunto. Esta é a versão M
 | <picture><source media="(prefers-color-scheme: dark)" srcset="svg/paper/hono.svg"><img src="svg/ink/hono.svg" width="32" height="32" alt="Hono"></picture> | [`hono`](svg/hono.svg) | README · Hono | [Tinta](svg/ink/hono.svg) · [Papel](svg/paper/hono.svg) |
 | <picture><source media="(prefers-color-scheme: dark)" srcset="svg/paper/fastify.svg"><img src="svg/ink/fastify.svg" width="32" height="32" alt="Fastify"></picture> | [`fastify`](svg/fastify.svg) | README · Fastify | [Tinta](svg/ink/fastify.svg) · [Papel](svg/paper/fastify.svg) |
 | <picture><source media="(prefers-color-scheme: dark)" srcset="svg/paper/express.svg"><img src="svg/ink/express.svg" width="32" height="32" alt="Express"></picture> | [`express`](svg/express.svg) | README · Express | [Tinta](svg/ink/express.svg) · [Papel](svg/paper/express.svg) |
+| <picture><source media="(prefers-color-scheme: dark)" srcset="svg/paper/drizzle.svg"><img src="svg/ink/drizzle.svg" width="32" height="32" alt="Drizzle"></picture> | [`drizzle`](svg/drizzle.svg) | README · Drizzle ORM | [Tinta](svg/ink/drizzle.svg) · [Papel](svg/paper/drizzle.svg) |
 
 ## Da forma ao uso
 
@@ -107,7 +108,7 @@ A cor vem do CSS. O texto dá nome ao link e o ícone é decorativo.
 ```html
 <a href="#projetos" class="project-link">
   Conhecer os projetos
-  <svg aria-hidden="true" focusable="false" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="currentColor" color="currentColor"><g transform="rotate(45 12 12)"><path d="M5 10.75L9.88 5.87C11.05 4.7 12.95 4.7 14.12 5.87L19 10.75L17.76 11.99L12.88 7.11C12.39 6.62 11.61 6.62 11.12 7.11L6.24 11.99Z"/><path d="M11.125 9.25H12.875V20.5H11.125Z"/></g></svg>
+  <svg aria-hidden="true" focusable="false" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="currentColor" color="currentColor"><g transform="rotate(45 12 12)"><path d="M5.5 10.5L10.5 5.5Q12 4 13.5 5.5L18.5 10.5" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="butt" stroke-linejoin="round"/><path d="M12 8.5V20" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="butt" stroke-linejoin="round"/></g></svg>
 </a>
 <style>
   .project-link { color: #0b0b0b; }
@@ -189,7 +190,7 @@ O caminho abaixo parte da raiz de um repositório que contém icons/. Para fundo
 
 ## Forma com intenção
 
-Curvas contidas, terminais retos e cortes por espaço negativo. Pictogramas autorais usam grade de 24 unidades. Logos de terceiros preservam a geometria de origem, com créditos e condições próprios.
+Curvas contidas, terminais retos e cortes por espaço negativo. Pictogramas autorais usam grade de 24 unidades. Toda a família estática usa traço de 1,75, terminais retos e junções arredondadas na grade de 24 unidades. Logos de terceiros são redesenhos simplificados de referência, com créditos e condições próprios; não são arquivos oficiais inalterados.
 
 Os SVGs não contêm imagens raster, fontes, scripts ou recursos externos. A leitura foi inspecionada em tamanhos pequenos, mas não houve teste de compreensão com público. Os cortes têm menor definição em 13 px, reservado a decoração no portfólio; priorize 16 px ou mais nos usos funcionais.
 

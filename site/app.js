@@ -49,7 +49,7 @@ function select(name) {
   $('#selected-title').textContent = selected.name;
   $('#selected-usage').textContent = selected.usage;
   $('#selected-tags').textContent = selected.tagLabels.join(' · ');
-  $('#selected-origin').textContent = selected.provenance.kind === 'third-party' ? 'Terceiros · Simple Icons ' + selected.provenance.version + ' · fontes e condições no manifesto.' : 'Pictograma autoral · Eduardo Augusto';
+  $('#selected-origin').textContent = selected.provenance.kind === 'third-party' ? 'Redesenho monoline · referência Simple Icons ' + selected.provenance.version + ' · fontes e condições no manifesto.' : 'Pictograma autoral · Eduardo Augusto';
   updateBadge();
   $('#selected-code').textContent = selected.svg;
   for (const [id, folder] of [['current', ''], ['ink', 'ink/'], ['paper', 'paper/']]) {

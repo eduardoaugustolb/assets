@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
-  "version": "0.3.0-draft.1",
+  "version": "0.5.0-draft.1",
   "repository": "https://github.com/eduardoaugustolb/assets",
   "license": "All rights reserved",
   "licenseScope": "Own assets and code only; see icons/THIRD-PARTY.md for third-party logos",
   "icons": {
     "status": "draft",
-    "count": 81
+    "count": 82
   },
   "files": [
     {
@@ -386,73 +386,73 @@
     },
     {
       "path": "CHANGELOG.md",
-      "bytes": 1510,
-      "sha256": "588ab7dda19482c64fc9273f27cd435341d53f17b30316a4c032c857656fec4a"
+      "bytes": 1931,
+      "sha256": "f33010392a7f9fcf969b541691c2c8815fa42e665535eac00471a1b0ec32318b"
     },
     {
       "path": "icons/badges/dark/alert-triangle.svg",
-      "bytes": 2350,
-      "sha256": "8c24aaf9ab55cb183d04baf9164bd458839e1219494b27c404bc7354e3a77732"
+      "bytes": 2352,
+      "sha256": "ac6009aab3400cb2205be2af0a4b79de0b93c764bed3b6db99c2c79a822d9f0b"
     },
     {
       "path": "icons/badges/dark/arch-linux.svg",
-      "bytes": 4032,
-      "sha256": "22ed2c41963c4440ce4b4b2cb9948dfec87ac8b429adefb8527753c8944af69c"
+      "bytes": 3541,
+      "sha256": "dd9e1688d6b5d910195987bf383f350a4e35c8b9ebb3aa8fda6c0c5605a880b2"
     },
     {
       "path": "icons/badges/dark/arrow-down.svg",
-      "bytes": 9082,
-      "sha256": "a5561f7275ec50a688f880a797177ca867f84bb10bececb48667db84344f5a8c"
+      "bytes": 9166,
+      "sha256": "8fedf5e33f252300f9d7086f50ca75a6936bb1d6f59d46c0e2f4aea93bfd3188"
     },
     {
       "path": "icons/badges/dark/arrow-up-right.svg",
-      "bytes": 8275,
-      "sha256": "394ec2c48e38af2ac68b02f8a5770023bb87f8faf622be3cc1d6ce7222fa129e"
+      "bytes": 8359,
+      "sha256": "c1597f5105c9009a305dac4863e26f73f8ec8a2ce6f695553ae93a7a086d6fb2"
     },
     {
       "path": "icons/badges/dark/arrow-up.svg",
-      "bytes": 8922,
-      "sha256": "b3fb04a47a6f78986c1e7a721c44eaa80fa7398327fc270d86a446f3ddcbf09f"
+      "bytes": 9006,
+      "sha256": "23ea1336d81a7e100af6f7902f2be4214184e6bc43fb079f0a6388a341cfe020"
     },
     {
       "path": "icons/badges/dark/astro.svg",
-      "bytes": 3386,
-      "sha256": "e6ca81a6059993883bb878d5efcd1eabab3625d4646c98a0190423fb6570cb48"
+      "bytes": 2990,
+      "sha256": "658712ddb1c0ce1a75793ea70a6e6314b80aff8a29da4da1408730ddc01843a1"
     },
     {
       "path": "icons/badges/dark/aws.svg",
-      "bytes": 7886,
-      "sha256": "4f791d509d40a411117040f54aa95166a7a5112883eda50c984aaf7c287097dc"
+      "bytes": 5400,
+      "sha256": "c11a03d90ba0e115498c9b8fdb873cdaba9918b0da28fbfc75eeed735428cff5"
     },
     {
       "path": "icons/badges/dark/bash.svg",
-      "bytes": 6448,
-      "sha256": "7d209c401f8af6d4560d62ded018589fbb9ec05bef105a411986bdaa3b228f7f"
+      "bytes": 4767,
+      "sha256": "5a8811b491bbb04290b3a81f6a28c204689a83456f2c4f31fa9ff142f9ea4318"
     },
     {
       "path": "icons/badges/dark/blender.svg",
-      "bytes": 5242,
-      "sha256": "db0528c603ab25ec949028e5ae1a02fba24baa4e4ab0f3f04b29e05f2536b1a5"
+      "bytes": 4477,
+      "sha256": "b0164d3d6d11fd6c78a9c4f77e008de057e483fd889c2cc5bab5d937414fa392"
     },
     {
       "path": "icons/badges/dark/bluesky.svg",
-      "bytes": 3936,
-      "sha256": "88539bb89399e8332e8d1f7d297baeda75197d3b5deefae6f4e0b4d89f5fe95e"
+      "bytes": 3678,
+      "sha256": "10d5e9c0b9d1ce5cbb909e1841a2940696b29dcdda8f667094a5a0da4aa4f6b4"
     },
     {
       "path": "icons/badges/dark/book-open.svg",
       "bytes": 9731,
-      "sha256": "7661cfa00be9474cf3f56217bed3711c0c827c07b53d7dc284bbe305da6148f6"
+      "sha256": "e64f6bfc4411c1028f96c793b50351d9b588b98fffb22e335d304641323871f9"
     },
     {
       "path": "icons/badges/dark/bug.svg",
       "bytes": 3465,
-      "sha256": "4602327fb4b68966fbfaee2af0b155bb25553e0d075e00be9f8eacffb0b82676"
+      "sha256": "6825be5e35b45088e90f7e1696f3236f7dba16d5bb0ebd9ac0d1055d86da5fb5"
     },
     {
       "path": "icons/badges/dark/bun.svg",
-      "bytes": 3537,
-      "sha256": "94969de96ca6e8fdb20391994281ad0806508b17d48c6c4deb1f037e3fe02f64"
+      "bytes": 2370,
+      "sha256": "5b54e0880a5b41c077ffa52ab6533519fd01a5f52c43e9eede17636e0e762d92"
     },
     {
       "path": "icons/badges/dark/chart.svg",
@@ -467,27 +467,27 @@
     {
       "path": "icons/badges/dark/code.svg",
       "bytes": 10152,
-      "sha256": "e54c5351acd8f7ba14fcb1ac1dcd7c8c0d65b5f119e58461e7c1bddc4bdc59c0"
+      "sha256": "e80a028880a841a0876f35b7fdcbf652f818f89db9e826d08cdf66486ad0c37e"
     },
     {
       "path": "icons/badges/dark/copy.svg",
       "bytes": 3894,
-      "sha256": "bab4990b9b410d8208037130b90f6daebb1b7cf0f58f8d0cbc01181bfbfa3228"
+      "sha256": "0966e34fda5b3363c0122153fba5376facdc02037e921a0a45172070a7e4b565"
     },
     {
       "path": "icons/badges/dark/css.svg",
-      "bytes": 4066,
-      "sha256": "9f35fb8e8aecdccf387d425da8282fb30d720018bcd5af49856445f0bc7a99a3"
+      "bytes": 2968,
+      "sha256": "3793d15bb508537006befb3021a6422b499017c989d603d15d5908d3e57e249a"
     },
     {
       "path": "icons/badges/dark/discord.svg",
-      "bytes": 5429,
-      "sha256": "a5e28bae78ffc288dcd3806d7bc380b9f5702f0eed20f245607006089b703c88"
+      "bytes": 4478,
+      "sha256": "6a433f04f6138198a8a63305d1e38124a700087f93f49f17dd337d42a5e70a15"
     },
     {
       "path": "icons/badges/dark/docker.svg",
-      "bytes": 5074,
-      "sha256": "3f222b859b83fcfe901baabd0d244b865df56fe3913020bdaaec4dfc589fb4e6"
+      "bytes": 3847,
+      "sha256": "86e20144abd44a90b17358902fcb6767a7c31d3750678aa21bf31736a9018f8a"
     },
     {
       "path": "icons/badges/dark/download.svg",
@@ -495,19 +495,24 @@
       "sha256": "43030dda4de202a212870c1417a58b0e711b72fe2f3cc1fedad280da5267a796"
     },
     {
+      "path": "icons/badges/dark/drizzle.svg",
+      "bytes": 2559,
+      "sha256": "842c9c8ae85ade2829f95ff7708c20fb16613302ae503f8318c6174f32e1d1db"
+    },
+    {
       "path": "icons/badges/dark/express.svg",
-      "bytes": 5025,
-      "sha256": "8c08a53e640e25c63fdb3fc9b25db2c56ccc97b6a076ae83345be0ef3d10ad13"
+      "bytes": 4438,
+      "sha256": "3b0a6318a748c0884b2239e785fae99267e7c7f2d7172957ea4f3b3c645627d6"
     },
     {
       "path": "icons/badges/dark/fastify.svg",
-      "bytes": 4322,
-      "sha256": "ef514b515fe6473724d8eded08d51b89245097a9da4f3badf108d274055c8287"
+      "bytes": 3570,
+      "sha256": "8cd52088522811d31adb7308ed3e5802883b515b7f4e6a46d6292b31dbb92cc9"
     },
     {
       "path": "icons/badges/dark/figma.svg",
-      "bytes": 4187,
-      "sha256": "8626332dc290c431638857a3e63c966d65b8500b12db4a6215c0bafc82032509"
+      "bytes": 3569,
+      "sha256": "ef74e44d345f5b2fb2798dec7cb7185ac52e01130e3fb5d8779700eb9272a16f"
     },
     {
       "path": "icons/badges/dark/flask.svg",
@@ -526,23 +531,23 @@
     },
     {
       "path": "icons/badges/dark/git.svg",
-      "bytes": 1862,
-      "sha256": "7bba476ad1837a7bc4e65a930d65dc2b9c114d15e96183276efe81e1074a1f6b"
+      "bytes": 1996,
+      "sha256": "ad374046597c70a94f72879b6e27d64a54c4b396a77365c152cd202373aa1f23"
     },
     {
       "path": "icons/badges/dark/github-actions.svg",
-      "bytes": 8165,
-      "sha256": "0748f92ed30d0af282102773e292ca206671da99cde24f3ecf366831e76214e5"
+      "bytes": 7168,
+      "sha256": "9b7a1d770ae63176b920f913de945ad8de90ceb3ff7b9693fd1e286d59a8585b"
     },
     {
       "path": "icons/badges/dark/github.svg",
-      "bytes": 3612,
-      "sha256": "e6d2f3d8e15693e888f7c45db649503ef6af9f849df2316b7f7f2a6ed5a8259e"
+      "bytes": 3100,
+      "sha256": "1439745d00c6e3dd6475ca9694bb34dc8137dc1bc50f652078dafc3c21969052"
     },
     {
       "path": "icons/badges/dark/gitlab.svg",
-      "bytes": 3739,
-      "sha256": "d0a7b3076ac651a8ce9cdd8810d3320942237a6a4dd8e2813c0bfe6a903257f0"
+      "bytes": 3431,
+      "sha256": "dc6b66c7ab992c7b16f9a4e6d9f0b3f140db851445ea843497d6750f71316a0b"
     },
     {
       "path": "icons/badges/dark/globe.svg",
@@ -551,18 +556,18 @@
     },
     {
       "path": "icons/badges/dark/go.svg",
-      "bytes": 3230,
-      "sha256": "eb81283120982fa582047559f4dd53fa601a42a8dc323eeb2a0b9939cdbaf82e"
+      "bytes": 2107,
+      "sha256": "7939001086bc4a4c75c1c9381c64d0c17e7542308e33a4c11f7a0f9fca9e3657"
     },
     {
       "path": "icons/badges/dark/gsap.svg",
-      "bytes": 7122,
-      "sha256": "e662d9e6ed8a9229881af87de9a4c64bb60c5eb4e2f157d731fd4ff129933625"
+      "bytes": 2687,
+      "sha256": "e80ce82e751bd69fa34d9168d0e137217bf2c60b5b4526c78dbf036bdd810056"
     },
     {
       "path": "icons/badges/dark/heart.svg",
-      "bytes": 2776,
-      "sha256": "d81c3df765bc6315f761ee868c8955c6423d78a4c64a57e5e4237278ceb177e8"
+      "bytes": 2774,
+      "sha256": "c246a0a76a261e0ee8b62db3e22f59ac7451a5144e7c86ae50b8a7d26f555b2c"
     },
     {
       "path": "icons/badges/dark/history.svg",
@@ -571,13 +576,13 @@
     },
     {
       "path": "icons/badges/dark/hono.svg",
-      "bytes": 2912,
-      "sha256": "6543aafc530ff943a6ed138f5a5f2c0d46216319155f3a36218cd6e03690d705"
+      "bytes": 2405,
+      "sha256": "81aacbe3e9fd4890510416ade8a72a18ba823b37207273eb043cc0e08b9ffdee"
     },
     {
       "path": "icons/badges/dark/html.svg",
-      "bytes": 1846,
-      "sha256": "09dc063a7109219299115f963fa6db0c5161fb29e9287e3ff6a5b5cfb0b818ca"
+      "bytes": 1895,
+      "sha256": "2d763eeb540a36ae84b397a08d2a064a7be3bbcc8ca1c45cf992747d622ad059"
     },
     {
       "path": "icons/badges/dark/info.svg",
@@ -586,18 +591,18 @@
     },
     {
       "path": "icons/badges/dark/instagram.svg",
-      "bytes": 7884,
-      "sha256": "39e7dbb044e7549fa7725e953129f753253d4e1d0b19176634a366dcb2f6684e"
+      "bytes": 6198,
+      "sha256": "2d3c865da391dafa72a945638029fff4f37bbc74fbf92f848346fa1a1bea566d"
     },
     {
       "path": "icons/badges/dark/javascript.svg",
-      "bytes": 6538,
-      "sha256": "2f877c91d82efeac8f28733bdae6835800bc07a32011da72e5e455e407f86d45"
+      "bytes": 6074,
+      "sha256": "e46a5fb487c63b6bc8a70b3d0b0f53797a1a0b2485551c981b2ce9fa340e4fd9"
     },
     {
       "path": "icons/badges/dark/layers.svg",
       "bytes": 5608,
-      "sha256": "2f8551c2870d80194578aac035be430af06cfbb9d4ce1653f813b3bd9b9f4f88"
+      "sha256": "3f1363ea24a383816f0d1f0f3be0369b0115bfc0f9dc862bf6fb95893923a497"
     },
     {
       "path": "icons/badges/dark/link.svg",
@@ -606,13 +611,13 @@
     },
     {
       "path": "icons/badges/dark/linkedin.svg",
-      "bytes": 3566,
-      "sha256": "cc2e73973227654ecb83de72887861709cf4913ef91c1bb79584ea499ad8723a"
+      "bytes": 3326,
+      "sha256": "63e27c1a69a4e1b58601e95d33a55e08844034fc926786ce3c0c069e63835166"
     },
     {
       "path": "icons/badges/dark/linux.svg",
-      "bytes": 7007,
-      "sha256": "02a887bc412b970db5c61bc7d286591647008a70046fc529fb132e490e9a0774"
+      "bytes": 1982,
+      "sha256": "756c0d481df3597f9ed29a7a17aec93f8b1d29a792aa28ab1c9d464124c2c374"
     },
     {
       "path": "icons/badges/dark/mail.svg",
@@ -622,67 +627,67 @@
     {
       "path": "icons/badges/dark/map.svg",
       "bytes": 5533,
-      "sha256": "a1564bcd3b22d00ff8733c06e05d199ca07e4cfeda3bb260f2dcbf2e1abfa091"
+      "sha256": "4ec844476f7407b60edb5ca0bca9cb0b20a4c3ae92a187591077ea05b98bf5fa"
     },
     {
       "path": "icons/badges/dark/message-circle.svg",
       "bytes": 4648,
-      "sha256": "f4b78d243e8adb039b15636c2f216aeaba62cb62cb102691d4ac1ac819c9f8ea"
+      "sha256": "5cecf371419387cebd3bd121740e53f77a61de1754135ea35b23a5be52dd46dc"
     },
     {
       "path": "icons/badges/dark/next-js.svg",
-      "bytes": 3274,
-      "sha256": "a7b2558057dce06862e12a7b3bf98b55f4e78626276eddfab208333d3f914089"
+      "bytes": 3324,
+      "sha256": "8142c8c825ca70375de8371047ef0894aadd6014bbdf7d18455eddc035f25a05"
     },
     {
       "path": "icons/badges/dark/node-js.svg",
-      "bytes": 5308,
-      "sha256": "e2f6d46e00be70e0b1e766bfa57edd8061972bbb435264bc9fd6ec6002a9132e"
+      "bytes": 4119,
+      "sha256": "c613e089465ce47d4f1cbc3823b669ad6db9a138ed2d97333deff1b9cbec8be2"
     },
     {
       "path": "icons/badges/dark/pause.svg",
-      "bytes": 4227,
-      "sha256": "db3ea7a27632ba4561112a6a363d4b2b3e750a86020bdf30665a61e501414645"
+      "bytes": 4370,
+      "sha256": "1fb862dc82b0775cc40bc360f88e6ca9a059a45063e82fab3dd78b6d4514ca2d"
     },
     {
       "path": "icons/badges/dark/play.svg",
-      "bytes": 5169,
-      "sha256": "189f0b9f457e9ccf6e51b41927006a000c8e869180f42aff37ae3dfce01fc60f"
+      "bytes": 5194,
+      "sha256": "43c717004b4c08affa2cdceecaa9b7ff83b0e8a559dac77f84bee4326d53c7bd"
     },
     {
       "path": "icons/badges/dark/plus.svg",
-      "bytes": 4055,
-      "sha256": "e427e33416fe5b11c90e746bca4e59fbb08230894704a3270ba82bd61a131810"
+      "bytes": 4185,
+      "sha256": "c43ccadc065f9ae9f09f8d839038232bfbc860229851889b7a0c74445b86e75d"
     },
     {
       "path": "icons/badges/dark/postgresql.svg",
-      "bytes": 11684,
-      "sha256": "a0e5ddc7395ae971ade50f2b16efa2567d9b42d939c1fb344ee44b11a4c56af2"
+      "bytes": 7219,
+      "sha256": "99e8732a96dd8e3ccc8f19b20b9def119cc5966f4e933a7d5a32762745cb7f85"
     },
     {
       "path": "icons/badges/dark/python.svg",
-      "bytes": 4177,
-      "sha256": "c7870ccc465fc41b6ccd40f6de3dfd9f8b00bee0059e18539d142b4c52e90027"
+      "bytes": 3245,
+      "sha256": "57716930bc7a2fec18945839d5473917757809e27e9a7fd8f9d6c3c1f5df6162"
     },
     {
       "path": "icons/badges/dark/react.svg",
-      "bytes": 6276,
-      "sha256": "6aa2d2800d348f2e15acae5b56ad2ec9aec361c395bb16917f9cdc0a5413fabe"
+      "bytes": 4055,
+      "sha256": "a5b9131ca4b8b74cf5d9b822d8528eb3dbb8952a17636399c0b19c34a5d505ca"
     },
     {
       "path": "icons/badges/dark/redis.svg",
-      "bytes": 3736,
-      "sha256": "50faabdc674e42cc922ca2e43dfe5f4bb44514ba103c368668de0d4bc9a2d74b"
+      "bytes": 3379,
+      "sha256": "0089994b38005178c72090f5715b809d7831afeb8e5009b1dbdc6481528000e8"
     },
     {
       "path": "icons/badges/dark/rocket.svg",
       "bytes": 7354,
-      "sha256": "68305d16040f1c19a0bfcb4586ccdc5bc718bb2d704e5de699310f492bfd26ad"
+      "sha256": "84c049e3bd5cce1b09576721d52720d80a0f39cb1576514bed04119e9be1f4b5"
     },
     {
       "path": "icons/badges/dark/scale.svg",
-      "bytes": 4593,
-      "sha256": "95b61594920a90a08ca77622e6f57659ff337aa800b403bd21da00935e5e9e44"
+      "bytes": 4592,
+      "sha256": "ef3d69bfe91c63513614afd76ac811b9809067fe147a18fc870693ec474dabce"
     },
     {
       "path": "icons/badges/dark/search.svg",
@@ -692,12 +697,12 @@
     {
       "path": "icons/badges/dark/settings.svg",
       "bytes": 9077,
-      "sha256": "ebf44e003f142ec8de5623997a2075a96c9365009f67fda7b296e4146e2cc8ea"
+      "sha256": "c7d85664de6b9bcab9ab33c7c328710da8c65a23932cf22295a97a800ddb9d6a"
     },
     {
       "path": "icons/badges/dark/shield.svg",
       "bytes": 7214,
-      "sha256": "1c27ee8270c1247b575a2184ec74006e9d851a48921d5e5527f91d8d0285bd68"
+      "sha256": "0a7b354ea7c5d1760aac2e8b0a5e09e1962e6f1dc6ee59dd09d9c892be802eac"
     },
     {
       "path": "icons/badges/dark/sparkles.svg",
@@ -711,33 +716,33 @@
     },
     {
       "path": "icons/badges/dark/sqlite.svg",
-      "bytes": 4718,
-      "sha256": "42839b163a3e871fe63950189022445a5bad7e9c8ce2893b66162db32e2b8559"
+      "bytes": 3694,
+      "sha256": "6d671a77eff3bd22cbd751039b554e1e3cd5a68f38e25578ac54c3eaa2336b31"
     },
     {
       "path": "icons/badges/dark/star.svg",
       "bytes": 4736,
-      "sha256": "ceac201935dd4a7dab03a1b3d355f09facd14e172c72e365d2e3c6a4189be9e6"
+      "sha256": "d1e264b6661f6adcd6aaa7af766d08172422784716d1512614a73c62339bdd4a"
     },
     {
       "path": "icons/badges/dark/svelte.svg",
-      "bytes": 4528,
-      "sha256": "c895d99ba158f2757ce0688185905e65875e16a0c977f5fb42cf3cb06ecc2788"
+      "bytes": 3330,
+      "sha256": "607948ae8b01c09be3f9cb5fd3b39d9f49e5f057b8df159fa62bbf756c03a8a0"
     },
     {
       "path": "icons/badges/dark/tag.svg",
       "bytes": 5237,
-      "sha256": "dbd107d152c8e5510fd0a8ccc6a74eae4dd25849bb2aa078b4fdf6e64e63ddd9"
+      "sha256": "f9777941156835efdc0e04522f65709032ae39a574dce40d9609eb18be76fd5b"
     },
     {
       "path": "icons/badges/dark/tailwind-css.svg",
-      "bytes": 6114,
-      "sha256": "7d6b813fce4e17eef2bde823f656f1d6c2d6b4eb5efd2a3e87afa70c85666d65"
+      "bytes": 5774,
+      "sha256": "2a16f4ce376df46451dc712e005529d3fece67cd0c4a53c2317bd02e8f09e619"
     },
     {
       "path": "icons/badges/dark/telegram.svg",
-      "bytes": 5523,
-      "sha256": "6afc3451887103e632b6ea5a9d159602870c3e70ea740647464b9c5395db7a7f"
+      "bytes": 5044,
+      "sha256": "e805e95ae7b173bf942821492691e2543bc6b2033b90e9c131aa35920f7fd9d1"
     },
     {
       "path": "icons/badges/dark/terminal.svg",
@@ -746,13 +751,13 @@
     },
     {
       "path": "icons/badges/dark/three-js.svg",
-      "bytes": 4691,
-      "sha256": "dc33126b284396974bbbfb5aff28eaaa80442d73092e1efa4bffb6b54a317466"
+      "bytes": 4068,
+      "sha256": "7960074f6c6a803d0fb2e83954856d9660ba90566054604c83d988a6dda23b4d"
     },
     {
       "path": "icons/badges/dark/typescript.svg",
-      "bytes": 6317,
-      "sha256": "358937666f211c811c76ceef49583b85d06807612c57c0886be5ed04f45c9e0b"
+      "bytes": 5528,
+      "sha256": "0056af0d64c245012289ced75942811259f662f3479fb1f30bf38818572ccc69"
     },
     {
       "path": "icons/badges/dark/user.svg",
@@ -761,103 +766,103 @@
     },
     {
       "path": "icons/badges/dark/users.svg",
-      "bytes": 6886,
-      "sha256": "bef7739d212c9154d8da3d9d145f46ebc7fa54f4e5cb960ea7777371a3a02328"
+      "bytes": 6880,
+      "sha256": "0ddf1bf6f0919c2c068a1329a6f04174eb2d35a3400b7dd4093ee0b77cfe8eb1"
     },
     {
       "path": "icons/badges/dark/vercel.svg",
-      "bytes": 2986,
-      "sha256": "1e832885251742abec9222e874e3218cab6e9c0f1ac6a1b43dff3f44a1a887b1"
+      "bytes": 3073,
+      "sha256": "8d658de920cff4755566b70bd4eb08e5d0d8b233e47b7b262c7e62ae71187775"
     },
     {
       "path": "icons/badges/dark/vite.svg",
-      "bytes": 1958,
-      "sha256": "ee2ad4ed4db9f8966704e4e4ad33648d2f6342475845ea3c443accbf6f36ad0f"
+      "bytes": 1761,
+      "sha256": "d86bc8ddd7765bf36e9d9851ff5006942c9921f51b1581f48340c0c7470fa485"
     },
     {
       "path": "icons/badges/dark/vue.svg",
-      "bytes": 2947,
-      "sha256": "5b41373764d4ded763ecb096ddfa9519742a576d95aa863b886c09a40b80171c"
+      "bytes": 2997,
+      "sha256": "c7474979348d2c46da6c25b8e661fcd35c3356fe0d6a801605e37caf06801374"
     },
     {
       "path": "icons/badges/dark/whatsapp.svg",
-      "bytes": 5741,
-      "sha256": "6061e8fe1783acabbc14e43dba34f8a5a823e63308983a72862037eed0b9f253"
+      "bytes": 4936,
+      "sha256": "38124a239f387bd16bd6a726a3698edb1143bceef0b7e1fc1da3a5f7e8c5b3fe"
     },
     {
       "path": "icons/badges/dark/x.svg",
-      "bytes": 652,
-      "sha256": "a55b15dfd9aba55081152fa0d9cf45daad0e9ef00dd36f2aaa6a82ed3bce1e8a"
+      "bytes": 591,
+      "sha256": "c3a89353b18e3fbd74d0cadfd3f2d3f31f71eed0bbc2fa225854f51fa8397f0a"
     },
     {
       "path": "icons/badges/dark/youtube.svg",
-      "bytes": 3901,
-      "sha256": "d69cdd641d023f873ae044f50f2ad285af2a05e31c643d683519785b22878353"
+      "bytes": 3828,
+      "sha256": "a402e5581371014a6e89d8ba8749ae96db7c4d232cdfbdc34c54ebd891cd1164"
     },
     {
       "path": "icons/badges/light/alert-triangle.svg",
-      "bytes": 2350,
-      "sha256": "42d57eb9263348ab2624c784ddf2ae674183138dbadd2a64fe00559473af2f69"
+      "bytes": 2352,
+      "sha256": "c5fb41b7b830e7f84b9d7f5c0ab44cf266ea3b8cff34a27b65ee9097628f097f"
     },
     {
       "path": "icons/badges/light/arch-linux.svg",
-      "bytes": 4032,
-      "sha256": "778e19697746888d224a8cc166f47a6a18952072486707e4a609865301d6ab09"
+      "bytes": 3541,
+      "sha256": "a2418b4b9e6da7f65cf47b29df0cd6c2f975e4782532c58f0859a540456668d1"
     },
     {
       "path": "icons/badges/light/arrow-down.svg",
-      "bytes": 9082,
-      "sha256": "2e77b0473384ff56186a6a40394ed06df40db90cd93e471647522b10796493ce"
+      "bytes": 9166,
+      "sha256": "03febcad50363a1cd0c7c399123a5bdf202e5b1822d9c764ceefb0ed56659426"
     },
     {
       "path": "icons/badges/light/arrow-up-right.svg",
-      "bytes": 8275,
-      "sha256": "91d91b98528b8e02974355cc60e4a8e4da63f5efa878851bacb24c21e1ade4fa"
+      "bytes": 8359,
+      "sha256": "898f7061808f651aa40c43deb6f998f80155be9940f0f98b858c3a32f343b22f"
     },
     {
       "path": "icons/badges/light/arrow-up.svg",
-      "bytes": 8922,
-      "sha256": "2521701f5121a5417e6754500975e50cad36c314eaf7963bcc3b3247ef8fd16d"
+      "bytes": 9006,
+      "sha256": "a30ef9a1cf58feacc0135eb36bf0590ba1a9afe663e6275d39e71bf8a6fb32b2"
     },
     {
       "path": "icons/badges/light/astro.svg",
-      "bytes": 3386,
-      "sha256": "01617e2e1cb2c8ebee8361c5b67e8503601a88565b40f9a868fc10c268ec4d6a"
+      "bytes": 2990,
+      "sha256": "8d15dd7938a8154a79cdb0fe0bc4d89ce6b35e46699ada18f0ba8557198492a1"
     },
     {
       "path": "icons/badges/light/aws.svg",
-      "bytes": 7886,
-      "sha256": "1e480b08be5b84d3b272a461230042a79f8bb129209be867ea77c20d0b1ce201"
+      "bytes": 5400,
+      "sha256": "3946937f928a3b791466288ccf872add17e4b49329df00a94f243afe9d6d04bc"
     },
     {
       "path": "icons/badges/light/bash.svg",
-      "bytes": 6448,
-      "sha256": "14038a1f8f698be643046619802d90bc4d22582506d153c4d0fec6647eaea6e0"
+      "bytes": 4767,
+      "sha256": "20dee4109f9e99b6081e9ebe1e60893ea2ca77545be58662ab6af35f682f3a06"
     },
     {
       "path": "icons/badges/light/blender.svg",
-      "bytes": 5242,
-      "sha256": "6567088cacf1a3781b0a8e7262b9b4837773cb51980eb958084f7c9f12542371"
+      "bytes": 4477,
+      "sha256": "645681ae6eaff9155a56d73e0c1cbe507c98ddbbcfd808335ca0cea99001f972"
     },
     {
       "path": "icons/badges/light/bluesky.svg",
-      "bytes": 3936,
-      "sha256": "16f046485ebb588fba73ed7353cde7da5bf585534f7a2c5e15badfbcbf2c6d4a"
+      "bytes": 3678,
+      "sha256": "428658767ca5baad6070352f1b5fe50c4ce41a3af4d3edcaa0c0796412e59764"
     },
     {
       "path": "icons/badges/light/book-open.svg",
       "bytes": 9731,
-      "sha256": "d2839b7295d98106639a72da82dce52a53f61bc18a7b40e576c525b85d7fb39f"
+      "sha256": "a1d534fabce1f1f98d8bc2b837845927dd9bca607bf02fb1a618e1480ff0f095"
     },
     {
       "path": "icons/badges/light/bug.svg",
       "bytes": 3465,
-      "sha256": "32e30e967c81f06c15bcb9c01fe42d022a2b503c67a0f791938cba50a1c3f723"
+      "sha256": "3fdb8e52e200eabe46551b197d778f1592d1305b4b9f1436e2acba335268ed76"
     },
     {
       "path": "icons/badges/light/bun.svg",
-      "bytes": 3537,
-      "sha256": "572f8af747c71603e64d71a958657cd97a73724c5a443d9012811d19f5e84a2d"
+      "bytes": 2370,
+      "sha256": "c6f8fce58bf7e568fed242d11e6c734df41b116b3fcc5302fb683813745c08ad"
     },
     {
       "path": "icons/badges/light/chart.svg",
@@ -872,27 +877,27 @@
     {
       "path": "icons/badges/light/code.svg",
       "bytes": 10152,
-      "sha256": "908f741d032af93ba353c7ae4f822cfbd2cb571b141a41e215cdf0a3da85fe44"
+      "sha256": "a19d4d1487490f47f381271a16ff389b87028095de46acc1ccaf3220083e3984"
     },
     {
       "path": "icons/badges/light/copy.svg",
       "bytes": 3894,
-      "sha256": "9ae68f9e9cdef7ee8dc7fbecc08ba9f9374a1c351f27aa1e72bbeb60fddd17fd"
+      "sha256": "bada96c4fc1c7f335ab73b8a0132da97da248cb675a81ff8f53cc4f4f5d29e42"
     },
     {
       "path": "icons/badges/light/css.svg",
-      "bytes": 4066,
-      "sha256": "18df13cbfe7ed9c7552ed5e0a0d1c421964eec7baa0c6f7d8f7993b4351b6230"
+      "bytes": 2968,
+      "sha256": "6357d10c1c32a23fe2e4fa5f0603f7f2c8f53f3f5892630f9100701d1d5832a8"
     },
     {
       "path": "icons/badges/light/discord.svg",
-      "bytes": 5429,
-      "sha256": "2b97a3ec197869481e814e276c373a548f3d3ba6d7e435e6ce54dee689c15453"
+      "bytes": 4478,
+      "sha256": "d67300d1056053628e6244bc7e4b574f2250f67b67b8664928a7fd9a5f8f3cae"
     },
     {
       "path": "icons/badges/light/docker.svg",
-      "bytes": 5074,
-      "sha256": "6d51f8bcfb01906b26f4436a99540082519823c466b8c3db63cdc55ab066fa96"
+      "bytes": 3847,
+      "sha256": "77c96ce6c880747c13ea5347d52216a6a77c3ef6c50001dbc9145574dbe98db0"
     },
     {
       "path": "icons/badges/light/download.svg",
@@ -900,19 +905,24 @@
       "sha256": "bfed650db7c78af69be9b829439e8e4b7b17ccef747ac1a83201789b9aa09bb1"
     },
     {
+      "path": "icons/badges/light/drizzle.svg",
+      "bytes": 2559,
+      "sha256": "cdee219da8c0b969195748e5e47699da1c6b5543f97a04d7e2731cef734873ba"
+    },
+    {
       "path": "icons/badges/light/express.svg",
-      "bytes": 5025,
-      "sha256": "fa867f5470967e75f8864fe6d578cc36655a0bd593d4c4a06469daae07a41e7e"
+      "bytes": 4438,
+      "sha256": "92d8ed1e101cf4afe5242200e964ab594bd779d7edcab33155a1f36d42c089a7"
     },
     {
       "path": "icons/badges/light/fastify.svg",
-      "bytes": 4322,
-      "sha256": "ddceb55735ad7a5a92b5c4e3d56cf1051ec6c7decb946a2e8290fae2ff31b55e"
+      "bytes": 3570,
+      "sha256": "56a020f077ac8114e54a95e0ffacc6d2bd2becbe146b6efed985d62f56e2645b"
     },
     {
       "path": "icons/badges/light/figma.svg",
-      "bytes": 4187,
-      "sha256": "741c4f7868ae2cb77bb3ae92494be15e46c1c2eb10be5fcb79c9cbf4b66c6e7f"
+      "bytes": 3569,
+      "sha256": "55db2801fe3520c6f85a93185ee09f693612490142c9768ee05b55ce578e4cef"
     },
     {
       "path": "icons/badges/light/flask.svg",
@@ -931,23 +941,23 @@
     },
     {
       "path": "icons/badges/light/git.svg",
-      "bytes": 1862,
-      "sha256": "342e25aeff828ec1806905e418caa4657c22826880205343500ae3c95322fb81"
+      "bytes": 1996,
+      "sha256": "0b81fed1cfb4a8131fdb77559e9aa469e101cb76b0c79be36a38daa4c5b32b78"
     },
     {
       "path": "icons/badges/light/github-actions.svg",
-      "bytes": 8165,
-      "sha256": "2f9fc9cf0cdfb39195d253cba5120994970fcb756582d55eebc36df071d27e02"
+      "bytes": 7168,
+      "sha256": "4f3de98c1bda09b4ce21b36a0f7c26b81bd9c5b2ffc22f07a61a7fa149b68884"
     },
     {
       "path": "icons/badges/light/github.svg",
-      "bytes": 3612,
-      "sha256": "75616e8cee000faf40d4a656b9c08a73dd7fcc359fcbe4f8f84b061f763f6d42"
+      "bytes": 3100,
+      "sha256": "1cbccb362ac92a1fdbcdce279d640cf555e3d6c249c54b7660051eb62cff36c6"
     },
     {
       "path": "icons/badges/light/gitlab.svg",
-      "bytes": 3739,
-      "sha256": "08391f4542f2fceb8a8be1c79db00b517fb1cff3d1a395997e682cc5410e1ed5"
+      "bytes": 3431,
+      "sha256": "1016baa46a1c5e13e5c6a0007052fb8f7ce0047bbf7a0d457365caf495a86d4f"
     },
     {
       "path": "icons/badges/light/globe.svg",
@@ -956,18 +966,18 @@
     },
     {
       "path": "icons/badges/light/go.svg",
-      "bytes": 3230,
-      "sha256": "d14e7a19ac833fff77da9b9926c2903b87a36d9e7dcdf9a6b289536ac6e17ca5"
+      "bytes": 2107,
+      "sha256": "3fc60984512aee9cffb3d80bf6de29e2d6f2a9492f337bd0edd7618b496c4bae"
     },
     {
       "path": "icons/badges/light/gsap.svg",
-      "bytes": 7122,
-      "sha256": "23e5391161fbe54d820410ee6022c0102da2f8b90dbfa64f8207d879d31cc75a"
+      "bytes": 2687,
+      "sha256": "fff07f3e5466b1b8b470e54dba99af52b49a7ae1480efb0fed84f9cb526d8584"
     },
     {
       "path": "icons/badges/light/heart.svg",
-      "bytes": 2776,
-      "sha256": "2d6ecd29421046f4a9b4872da22e70f7212c40fa745d2596af7a778f73f31957"
+      "bytes": 2774,
+      "sha256": "2b19cacdc9d8dab26349f64a4299be8e4095d4e1f7f8046c8dc54538f42c6df9"
     },
     {
       "path": "icons/badges/light/history.svg",
@@ -976,13 +986,13 @@
     },
     {
       "path": "icons/badges/light/hono.svg",
-      "bytes": 2912,
-      "sha256": "761415c7c8ac316763c60f7e960c1900e8b76a8b7cf68901310f345b94419377"
+      "bytes": 2405,
+      "sha256": "f3ae23a771d64eee942b65a34d685c9ab3b5548b39c383312c1f59440345953a"
     },
     {
       "path": "icons/badges/light/html.svg",
-      "bytes": 1846,
-      "sha256": "207784b9f907c917090d71f7b0bf38c1ce0c24e94b424eeb695c1e627e248f13"
+      "bytes": 1895,
+      "sha256": "06d5366837fac58a30779a70d1278d86587920ba74b8df99c9b0ceb17e9925e2"
     },
     {
       "path": "icons/badges/light/info.svg",
@@ -991,18 +1001,18 @@
     },
     {
       "path": "icons/badges/light/instagram.svg",
-      "bytes": 7884,
-      "sha256": "3d57ada752f18edf0e077fc763025c4fe58c924de7482f682bf633c7daf6bc4e"
+      "bytes": 6198,
+      "sha256": "7d7b485abc6afef497d65b989b83427d101a85614957aabbf5d40767832e786f"
     },
     {
       "path": "icons/badges/light/javascript.svg",
-      "bytes": 6538,
-      "sha256": "276084236fce58062922e6232037f345852f2daccff65defd879229ec7010dd5"
+      "bytes": 6074,
+      "sha256": "b80d954c529609a843001a760c891dd45e90edcddec1b5793fe867183d0ae2e0"
     },
     {
       "path": "icons/badges/light/layers.svg",
       "bytes": 5608,
-      "sha256": "250db0d6a8df3397192ce460dc8500517af7785ac00f1cbacf8410e7692fe829"
+      "sha256": "3ce8932442f062edf8115344c21d5a3f12edcd8af9243344735f374f9eba9819"
     },
     {
       "path": "icons/badges/light/link.svg",
@@ -1011,13 +1021,13 @@
     },
     {
       "path": "icons/badges/light/linkedin.svg",
-      "bytes": 3566,
-      "sha256": "c25a61c325e8970b3e39ea94ca32c314c378f3a7baef2982914ec22af84a63f5"
+      "bytes": 3326,
+      "sha256": "f15d548456f9e97db049496f3b45e4815cc3cd83c7a872904bf5b7c32d9c6328"
     },
     {
       "path": "icons/badges/light/linux.svg",
-      "bytes": 7007,
-      "sha256": "ab63917e41dd11cf736290c69d1cab995094b67cc894c187e0bbda12035586ac"
+      "bytes": 1982,
+      "sha256": "95217118e0fddd032f49e831ae912d090a042a8acdd46dd41565edc0d4c0e9ed"
     },
     {
       "path": "icons/badges/light/mail.svg",
@@ -1027,67 +1037,67 @@
     {
       "path": "icons/badges/light/map.svg",
       "bytes": 5533,
-      "sha256": "051dd91e8a771552aad3b21fa6163980d2e87283db75d37ecb21afb04b2804d9"
+      "sha256": "24aeaffd810f829440b5bac802786c08b1c898520f9d085c6ed6a869fae84c98"
     },
     {
       "path": "icons/badges/light/message-circle.svg",
       "bytes": 4648,
-      "sha256": "786cfd96aec6335802714d6fb52cd5ebec01c0f33f653f16c701c008a0ff8ba0"
+      "sha256": "73321c8d1b87c71eb699ffcda24fd1bca5800f549b1a7c32ccdad4549e1e7501"
     },
     {
       "path": "icons/badges/light/next-js.svg",
-      "bytes": 3274,
-      "sha256": "942ee5eac0c26d323ab1345d79f594456acc6d10896818e7326a032a2850dedd"
+      "bytes": 3324,
+      "sha256": "e7e72977199c14cf0be8f5d8e3ac8eb724af52c266efd28977fbe322483604ac"
     },
     {
       "path": "icons/badges/light/node-js.svg",
-      "bytes": 5308,
-      "sha256": "0e81bf6c1770fff3753b832c50c2712fb9935338b098eee17f28ec82c2d8e2b1"
+      "bytes": 4119,
+      "sha256": "f5a126018b09eb969aa7b28d0c56146b766eff67adafb22911161723a348c315"
     },
     {
       "path": "icons/badges/light/pause.svg",
-      "bytes": 4227,
-      "sha256": "326bc36db1f102dc514b82b54e3ea887e3e5be8da9f688194d05f697524520b4"
+      "bytes": 4370,
+      "sha256": "2eb0cc2eabef1845acb1838501df51aa2b306c6296fba97adbd5cd7b2cecddbf"
     },
     {
       "path": "icons/badges/light/play.svg",
-      "bytes": 5169,
-      "sha256": "682a3402d8fd584efedfaf3169cf4009aa9a72598afd7e16b89b541c44b1fd5f"
+      "bytes": 5194,
+      "sha256": "e5ee1f36682f8eb099b139e6974380a6f470c9f1ae7ee3789370c418f7d02084"
     },
     {
       "path": "icons/badges/light/plus.svg",
-      "bytes": 4055,
-      "sha256": "9b857828f57c946fdb53889122779148fc81bc491a066ffa432bf1096acfd276"
+      "bytes": 4185,
+      "sha256": "46e31546bb430f0cd470f98edc882171808f663be294bfd6f15ce99d142bcb90"
     },
     {
       "path": "icons/badges/light/postgresql.svg",
-      "bytes": 11684,
-      "sha256": "8280fd481e11a0627cd83b50b8c06d3bd39e3c99538db38939fa57a16bc6cf16"
+      "bytes": 7219,
+      "sha256": "af9cfd02285911782e072c756e73c38887fdb6f7ab9cf2bb4ccf0b640dbf63a6"
     },
     {
       "path": "icons/badges/light/python.svg",
-      "bytes": 4177,
-      "sha256": "42ad5a7ff5711a85d78a5a50cf833be7068f872448c88509eba6caaffd0107fb"
+      "bytes": 3245,
+      "sha256": "bd55e557fa634745a649056c6ff58cf566c89d6ed8fc5fe1917bffd64eae877f"
     },
     {
       "path": "icons/badges/light/react.svg",
-      "bytes": 6276,
-      "sha256": "e2858baf22f7fa398f91c15b4056c7d28109c329faeca50d4abc768dd69bb290"
+      "bytes": 4055,
+      "sha256": "eee488f8b87aeb41bf0c6f7e9620eaa430c415c36571e079dfdd4ccf5e4da78e"
     },
     {
       "path": "icons/badges/light/redis.svg",
-      "bytes": 3736,
-      "sha256": "6a6cb078c50e09224325ed0d42fe2967ae440d1b55f1c45369b1620ed35aab4d"
+      "bytes": 3379,
+      "sha256": "b9b9e208ab54dc2c07767fce672da183c532cb236c12b84027a7d3018b6bbde8"
     },
     {
       "path": "icons/badges/light/rocket.svg",
       "bytes": 7354,
-      "sha256": "1b78d98f7ca409a079ac2877eed4c877426006590d1f9223db730eb99be2468a"
+      "sha256": "0326520b82fff558ec94edd04c0d49f6338c412d2b59f16563716314bcbce4bc"
     },
     {
       "path": "icons/badges/light/scale.svg",
-      "bytes": 4593,
-      "sha256": "88d18ad328f311deb577334f5151d17f8d8b018b803a2d23680cbb00f75a8676"
+      "bytes": 4592,
+      "sha256": "19661f9725e1cf4220c323ff362c41c5fe78ee13a4aa4ecb22ac22e06b15ade6"
     },
     {
       "path": "icons/badges/light/search.svg",
@@ -1097,12 +1107,12 @@
     {
       "path": "icons/badges/light/settings.svg",
       "bytes": 9077,
-      "sha256": "e2a46279fa09c23e0e795c1d5f046be08503dd2d7783272808fb1ba970831307"
+      "sha256": "cf9d969968643845ffb26dde9a05dd0ddadd205eeecc61a59db789beb06ae059"
     },
     {
       "path": "icons/badges/light/shield.svg",
       "bytes": 7214,
-      "sha256": "821c688cd3996a7c14f076ede1817b976d75354c6448ccb14437cd15b33d2249"
+      "sha256": "0ff73a860a4f334c1e417ec83d1e499424caa9d5402530683f94d03856a1a6be"
     },
     {
       "path": "icons/badges/light/sparkles.svg",
@@ -1116,33 +1126,33 @@
     },
     {
       "path": "icons/badges/light/sqlite.svg",
-      "bytes": 4718,
-      "sha256": "5c4fe76eb3436ecde96cb3b608b2c5cdee06464d0569a817a45a5017516e70e9"
+      "bytes": 3694,
+      "sha256": "67dbc1802d0b32fe5bacb1bef3d7e19ebbad2766fedf26eedfc8a07aa9138650"
     },
     {
       "path": "icons/badges/light/star.svg",
       "bytes": 4736,
-      "sha256": "c75f64abec196272a39191d1a32efe8332336c44a6e0dcbd93bb3d921bfb104f"
+      "sha256": "1fabb4bb7e821e0c35c7dfdb2709f532c6faaa03e66c96abb04f7ed452680657"
     },
     {
       "path": "icons/badges/light/svelte.svg",
-      "bytes": 4528,
-      "sha256": "57559ee977543e51bdbd0a25e0499c91852129a5012d9a6bec7bcc78e7d0c06d"
+      "bytes": 3330,
+      "sha256": "43ca6dea5036b16adafa9b30524958283f852a91432012f53233356f04822a05"
     },
     {
       "path": "icons/badges/light/tag.svg",
       "bytes": 5237,
-      "sha256": "281267ce2ae7e0b3a6c77f205846a0ae23a1f0fc573b5a66ceaa3d9b01244843"
+      "sha256": "4725c0913453a7a9e32738c25c0c3570df09ce41bbc952837983e61c8609faf2"
     },
     {
       "path": "icons/badges/light/tailwind-css.svg",
-      "bytes": 6114,
-      "sha256": "c70cbf46d0d890a0ab6010b7a076e6025c6fcd685282773c2ed216f517352340"
+      "bytes": 5774,
+      "sha256": "e9d3458d301c7d7690d851389f97e0f91d381d1fdfc4dea2d8e9f2e99b88c17b"
     },
     {
       "path": "icons/badges/light/telegram.svg",
-      "bytes": 5523,
-      "sha256": "aa748b17c5b19ed1b161adb83dab319d1881762ff3ba53312f35b6ca14ee1c46"
+      "bytes": 5044,
+      "sha256": "105c6a3accf1f292a01c1e43d6667c588c1218774a783f0a46b56a7d670e600f"
     },
     {
       "path": "icons/badges/light/terminal.svg",
@@ -1151,13 +1161,13 @@
     },
     {
       "path": "icons/badges/light/three-js.svg",
-      "bytes": 4691,
-      "sha256": "8304a558fbe18c3aa22fd3547095a494e831a47cbb587c7e91f9637753dce5e8"
+      "bytes": 4068,
+      "sha256": "c25f457aa1c6ee131bc4ac0338e07b72dad2d8724932d78c6e02f0ce21e630dc"
     },
     {
       "path": "icons/badges/light/typescript.svg",
-      "bytes": 6317,
-      "sha256": "0d399bf886243e84c69d17be4d54e4e6998a36c47bbe49a9ba915ee1d940d7db"
+      "bytes": 5528,
+      "sha256": "e285f064ba378d1326c55e9a6efc5041784b7aed0c86f552f3a8741506f4fdc9"
     },
     {
       "path": "icons/badges/light/user.svg",
@@ -1166,48 +1176,48 @@
     },
     {
       "path": "icons/badges/light/users.svg",
-      "bytes": 6886,
-      "sha256": "2e399756721fcf1fb992b72b6026a1c80d7907ca55b38859a0cf58747d69d75c"
+      "bytes": 6880,
+      "sha256": "7371999b6f9cfcfdf286c5ae2a5140cfa84136e3fd929c52b970b9633f6de3ab"
     },
     {
       "path": "icons/badges/light/vercel.svg",
-      "bytes": 2986,
-      "sha256": "88e3e51e5aad4499bfa1a9af1024e827a5e96635f0ad599ae3286f74152eadd9"
+      "bytes": 3073,
+      "sha256": "73455c39839ea94e0141e68cc3901f08d6de8f28a3967f67e816e70c1261e6b3"
     },
     {
       "path": "icons/badges/light/vite.svg",
-      "bytes": 1958,
-      "sha256": "7deda9f374a7a1fe249c0d3a377bdcf2dcdf5c4444f0176d7b55f63c53ef2091"
+      "bytes": 1761,
+      "sha256": "04d62ee55b5ee3debb551a64fe59c93857ae0c67ef7bc62bf682f18eafa69ad1"
     },
     {
       "path": "icons/badges/light/vue.svg",
-      "bytes": 2947,
-      "sha256": "8e9556109f5e1409de2e513589acf3e4c00cc0dc2b8396353602c78b5c6013ea"
+      "bytes": 2997,
+      "sha256": "6dc9c178b46d85d09abba012d226cd1dcc98c52a9dbc63dddec12349de0242d4"
     },
     {
       "path": "icons/badges/light/whatsapp.svg",
-      "bytes": 5741,
-      "sha256": "78098f1e35c1c1249f9319d16633d7f746f80612ef8ca3c62e8d0d539c5edf6d"
+      "bytes": 4936,
+      "sha256": "ca11dc90cbf15f352be4b5ab519043e2e0b38ae7bf145355c16a8b229f88b3eb"
     },
     {
       "path": "icons/badges/light/x.svg",
-      "bytes": 652,
-      "sha256": "9f18a3a565941019217ef4a8c0ac6f551606232996dba4fef846aed9b2d4a216"
+      "bytes": 591,
+      "sha256": "2c6a421f447bf71fe61d519560b3b60426336ea6eca43a792f7b7955f6db591c"
     },
     {
       "path": "icons/badges/light/youtube.svg",
-      "bytes": 3901,
-      "sha256": "67e5d9bdb2f9d7c7807a745ef67773159f57c316f72d453c6db30fed5b4c7f18"
+      "bytes": 3828,
+      "sha256": "f109e8b5553a18a51f0a8946b5c128d77c7dac7bef128ffe2606acb4d28ae7cb"
     },
     {
       "path": "icons/manifest.json",
-      "bytes": 69525,
-      "sha256": "6dcac7c74e00e71be5011942e45ba03a0248e9d72590c7cbf6a4a3f13aee4269"
+      "bytes": 81824,
+      "sha256": "ff39d910d70a1c5202746f0e01d1de422309c266e22edf67a49abc3b2d5dccf1"
     },
     {
       "path": "icons/README.md",
-      "bytes": 31089,
-      "sha256": "243276cc1767a290d26f45291a5e47bf25ba2aaea75729e7b56d73416314dd36"
+      "bytes": 31637,
+      "sha256": "2c0c51e1609cb81ee41aa5f37de3341d05f0bfe1b490b200113d644d662e6fc5"
     },
     {
       "path": "icons/simple-icons-16-DISCLAIMER.md",
@@ -1231,68 +1241,68 @@
     },
     {
       "path": "icons/svg/alert-triangle.svg",
-      "bytes": 274,
-      "sha256": "3fc9abe50d73e386c80c18a2a7a10e2d75eb66ba7c708a7f2d368790892750b0"
+      "bytes": 276,
+      "sha256": "8814d0999d07dee496ea4fd01c39d8e531daace3cbada50c033654f27895bba2"
     },
     {
       "path": "icons/svg/arch-linux.svg",
-      "bytes": 794,
-      "sha256": "03c57c4cf836dfb35df538205ed58a8f2a78bf266af22a7b9c7410455bac7525"
+      "bytes": 308,
+      "sha256": "1cadc5069419951bd09c40347391e38d45df2ca48d6ccba1447cb9ee0fd900de"
     },
     {
       "path": "icons/svg/arrow-down.svg",
-      "bytes": 350,
-      "sha256": "322b50aaaa6b3998c242fa32fc77d38d568cca9fa82d8d90375dfe30ee7c79de"
+      "bytes": 444,
+      "sha256": "afe27564323a5edebeaa4f8ad2951839765b59822e872615cb6dd00cfbe5a26c"
     },
     {
       "path": "icons/svg/arrow-up-right.svg",
-      "bytes": 349,
-      "sha256": "0a11f726acf5f46ee4c9edbf13a0be6badc140a0f9c953e39eb17c10c0b164af"
+      "bytes": 443,
+      "sha256": "31b8a3d180c5569a26f76377f2610e12053de8da89aecd1d918f41ed61b5a71f"
     },
     {
       "path": "icons/svg/arrow-up.svg",
-      "bytes": 313,
-      "sha256": "6d42417b087182916ee916e454813da0f9e4bbef45eb6d91e4fc0ba62bd70cd0"
+      "bytes": 407,
+      "sha256": "2c66673e34554132f4f9e50d1df52385364116f26f17e3c892ab8afcbd06d59c"
     },
     {
       "path": "icons/svg/astro.svg",
-      "bytes": 813,
-      "sha256": "d571ae3b32970ba8010826a5d31e46951b82b284b04dabff79397f0acfe6ade7"
+      "bytes": 427,
+      "sha256": "0d4b59295f1aa7461e5c0d2a5a055a1d98805701b7afb19f4a23905a2408a2e0"
     },
     {
       "path": "icons/svg/aws.svg",
-      "bytes": 3185,
-      "sha256": "756ec070973829e8ea289aee241802a73909268b625285dded5ae58361f78579"
+      "bytes": 719,
+      "sha256": "70f35bd4b53275c147bb1234352e1eca2caf703e3d4a0191a94aeadf84c56bc6"
     },
     {
       "path": "icons/svg/bash.svg",
-      "bytes": 2063,
-      "sha256": "d83cf488cf2b1fb8914140ad467d3d68323f3547688b18927e7b9afad0154a55"
+      "bytes": 392,
+      "sha256": "6a10ea07f4e63f0ddee5305421e6201d047900c97562bdb69c9cdcefdc454f22"
     },
     {
       "path": "icons/svg/blender.svg",
-      "bytes": 1326,
-      "sha256": "43eae3987ba977f79d0cb8293f5f71e190303f4199df9f438342a1dcb04f57fe"
+      "bytes": 576,
+      "sha256": "319ec86e8a038bbb34b00c44e9560a62d56b52087033227fbc47b2c6a36c41ce"
     },
     {
       "path": "icons/svg/bluesky.svg",
-      "bytes": 597,
-      "sha256": "bcf5bcefed257c2f1703367720219dc3da4959a474359633265a2bcff9903cc5"
+      "bytes": 344,
+      "sha256": "21b84f33e557127626cf1854905b6dffafae0215dd8eecf739ebe813ab2f9225"
     },
     {
       "path": "icons/svg/book-open.svg",
       "bytes": 322,
-      "sha256": "18a02e7e499c17690f5d649575d5a9d04cb5c7d6f8991159228a3b14046bad8d"
+      "sha256": "5e474d64e544e124fbe00d443ce048420c6aa8afbc7ca34da961d76190e5d730"
     },
     {
       "path": "icons/svg/bug.svg",
       "bytes": 354,
-      "sha256": "6478d84dcd91c40878f08c006852c6d12e08c0edf67e0c73d5b099e478f86c06"
+      "sha256": "1a674751106b1b6a0e26a90ab3b93dd923796d22a02b3571117dbf11bb98ce26"
     },
     {
       "path": "icons/svg/bun.svg",
-      "bytes": 1743,
-      "sha256": "ef093fcae967e9997ba60ccc180370c32440423f07a0fafd83fa000b876f7032"
+      "bytes": 591,
+      "sha256": "138c41058f730961cb5a8b2e228ee89d5d76091b2e74955343cbc38641060c00"
     },
     {
       "path": "icons/svg/chart.svg",
@@ -1307,27 +1317,27 @@
     {
       "path": "icons/svg/code.svg",
       "bytes": 285,
-      "sha256": "85a60b4fdd5c40629db194e4f5f043839266f4360327d79a589148358207c61b"
+      "sha256": "ea6954e317702ccbbb724cd5ddf1ff2f01830d65fccbd4691de8d5499f3131c4"
     },
     {
       "path": "icons/svg/copy.svg",
       "bytes": 270,
-      "sha256": "531dbfd5e9fc9fe463ed2d096b4bdb79ebf6bf58bd5a71a13e5fb66083544a29"
+      "sha256": "6ad6ebf406287071dfc10e2663fb0ab61267e121ee103e05e97a034758dac34a"
     },
     {
       "path": "icons/svg/css.svg",
-      "bytes": 1515,
-      "sha256": "b8ca91988aa5ca2b4694539365a588ef2adb1eaadd2d50b4899c1aafc972805c"
+      "bytes": 427,
+      "sha256": "fa1d1569b63a5d18511e9b6442c12619726b57940992ba5203ba7d13622bd506"
     },
     {
       "path": "icons/svg/discord.svg",
-      "bytes": 1406,
-      "sha256": "90ce8ba2dd01579eb321ac20216b89ac835a6047c7b073a54d9a2a9710caa181"
+      "bytes": 465,
+      "sha256": "35e7ea355e0cf0f30de3a570aaa20d90f88b8da73282f20d350d9699fd40b9bf"
     },
     {
       "path": "icons/svg/docker.svg",
-      "bytes": 1798,
-      "sha256": "a9a2f066bd00866e9dfdbe34b62c585edc5d3bed72f282e99ffd5bc25e144c2a"
+      "bytes": 586,
+      "sha256": "23e067e8df2f892c345557d9f89711deaf486f3dff9d56871c5a3c00df6caf01"
     },
     {
       "path": "icons/svg/download.svg",
@@ -1335,19 +1345,24 @@
       "sha256": "71b324a70410534ec8139f6289d4359d5b6321ac35aa4cfdd586623959234ae0"
     },
     {
+      "path": "icons/svg/drizzle.svg",
+      "bytes": 286,
+      "sha256": "36384be95a5fd9b0a4cdf9bd4c02e386ec8d7361276a98a5c90d4345a60bebf9"
+    },
+    {
       "path": "icons/svg/express.svg",
-      "bytes": 991,
-      "sha256": "2d54609a9040769ae579764f89c5a854fae2bfabe51ba13f006fd198637eb1c0"
+      "bytes": 414,
+      "sha256": "257484e87fc46568530768346f4e11e9e3ae92aa3ddf4c3a4ad0e424d16405a3"
     },
     {
       "path": "icons/svg/fastify.svg",
-      "bytes": 1197,
-      "sha256": "e691a3d9fce78faa047612c9968790544cacc23b0d128ecc2aae01006a20f0a2"
+      "bytes": 455,
+      "sha256": "148578c0c3ff31f6bc6da32608fb7f30cfc409af87556990cac05e62318470bf"
     },
     {
       "path": "icons/svg/figma.svg",
-      "bytes": 1127,
-      "sha256": "27ecef6242c53ef93a2a18a2847a228a04ff5b916e082254398dc4d584207cfd"
+      "bytes": 519,
+      "sha256": "cb73b5cdc78889417b04a3e4c05d584d67d8b8769d0959e9160c8fe4e28331fa"
     },
     {
       "path": "icons/svg/flask.svg",
@@ -1366,23 +1381,23 @@
     },
     {
       "path": "icons/svg/git.svg",
-      "bytes": 462,
-      "sha256": "7b6f9d45c0ce22b263b01a8230c893af6e6017fe2f4fa2972f4c3f67f08d95a7"
+      "bytes": 611,
+      "sha256": "3a7d2ba689c32f5dc7b35099c3eb5fbd0352985a6992410f9143f823d5ea579f"
     },
     {
       "path": "icons/svg/github-actions.svg",
-      "bytes": 1752,
-      "sha256": "2b15dc3250b91a74407ba68162838c2ba196244d55b3f85f584ec52e14b173f3"
+      "bytes": 775,
+      "sha256": "fb1b0732673d98cf4ce96e8abbbef01ab12f5383511ba3e28e789ed920701ee3"
     },
     {
       "path": "icons/svg/github.svg",
-      "bytes": 855,
-      "sha256": "27845b614103f60e817c4af69df797f5533569bbcf76f521439152d48280cb4b"
+      "bytes": 348,
+      "sha256": "2d1eece8bccc46df0169e6c7c8c12209dd4d2d7c9217a146717cbbd0546a7e89"
     },
     {
       "path": "icons/svg/gitlab.svg",
-      "bytes": 606,
-      "sha256": "5efbc8b8b9144e0d0641ea1e1ab935c16ee9fa8bc62b18de9b78b6a28101ea99"
+      "bytes": 303,
+      "sha256": "c74e69bb363c7d7bdf5faac3d379cd3e1e37f297e3ded6ec3e8bd5e1983b8ab4"
     },
     {
       "path": "icons/svg/globe.svg",
@@ -1391,18 +1406,18 @@
     },
     {
       "path": "icons/svg/go.svg",
-      "bytes": 1673,
-      "sha256": "450bf2f39b9b2c5f315ba4dcf280e419f460adbbda3a1a43796055dd25511f37"
+      "bytes": 565,
+      "sha256": "5e4d3d02a6f133d4e44ef4f421668a949021355da82f03f3de22b551b58ec17c"
     },
     {
       "path": "icons/svg/gsap.svg",
-      "bytes": 4763,
-      "sha256": "1752d4fd119fb6748dd39bf744f5f1e3422590a598f8724e0c207f88ccbd3637"
+      "bytes": 333,
+      "sha256": "c68a0bd00df894a4a81350c0faba353a0cdb11b0103f3536fb2520e27ae6c360"
     },
     {
       "path": "icons/svg/heart.svg",
-      "bytes": 287,
-      "sha256": "2634f9b3d99d1c4305f3f8419d364eb7970a984480fc7de5cf4ba9eb152f2c14"
+      "bytes": 285,
+      "sha256": "678b1c27c45bb09b893707597cdda15c80b54d0eb6ddb953aa4b552c109e9965"
     },
     {
       "path": "icons/svg/history.svg",
@@ -1411,13 +1426,13 @@
     },
     {
       "path": "icons/svg/hono.svg",
-      "bytes": 797,
-      "sha256": "915ab6d3fddf66fad45bb94a7610bdd64cbc53476cd29ee46ee131385a780631"
+      "bytes": 295,
+      "sha256": "39d8ee5b5096fb91ba4cc7fbf3dee54d43d312bbef9ef61c3606ad28a31c13fe"
     },
     {
       "path": "icons/svg/html.svg",
-      "bytes": 361,
-      "sha256": "c32c0843fa398038991a2959ca9df2b8dfca0f3a662539d8392339ad54ce5c86"
+      "bytes": 420,
+      "sha256": "fd8563ef357d3ff63830d1d1f429c5eedea671ec2354b37902f9a93176d8b802"
     },
     {
       "path": "icons/svg/info.svg",
@@ -1426,68 +1441,68 @@
     },
     {
       "path": "icons/svg/ink/alert-triangle.svg",
-      "bytes": 264,
-      "sha256": "df41db7eb2616a618f227d3ed5126d4036e71291a260862ee229f6b00dbd32e8"
+      "bytes": 266,
+      "sha256": "c14fe14991a4b23bd2e54dd4943d759193c9a8e1b7bfb56c8f8c06c1d327293c"
     },
     {
       "path": "icons/svg/ink/arch-linux.svg",
-      "bytes": 784,
-      "sha256": "df3a1eb3516ab84f9df6a550f6d7d9e33a36f96af5989505a14b84beb1effd5e"
+      "bytes": 298,
+      "sha256": "a28dc5025da22a480981bc501120479de565137a7749776e17ec82993cf8fde0"
     },
     {
       "path": "icons/svg/ink/arrow-down.svg",
-      "bytes": 340,
-      "sha256": "531a70909fec72edc426d45ef286a700a11acf019705828d0f9b88f2b44180b9"
+      "bytes": 434,
+      "sha256": "6ad6a5d18d67605f78e2231181031b2af879e438186b1847bf8dc6478329f698"
     },
     {
       "path": "icons/svg/ink/arrow-up-right.svg",
-      "bytes": 339,
-      "sha256": "9a3ac9ecf047a28574c082214c898eb07589c337e625e42f6be5c4c0909231ed"
+      "bytes": 433,
+      "sha256": "25b5fcd39df186eea236229deb35ce0aeef4a3deeac7922bae3ee7b22e9a0b88"
     },
     {
       "path": "icons/svg/ink/arrow-up.svg",
-      "bytes": 303,
-      "sha256": "84624ef9bc109b27731585523f99dd31fb4e1ad8816937f0b3279a2e3177cc3f"
+      "bytes": 397,
+      "sha256": "69ad52a60a28edbf67ebeebef3eee54366467c6118c933e293ba7153a3361aa4"
     },
     {
       "path": "icons/svg/ink/astro.svg",
-      "bytes": 803,
-      "sha256": "f46c7232c2d858fbe9489a7763529b1a93ccca403965b7e24b0f617cdf28df1e"
+      "bytes": 417,
+      "sha256": "48b67eb9078de40468772acd40d40e8b3aa6d5b6c9313e81a1c8c363715570dd"
     },
     {
       "path": "icons/svg/ink/aws.svg",
-      "bytes": 3175,
-      "sha256": "7fd9b956aa6c9ddf41c627a11c10875fde81c8ea5c563d700175c6fdb5c8c0cd"
+      "bytes": 709,
+      "sha256": "5e9c0b8aa9d34f471a0e769c5774c3f6b64da917321cb0e7f1892dd4ca0481f0"
     },
     {
       "path": "icons/svg/ink/bash.svg",
-      "bytes": 2053,
-      "sha256": "d22b6e21a4b40b1bf52ecad6189a1409eaccac5f5552bfed28e8fc286c5bde8a"
+      "bytes": 382,
+      "sha256": "339873de9e6c6aca8928313ccbd5fc843e3cd8b8b6bec27b5f8488fdb783dfab"
     },
     {
       "path": "icons/svg/ink/blender.svg",
-      "bytes": 1316,
-      "sha256": "5992c0fa06059ec56ccfcce2a68244392f48645e0da51a61baacfa1892d4d711"
+      "bytes": 566,
+      "sha256": "29aba3f59611d62ad4e0a19756891a9179f05507c588ce271881243b32aaff9c"
     },
     {
       "path": "icons/svg/ink/bluesky.svg",
-      "bytes": 587,
-      "sha256": "5ccc75ff60b3a5b5f5c7ad159fee1fed2a4dde1c73edbbf7ef0eef3f55bbe2bf"
+      "bytes": 334,
+      "sha256": "953e950cb645fa5cf2f8f031b1606efc68ab7795511bf2eaa1666151cc5a2596"
     },
     {
       "path": "icons/svg/ink/book-open.svg",
       "bytes": 312,
-      "sha256": "e8451136ff6b9d4618e19a2a4027455410071b4e469d295cedf0498c4921e207"
+      "sha256": "e75809a678857179a2b505aeab4b5a21237cbc4d07e987c98f71e244a26553d1"
     },
     {
       "path": "icons/svg/ink/bug.svg",
       "bytes": 344,
-      "sha256": "608f70e613c14c240e41c78dd20968c56fdb1d22442ed9ff84a16f4bfdb1a184"
+      "sha256": "9ed8fea0d4916db29a0e084fa9373f6a40ff123e55c5b441767584357f507123"
     },
     {
       "path": "icons/svg/ink/bun.svg",
-      "bytes": 1733,
-      "sha256": "b497e5e11c86555bca366fbb359809bea19832978a8ddacd70a17689ac6f75f8"
+      "bytes": 581,
+      "sha256": "b9d6bad0eaacd657fc9759c0e75a9d1dc657c34b660edb4f86e60eba937f9ec1"
     },
     {
       "path": "icons/svg/ink/chart.svg",
@@ -1502,27 +1517,27 @@
     {
       "path": "icons/svg/ink/code.svg",
       "bytes": 275,
-      "sha256": "00d2c1d7538e1329c9f2077f375a70a6c48d20dcae9c38c503dd0e3bd6be1dc2"
+      "sha256": "f4ebc4343fce4a024bddaf98879e34eb6291c6369ca7bcac68565ab15633a365"
     },
     {
       "path": "icons/svg/ink/copy.svg",
       "bytes": 260,
-      "sha256": "58b228eeb0a2d4c8ebd31327a44486d31ee31a60678eb7d26d622a829886fb8a"
+      "sha256": "cf129310ac4496aea9ce7364a79143c62b06ad49e0f8f809bc06d5a85151463f"
     },
     {
       "path": "icons/svg/ink/css.svg",
-      "bytes": 1505,
-      "sha256": "23e47b5e4741aafb5a788ebc21dee8439dac4b702a5c6328ef05f45640db87e1"
+      "bytes": 417,
+      "sha256": "2e161ba81a717ec62e0314836531387b8031d14867b5101e23a169bbab9b473c"
     },
     {
       "path": "icons/svg/ink/discord.svg",
-      "bytes": 1396,
-      "sha256": "d49854e8b6e6491729b6346d9456f35623dab771300c3e04a18db5031c71422e"
+      "bytes": 455,
+      "sha256": "8361070ba0c6b7679273877b0cd3b8629715846036c996fea9bdab2062475cca"
     },
     {
       "path": "icons/svg/ink/docker.svg",
-      "bytes": 1788,
-      "sha256": "4fe82d263a0f95b94b15b72e68ce42953e9e83eb68ab4b6e8359989f7e5f0c38"
+      "bytes": 576,
+      "sha256": "fb5f53976415b49a985791758aef97a8d9a60f0d15f1594d75d07471c3a4fd9c"
     },
     {
       "path": "icons/svg/ink/download.svg",
@@ -1530,19 +1545,24 @@
       "sha256": "e072359434e8e4e3070ccbcddc9bb46078ef08c1bce7b27d62e9c5c4207ff851"
     },
     {
+      "path": "icons/svg/ink/drizzle.svg",
+      "bytes": 276,
+      "sha256": "c7c89ebdd4a62faf3472cf84952422bfbfeb755dbe2331c6c2007e7a7ba0cd17"
+    },
+    {
       "path": "icons/svg/ink/express.svg",
-      "bytes": 981,
-      "sha256": "08c83d945a44776fd2127c0578d3d391bba05f2cc9121076bac7cff216050df9"
+      "bytes": 404,
+      "sha256": "4cd87d126b3224026b27add4e4523aed78a1afa83280355db919faae786dab76"
     },
     {
       "path": "icons/svg/ink/fastify.svg",
-      "bytes": 1187,
-      "sha256": "b7ae8c9591c5f0614e22a6e4ceb4e0e2c64257dff0d0c1249accf56655fc2e49"
+      "bytes": 445,
+      "sha256": "4da026f7c9bf0c41a94d420c9b23c2d300607343bec7a9b40ffe5a95a2a020f2"
     },
     {
       "path": "icons/svg/ink/figma.svg",
-      "bytes": 1117,
-      "sha256": "68e3776834d901130af7790b4b8b1b69d935f5bbb81babb88ea0610da9c4c828"
+      "bytes": 509,
+      "sha256": "107a8cea64900d1725f83de625f32e829532a942b211467c92bd5a958bde9caf"
     },
     {
       "path": "icons/svg/ink/flask.svg",
@@ -1561,23 +1581,23 @@
     },
     {
       "path": "icons/svg/ink/git.svg",
-      "bytes": 452,
-      "sha256": "88eef435eecfe938608e4936395f18caabb9458f6fe84a3ce5555afb44729966"
+      "bytes": 601,
+      "sha256": "1d4efe756a6778109764a4680e0fe8b1d5296c37280fb0a62a3f832165ea575d"
     },
     {
       "path": "icons/svg/ink/github-actions.svg",
-      "bytes": 1742,
-      "sha256": "3e82d29870594b94190d3e2ee2f254648aa4a3e2999ea721948662022b600a13"
+      "bytes": 765,
+      "sha256": "b3346c55b45f1e1eaa05661aabff2a99c33ad3456d4e1561b873c3a65bb552d4"
     },
     {
       "path": "icons/svg/ink/github.svg",
-      "bytes": 845,
-      "sha256": "b46f708364fee1819de007de14ab01f5436c7e59c68232ca2d88fb9b78ee30a9"
+      "bytes": 338,
+      "sha256": "bddb828d6df90a002b431440987a64ba4f34074803784299b40cba4739c5796f"
     },
     {
       "path": "icons/svg/ink/gitlab.svg",
-      "bytes": 596,
-      "sha256": "050f83a69b38a46692401634f855a9e0e069759e6f8ef8f0e9fcc9b947c967d7"
+      "bytes": 293,
+      "sha256": "705cadaead82a8f729e94dfa70518096bd47b5edde759508614535f5eb893e38"
     },
     {
       "path": "icons/svg/ink/globe.svg",
@@ -1586,18 +1606,18 @@
     },
     {
       "path": "icons/svg/ink/go.svg",
-      "bytes": 1663,
-      "sha256": "f6dfabe6e18c47bdd024933ad7533425940e91ffea0b31380ab3f5bcb2082be6"
+      "bytes": 555,
+      "sha256": "cc4d9e8cfd645a9574feefce8ce5d19d501560882fc8ccb74235d9b46e4d88a7"
     },
     {
       "path": "icons/svg/ink/gsap.svg",
-      "bytes": 4753,
-      "sha256": "2a22b9d84d878e5b6bb75542eb7229a3bf44efdcb47bfcf4ba5d70d4f4c4d3a7"
+      "bytes": 323,
+      "sha256": "b51d429a8abb45c89bc95085ef2687deaf2a280f60f97b4c6982fc63ae56fddc"
     },
     {
       "path": "icons/svg/ink/heart.svg",
-      "bytes": 277,
-      "sha256": "ca7011efe133b76d97776afd7720a298dfa21fc9199e690032b4654a0d220607"
+      "bytes": 275,
+      "sha256": "52eabb8b6df82a2885ac114d9616ea634fcd9af34f47ef7871066ca0155c34d4"
     },
     {
       "path": "icons/svg/ink/history.svg",
@@ -1606,13 +1626,13 @@
     },
     {
       "path": "icons/svg/ink/hono.svg",
-      "bytes": 787,
-      "sha256": "827703fd9cba132c70479399a91bc919e738d27aede22d8580734c40c207a1ef"
+      "bytes": 285,
+      "sha256": "f7fce352260ea355b3e62e8cc0e48df9fe05994c7cee28a286536aac5645dd53"
     },
     {
       "path": "icons/svg/ink/html.svg",
-      "bytes": 351,
-      "sha256": "947e8bb6d43d3f82edf10390393a7635adace6cc6a3f79f9f3ad86c948fbffb5"
+      "bytes": 410,
+      "sha256": "8fef9faa21e8ab410c37199b73a4747b17e71fa6dc88b8b6ad75074b37577c72"
     },
     {
       "path": "icons/svg/ink/info.svg",
@@ -1621,18 +1641,18 @@
     },
     {
       "path": "icons/svg/ink/instagram.svg",
-      "bytes": 2121,
-      "sha256": "fb79350da8e97a43f747eec384ea2cf2835c01c91a15b5f1a054e29e69e2ab59"
+      "bytes": 445,
+      "sha256": "f06adc52b4b1a46cee15cc8e817318a089790bdfa956f4a6f9430e78759757e1"
     },
     {
       "path": "icons/svg/ink/javascript.svg",
-      "bytes": 993,
-      "sha256": "13fa9b57427024cc6a7896a3acadb164b918cb2fa65027108e3794250a5f4f2b"
+      "bytes": 544,
+      "sha256": "b9314441470b5b53b36102e56ca48539caaea75e2373a942aceb789ae6eb04ad"
     },
     {
       "path": "icons/svg/ink/layers.svg",
       "bytes": 288,
-      "sha256": "90fd46373077d8d2e04194c01d465150800a31d4af8f232c458e9b6f7e80a96f"
+      "sha256": "bd88749981957496b4465802bc54049f7674e30a67f1b2284641f5d6804daf39"
     },
     {
       "path": "icons/svg/ink/link.svg",
@@ -1641,13 +1661,13 @@
     },
     {
       "path": "icons/svg/ink/linkedin.svg",
-      "bytes": 631,
-      "sha256": "a5c0c17602672bb5e372eee1db01d3ef38a75094e20acec15f70bf1d04ef6100"
+      "bytes": 401,
+      "sha256": "0f599cdbfa3d137ccb85fcacf172c25365632beebdf3ffe6f1805563af2ae57e"
     },
     {
       "path": "icons/svg/ink/linux.svg",
-      "bytes": 5487,
-      "sha256": "85babb4a993a74e047621d15a2239621ba4f6d3eb18347301bdb52dfbdd9802b"
+      "bytes": 472,
+      "sha256": "c6e9a1edeaf76c219d42ebdd0e9bde277af454adf77f32cdbb32cf2c9c5230f7"
     },
     {
       "path": "icons/svg/ink/mail.svg",
@@ -1657,67 +1677,67 @@
     {
       "path": "icons/svg/ink/map.svg",
       "bytes": 286,
-      "sha256": "4b4e2f89f71393b7a3b412f9929b4fb1eac349d89b58c2db2b2780be700e6291"
+      "sha256": "a14cdb863e176147c8bd48bd0698ebfb432bc58b3e569b309b40637ea01ffbef"
     },
     {
       "path": "icons/svg/ink/message-circle.svg",
       "bytes": 281,
-      "sha256": "471a31f122c1dda3c3c75068ded454ed2d8046df70128a72247ca2928eda3933"
+      "sha256": "a0591c6ee0e85a76b8623603190a7ec848c17460715209f2606c8a783af490a3"
     },
     {
       "path": "icons/svg/ink/next-js.svg",
-      "bytes": 344,
-      "sha256": "cb1fa00793108c01274194023b855b4fd60cd2bf53cc52d53f5fde93b6f5501f"
+      "bytes": 404,
+      "sha256": "2166e1e2bd556e72d9b55fb362a0745ace33c2d7ef9a361a25a4538b4ccc040f"
     },
     {
       "path": "icons/svg/ink/node-js.svg",
-      "bytes": 1630,
-      "sha256": "547b791bfa4f34388796a0d4c726366c00e8695bea9cc56ea0f154aa6cd8df0b"
+      "bytes": 451,
+      "sha256": "ce96a5fcd436662605a64d90695e5dd3ed0a098f60d6c25028b6ab3ee5e4912b"
     },
     {
       "path": "icons/svg/ink/pause.svg",
-      "bytes": 215,
-      "sha256": "dea021dcc34f04a00cf3599defff9e3620c4fc2b1e708de2407606230163708c"
+      "bytes": 368,
+      "sha256": "07e299b5b1ea27e080e0dec198546b6d940c6267fc1f9fa40df910823e6be2f5"
     },
     {
       "path": "icons/svg/ink/play.svg",
-      "bytes": 225,
-      "sha256": "7675327773cb1acdb396fe94f26e54c7eee1fce14e60961d6f978efca3e1ce9e"
+      "bytes": 255,
+      "sha256": "1560f419be291da45a9084a3cd346bbcf6fcd6a0cb187937c5ee651f8e54e295"
     },
     {
       "path": "icons/svg/ink/plus.svg",
-      "bytes": 229,
-      "sha256": "e097deec5f24b98c2ab5c6fc364daf1530774f5a3e6b2e8b392c2335bfcb86bc"
+      "bytes": 369,
+      "sha256": "19ea9e90b48d62bd21d1cf4523160d5f3b76c2fab258d827a5d4d30ca56fc575"
     },
     {
       "path": "icons/svg/ink/postgresql.svg",
-      "bytes": 5224,
-      "sha256": "74dd38b7ce792af2c09d9dfa2f9ff497d04c4ff9647e747ee7fced8161cdbbb9"
+      "bytes": 779,
+      "sha256": "26e5179d21aa043eee2a05c61aa006d1814b3b166b6fb5b7be3e4c517395b230"
     },
     {
       "path": "icons/svg/ink/python.svg",
-      "bytes": 1541,
-      "sha256": "d8db417b67e2acd397561753ef9ae035da41ba51cc3b6535d95a1e8f5aaaf8dc"
+      "bytes": 624,
+      "sha256": "cd386149590e2c03b7d5afb6eeed575c62a7993d671bd8054decfef5da5920d3"
     },
     {
       "path": "icons/svg/ink/react.svg",
-      "bytes": 2950,
-      "sha256": "62949f2245722dfbcb1537a9d9349fd87dcff311bd8377746b63674b528e9be2"
+      "bytes": 749,
+      "sha256": "0e08f4b2ec550bb85b75c64de813a717aca19fbfcf0c6412336166d5af7915ea"
     },
     {
       "path": "icons/svg/ink/redis.svg",
-      "bytes": 762,
-      "sha256": "33d56c4570b9c6ec045136a24c9fffde9cb7bbfd5cd0675313ef84e0e291bb65"
+      "bytes": 415,
+      "sha256": "2240c56b79fe42cad915609ca9895ca4f1d7a820d26e0eecdb750c7f7a66a261"
     },
     {
       "path": "icons/svg/ink/rocket.svg",
       "bytes": 320,
-      "sha256": "0c2e0b1bf3bb51f412a568806064afeba6b5c3b6403349eb8a3f9257ea4f7369"
+      "sha256": "25c7b05f4cc2a08c7c4fb635f06963f75ca6417596424762074f821c2a99a6ba"
     },
     {
       "path": "icons/svg/ink/scale.svg",
-      "bytes": 284,
-      "sha256": "40985f1ed69aac177e02cccc9a7f3a9f1d5a02df21edc4afb147b155b3dde082"
+      "bytes": 283,
+      "sha256": "c3ef33e3f3a5455b43c039efdffa9ad9fa67ddcc777fd45441b98583ab1391d3"
     },
     {
       "path": "icons/svg/ink/search.svg",
@@ -1727,12 +1747,12 @@
     {
       "path": "icons/svg/ink/settings.svg",
       "bytes": 278,
-      "sha256": "3e851eb6368fb56fc147e16ba671232ca4e647a194788380e65e8493c6d5ba15"
+      "sha256": "e33e8006abda6da39117160e40f041656de4cca8aab81e5cff6bfbcb98d7299e"
     },
     {
       "path": "icons/svg/ink/shield.svg",
       "bytes": 282,
-      "sha256": "0e697b5663d8f83ae9fed8c8e3109b77bb0858c8dfe4674b3a7ce8dbc89b3015"
+      "sha256": "1ec0779021757a9d93f468c56b8f502692b4c36136bf33c08792228f7b0976f6"
     },
     {
       "path": "icons/svg/ink/sparkles.svg",
@@ -1746,33 +1766,33 @@
     },
     {
       "path": "icons/svg/ink/sqlite.svg",
-      "bytes": 1443,
-      "sha256": "2462d8dadde7eeb987895f5a096ec30d285d93cdce3bd77894818113c8fd450f"
+      "bytes": 429,
+      "sha256": "0893b2624271ae711a82af009a04127aa786088667d0749dcdf4f3f86d5488c4"
     },
     {
       "path": "icons/svg/ink/star.svg",
       "bytes": 285,
-      "sha256": "633c937a149ec3662fe5c26fe1625cc7fe3fa6eeb1457219896f529b12427513"
+      "sha256": "9a97818f610de909366e2e61dd0acb06394ff5b79d9e93ae2102d246c47dec87"
     },
     {
       "path": "icons/svg/ink/svelte.svg",
-      "bytes": 1519,
-      "sha256": "55530fd086d336d5178eb4842ea0c2435a33d788335c8b24f851423e52600cc9"
+      "bytes": 326,
+      "sha256": "f9259785efac53f818994b6082a427e2bf77c6c95e39f3fe9d15ac65648cae3f"
     },
     {
       "path": "icons/svg/ink/tag.svg",
       "bytes": 266,
-      "sha256": "97b656fe0c02883e56aa1e7ac18f1f414373fee138c3962602562f7c91359ab9"
+      "sha256": "68019812e67ffeec30fafff748c4c7d75ed30ea1bff958b9d9a408da2343f0e7"
     },
     {
       "path": "icons/svg/ink/tailwind-css.svg",
-      "bytes": 619,
-      "sha256": "46439c6aae667799ba8f3054d7f9ac1fa95f2814c6ceaf5b74b3d976018a7f4a"
+      "bytes": 284,
+      "sha256": "46c0e05c40d97fd93a2157133facb1123c184fda2e44285203826cedf08a9945"
     },
     {
       "path": "icons/svg/ink/telegram.svg",
-      "bytes": 763,
-      "sha256": "8c811d6f97095b65608ec0a9327eaaafb2e36be70fb6310d130e3cf80b2c5729"
+      "bytes": 289,
+      "sha256": "bc2405fa07bc7aa9a1a9bc1a8236e3c1099089fbdcfd5fa7057a38f1084dee1c"
     },
     {
       "path": "icons/svg/ink/terminal.svg",
@@ -1781,13 +1801,13 @@
     },
     {
       "path": "icons/svg/ink/three-js.svg",
-      "bytes": 918,
-      "sha256": "efdff070ebee4246d9efddefb8030d6c7f3423663024f3ba77717b93b951dcc3"
+      "bytes": 300,
+      "sha256": "589c503d1bb7d0ff98baf3188bef7c579a75d9e6928940d4261c17983a1d35f9"
     },
     {
       "path": "icons/svg/ink/typescript.svg",
-      "bytes": 1313,
-      "sha256": "67b35b92b7e14a4c28a8fd11213c8acb614a9242bbc076de2914c81f3ca2c8f0"
+      "bytes": 539,
+      "sha256": "37c3401c480bec7a4b9e4c5b36d65e8c55c93628cbf32a01e78490c0c7ac42ea"
     },
     {
       "path": "icons/svg/ink/user.svg",
@@ -1796,53 +1816,53 @@
     },
     {
       "path": "icons/svg/ink/users.svg",
-      "bytes": 342,
-      "sha256": "13652fa845bbc39f35a5a68e4ce2d992a15e0ffca602489f220569020f0e41a1"
+      "bytes": 336,
+      "sha256": "15d1b060b737c9155410dccbce0e73c9141c2a6116f985eb752ecee7b29bdf05"
     },
     {
       "path": "icons/svg/ink/vercel.svg",
-      "bytes": 155,
-      "sha256": "06f9dbe4bc74bfebfee487dc54e5c77299baa1c786378fc490108ff1210aa4b4"
+      "bytes": 247,
+      "sha256": "82a473cb5cbc43390b3d0235e2f646f79e7b5e4c818f644b5970619cce87d281"
     },
     {
       "path": "icons/svg/ink/vite.svg",
-      "bytes": 472,
-      "sha256": "55fa1161d0ab5a1468dacf6e7a3e4e711cbd053a86027967b84467a32fff990a"
+      "bytes": 280,
+      "sha256": "a7a6b2f012cf0025d870c3ea02152086ca7c13f05ee8b5329c70b10616d72528"
     },
     {
       "path": "icons/svg/ink/vue.svg",
-      "bytes": 225,
-      "sha256": "e2ee28545fc47782c628f3cd49ff20cc38f31e8c18a9a334c965833159f2cd2f"
+      "bytes": 280,
+      "sha256": "63a4c7fb0e03c45f0a832dc2dfd5c3f6aba2cf95ae30d9c941d5c9bc232bb9fe"
     },
     {
       "path": "icons/svg/ink/whatsapp.svg",
-      "bytes": 1237,
-      "sha256": "23f9e52adc619f49e3f22b446f01126ea69d6f945b340c38fc66a267b035ec93"
+      "bytes": 442,
+      "sha256": "4412c7611ffd86838cd33d0145fa75d81da30f79bfc7f858214aa24f710defb1"
     },
     {
       "path": "icons/svg/ink/x.svg",
-      "bytes": 327,
-      "sha256": "945e8c009f28320f8729dc6838286a95c621abbb9d2ff25e603b8ab7ade64370"
+      "bytes": 271,
+      "sha256": "c52ea7d85c415d8a69b36f5ff5f9459d007855bb926a73bf330631cefc1c1edf"
     },
     {
       "path": "icons/svg/ink/youtube.svg",
-      "bytes": 481,
-      "sha256": "b55f4c37a44245920e7a6095aa00ded7addc94507a7beb9cdb2beaabaccd07f6"
+      "bytes": 418,
+      "sha256": "e9dd4ca1c9a4faed413e1a4b619608731711474ca03c60dd09822028d7013e81"
     },
     {
       "path": "icons/svg/instagram.svg",
-      "bytes": 2131,
-      "sha256": "41c61948bcc419ea1abfa203a62992c80192f309c3928140df82d8519074ff99"
+      "bytes": 455,
+      "sha256": "7f76dc1a0ef46547f67f02f0f7d564bfc56334490adcacecfeec15f0ec96768c"
     },
     {
       "path": "icons/svg/javascript.svg",
-      "bytes": 1003,
-      "sha256": "7043662cd2b85c56c29b6e2a922916f3f993ce6adbe41945c2f06b59d186fd46"
+      "bytes": 554,
+      "sha256": "0efa9e31fbc5bbf2601d4bdeb14a9d49fb1082a458ec2d27d7c6a9b29fb306de"
     },
     {
       "path": "icons/svg/layers.svg",
       "bytes": 298,
-      "sha256": "d960264f04c7dbe4f0ced3bf0970ed91e5d768b73debc0d9abcd8a945af72bd1"
+      "sha256": "5177c5a58540fadf44f90cc83ce8de6610fc5543891f146b46bc7d8c592d83ed"
     },
     {
       "path": "icons/svg/link.svg",
@@ -1851,13 +1871,13 @@
     },
     {
       "path": "icons/svg/linkedin.svg",
-      "bytes": 641,
-      "sha256": "da76d5471223e6873c8ec5b8881a658563b6d2ec5e9f42a82fabd822f423a9a7"
+      "bytes": 411,
+      "sha256": "a4690a33e412f39a6a410560442bea71a06d4084abc4a4c50aacd407a87d5270"
     },
     {
       "path": "icons/svg/linux.svg",
-      "bytes": 5497,
-      "sha256": "bc3abac1195229d25cc1dc12970acd3dbbfdc5890e035e4c3f35fc064ef0ad21"
+      "bytes": 482,
+      "sha256": "d5c6e63a2955762ce2d3e7b14d196479505f42e86d0fce98998c28c18e4d8cd0"
     },
     {
       "path": "icons/svg/mail.svg",
@@ -1867,87 +1887,87 @@
     {
       "path": "icons/svg/map.svg",
       "bytes": 296,
-      "sha256": "3d2cbadd4b9d1688f0a609285310fc93aa1e6a537dcdbf7737c326ceb4d37192"
+      "sha256": "448d573398e3caf52b4810c60e14da477d84a95cfc57250ffb593ddc558ed490"
     },
     {
       "path": "icons/svg/message-circle.svg",
       "bytes": 291,
-      "sha256": "52e03fb23d72c626348b1a57d24e9968a20baee835e8675bb328730023d342ed"
+      "sha256": "401449e712ce023da69b26d6b1fb1d734adb1bdc373ce62471fbbb2c91828f04"
     },
     {
       "path": "icons/svg/next-js.svg",
-      "bytes": 354,
-      "sha256": "735e7931e33f5e07a62770625245df8ea1d80e2839e46c216b2c7b7bfbc73ea8"
+      "bytes": 414,
+      "sha256": "0e8b1ceb54550e760f4296678aa611cee0f50665ca69ff6b2e04640b6a7416a7"
     },
     {
       "path": "icons/svg/node-js.svg",
-      "bytes": 1640,
-      "sha256": "e73ae79cada025e4c724cd0dcd9399e2f07b119c3c000470892b98f87775dde8"
+      "bytes": 461,
+      "sha256": "d81b2d6cb3bd7407869e6f24fab3489246e7de599733c5af482a0938be79d0ef"
     },
     {
       "path": "icons/svg/paper/alert-triangle.svg",
-      "bytes": 264,
-      "sha256": "a3d27923ac9bd3390172fa7ad29374c84b96a5f69a5cf366f8cbd3fb6c224eac"
+      "bytes": 266,
+      "sha256": "7e9879c18229fedd276be2bce7292bb3bf2bc79b18860cd308e24a169a7fcc2b"
     },
     {
       "path": "icons/svg/paper/arch-linux.svg",
-      "bytes": 784,
-      "sha256": "cfaa1b730e8c53d04a6cc0a4114ee01abf8405ef8b65bd4fbeb99ccad906d9eb"
+      "bytes": 298,
+      "sha256": "a8e0e92dfae5956f82c2639a731e5ea41137c5dece78eb67d312824fec955032"
     },
     {
       "path": "icons/svg/paper/arrow-down.svg",
-      "bytes": 340,
-      "sha256": "9f851cce88903a0c7439fb13a8075085ce21d9405d5702811fc208e5edb17121"
+      "bytes": 434,
+      "sha256": "b090352ee9f7a22b2d69400baa30fbb3d49aed6afaf98905a5be094a20199a28"
     },
     {
       "path": "icons/svg/paper/arrow-up-right.svg",
-      "bytes": 339,
-      "sha256": "e00010803e57cb511c006aab9b74748ed5d50295af30c55c010ac275fcba2db7"
+      "bytes": 433,
+      "sha256": "f3d506bed9bd496354b81410f9c23024f9f63ffcd9b51f3e204fb459d915af6f"
     },
     {
       "path": "icons/svg/paper/arrow-up.svg",
-      "bytes": 303,
-      "sha256": "7790ff33999e5e4f905711db608bf57d08774d73d4962d210a4475ad65e5240a"
+      "bytes": 397,
+      "sha256": "3931d4822a392a82135a2f58a29358d619108bec68e0e95db39479681bda3c3a"
     },
     {
       "path": "icons/svg/paper/astro.svg",
-      "bytes": 803,
-      "sha256": "0ababe0de535671fb4c43fb84b3d2569567941a8b8427ece9a6697b3ab0c3de8"
+      "bytes": 417,
+      "sha256": "d8f33f586b766321c8e9bf15533140f144649b50dc4abe6046215a56155c474a"
     },
     {
       "path": "icons/svg/paper/aws.svg",
-      "bytes": 3175,
-      "sha256": "bcc2c271a68caa28a6bf7879095d14169da818de174969d3d1486bfbebaeb92e"
+      "bytes": 709,
+      "sha256": "61263154f7f0fce43d180f212d3c28c099da4036a400a647dd050f36fc3fbab4"
     },
     {
       "path": "icons/svg/paper/bash.svg",
-      "bytes": 2053,
-      "sha256": "de83f6fb000730f1e49c4864682fb8e8f2fc89f67aa3f2c3d7ed3cc5f771cad2"
+      "bytes": 382,
+      "sha256": "116013255c569edeb3055d40ac43ff25bb4ec95628563dd19c870a472028f89c"
     },
     {
       "path": "icons/svg/paper/blender.svg",
-      "bytes": 1316,
-      "sha256": "c5317649647b2a9687028d9443a6c3b29aaa94f2788185d11663c6f665eddf46"
+      "bytes": 566,
+      "sha256": "cfe0c542e07d55734c45a5c6b1c60ef759f49c45fbfe2e16b850a12a8015c9a6"
     },
     {
       "path": "icons/svg/paper/bluesky.svg",
-      "bytes": 587,
-      "sha256": "c0a489030b2e3fa80f0a107f705cc1996ce10ad929f6ddb89191e5f9ae3b2998"
+      "bytes": 334,
+      "sha256": "b035f73f08eb74bce091285340e59a43be9310a2faacb8a7c9242574fd6bb484"
     },
     {
       "path": "icons/svg/paper/book-open.svg",
       "bytes": 312,
-      "sha256": "50484bbb02c5e8f080ac34990e6d3ec79d47ebab09e3cbd9b5a1e28ec7472e3c"
+      "sha256": "3631272eb4a09e2cc210c69e338be4f34cf30f5e1ad214f3a1638da646ed0844"
     },
     {
       "path": "icons/svg/paper/bug.svg",
       "bytes": 344,
-      "sha256": "0fdc3fce8d195f0d32f5dc1a38327d36472712199f78f6da98bd42160a2df1e1"
+      "sha256": "63c51896b9b928465baf310a83663608cb118ef2fff19dedb3859317deeb4507"
     },
     {
       "path": "icons/svg/paper/bun.svg",
-      "bytes": 1733,
-      "sha256": "d397c65a4b39a9ad7c4e6b7feb3149ed3b17ab5da7b0e70a66ce1848b253b2d8"
+      "bytes": 581,
+      "sha256": "80cf17af0786f0e882135eb79134d167b407ccdec7b774688185769664d77594"
     },
     {
       "path": "icons/svg/paper/chart.svg",
@@ -1962,27 +1982,27 @@
     {
       "path": "icons/svg/paper/code.svg",
       "bytes": 275,
-      "sha256": "c39279be53f36dc61fcfc273fabf9191d8a98155fa78a14d2a0598f905e2d530"
+      "sha256": "8c7e785639e95438ca499eebffba90b4205dde7b44ab2caf20bf100e04b2493e"
     },
     {
       "path": "icons/svg/paper/copy.svg",
       "bytes": 260,
-      "sha256": "0ca5995a07a74a0adeeadf4b7fc133dda85a80ca95076c060dcbdb3e913b6df0"
+      "sha256": "a77611e0a80aef6c241dca0e64ba9de98f502a16bf043e043d1ed5a8e4aa5f87"
     },
     {
       "path": "icons/svg/paper/css.svg",
-      "bytes": 1505,
-      "sha256": "55c2df943f441a532b939609e23cbb605fb8e2a294418e2e7897fb869f7dbda3"
+      "bytes": 417,
+      "sha256": "990c46b7f696c36f4ac0e45858c9e5ef20b5ccb0b071af61eafcde4d4afd0dc5"
     },
     {
       "path": "icons/svg/paper/discord.svg",
-      "bytes": 1396,
-      "sha256": "dfa82613bce1c2f8fbac36dba242b682236a61a2ddf81d1eda8453e147e1fa6a"
+      "bytes": 455,
+      "sha256": "3e307296979fc70d44090f78db237b96ffc4305101737b738e29464e84e0848d"
     },
     {
       "path": "icons/svg/paper/docker.svg",
-      "bytes": 1788,
-      "sha256": "7a1f19ca3edf31bf3a542ed5b6af8411f0fa71fff47cb744ba7529db40b38c8b"
+      "bytes": 576,
+      "sha256": "653578c69251c5b3282714b4cec4d1cbd73ff28265770da09b0034a202a3ba20"
     },
     {
       "path": "icons/svg/paper/download.svg",
@@ -1990,19 +2010,24 @@
       "sha256": "e4d7e0e28a6bf909ca31820f17fe9b1c740c276db043d60e1815b20869e04ab8"
     },
     {
+      "path": "icons/svg/paper/drizzle.svg",
+      "bytes": 276,
+      "sha256": "d0d8ab0839686eaacd499e4680c0e9e7933b3275b0479bf84993987da02caa60"
+    },
+    {
       "path": "icons/svg/paper/express.svg",
-      "bytes": 981,
-      "sha256": "d9167abc291425475e268be0dc228a37b9afed552ca33aeb71f177c37b68b1b0"
+      "bytes": 404,
+      "sha256": "71f7aab4e75714d4b5b67e1e4374f2e36586605b8bafc63e585c2cfe6f0d2772"
     },
     {
       "path": "icons/svg/paper/fastify.svg",
-      "bytes": 1187,
-      "sha256": "96f5b35b7fc2316c3b85c8ba922a2ed1d29f05174ed9602f4e1269aac8e1e09e"
+      "bytes": 445,
+      "sha256": "3dbc1591ffaac9723290617fd3c6efc7f57163978519b22e2b4cdedd2d247286"
     },
     {
       "path": "icons/svg/paper/figma.svg",
-      "bytes": 1117,
-      "sha256": "6ce67a54ea5159439b42c840411ba97fb58ad17e866f95be2132fc348c580bf1"
+      "bytes": 509,
+      "sha256": "475e3fdd7b1414aca69b009ac8d3308a377ca9e3f5c1902f896d07df61a4637d"
     },
     {
       "path": "icons/svg/paper/flask.svg",
@@ -2021,23 +2046,23 @@
     },
     {
       "path": "icons/svg/paper/git.svg",
-      "bytes": 452,
-      "sha256": "76749c92d8ce5cd516bd9b90c0f7ad9c754b230e6909d5df292437530f78da48"
+      "bytes": 601,
+      "sha256": "740c6129dd18aae3e1691c147fa4818f24d830e5e5ed6b9796b2de148ba7cc77"
     },
     {
       "path": "icons/svg/paper/github-actions.svg",
-      "bytes": 1742,
-      "sha256": "146d4ebadbbd6880a588c6578713007bb962988b35192c18acabd0a1713b907e"
+      "bytes": 765,
+      "sha256": "421f796e59bf57e1585532538cd8044937909c18a52d61a6b77d2161e40e71d3"
     },
     {
       "path": "icons/svg/paper/github.svg",
-      "bytes": 845,
-      "sha256": "8f6f3cf4932d117824dbb40226c736aa254937fdd189e52728951c4d4bbdc93d"
+      "bytes": 338,
+      "sha256": "f166ed12962011d7a34d4743793c774143caa18ccdd97294d92a63486dc39ac5"
     },
     {
       "path": "icons/svg/paper/gitlab.svg",
-      "bytes": 596,
-      "sha256": "dc2fd63a424c8fe3ea14023a386151d861faf5ac15147d86572e6de3a966d724"
+      "bytes": 293,
+      "sha256": "555fcf8f4aa8308b3fd921b9f6311527b7e29257908eec46c413bfade56542d5"
     },
     {
       "path": "icons/svg/paper/globe.svg",
@@ -2046,18 +2071,18 @@
     },
     {
       "path": "icons/svg/paper/go.svg",
-      "bytes": 1663,
-      "sha256": "abf23d425d73c5a28759e11f1d8fc5d8910b38932f55517e017a97aaa57db1c8"
+      "bytes": 555,
+      "sha256": "7c4a4aebe7b9bc90fed2a063a246446679a3e67bf68b6a4b442cfa1703287286"
     },
     {
       "path": "icons/svg/paper/gsap.svg",
-      "bytes": 4753,
-      "sha256": "7f59645de77b078008639523a51de1157c5501f3799e7055fff78d132b8fdfba"
+      "bytes": 323,
+      "sha256": "721eff2ef0dfe085eda06df71f769d974104fdcf6db5065d50065a2366c73e1f"
     },
     {
       "path": "icons/svg/paper/heart.svg",
-      "bytes": 277,
-      "sha256": "5aae3de5e886797ba7fca6f95d8d8371bc1833d282ff86f302bceaeee732619e"
+      "bytes": 275,
+      "sha256": "f825e6be74b7fadd98210bf9a49ff409ed9a6ed503a631f0914bd2e28e52db15"
     },
     {
       "path": "icons/svg/paper/history.svg",
@@ -2066,13 +2091,13 @@
     },
     {
       "path": "icons/svg/paper/hono.svg",
-      "bytes": 787,
-      "sha256": "4e196a52c0f09063a48b1e385750c0c30f32e1a1e4a46ae1b3978d4930f0d1c7"
+      "bytes": 285,
+      "sha256": "1b0f4a24181f361a1a646544223649802c87064a2d2031ed2ff7656d353ecac9"
     },
     {
       "path": "icons/svg/paper/html.svg",
-      "bytes": 351,
-      "sha256": "14ed2298ddb08c215788abb4a8b05c46f2d9cdcfc1f8b27eb9b688a4b76f63da"
+      "bytes": 410,
+      "sha256": "6b3fd5a4185bc56e1a9d30de5678fa917356ea0922f6ff68e84d617c2e27be8d"
     },
     {
       "path": "icons/svg/paper/info.svg",
@@ -2081,18 +2106,18 @@
     },
     {
       "path": "icons/svg/paper/instagram.svg",
-      "bytes": 2121,
-      "sha256": "9588919f80751813e3f55989cb46aa96914f56c50c78023f6d1f08ec74f34a40"
+      "bytes": 445,
+      "sha256": "475297c61df53729a1037f7b3d5631f0b4d88cd1b7149139647837c674b30a02"
     },
     {
       "path": "icons/svg/paper/javascript.svg",
-      "bytes": 993,
-      "sha256": "640e1a35d37b5777902da5b63fe67e97bc3d20385169b80f74fc8ebf251b8b3c"
+      "bytes": 544,
+      "sha256": "d99a49e294f15d7d983721c8dfd3dc146ef2a1052086d2cfecfb4fc17e94fe9e"
     },
     {
       "path": "icons/svg/paper/layers.svg",
       "bytes": 288,
-      "sha256": "386ee8ea7f4d7d1e16a0e012825ee25924375566771e318c480347c863004f6e"
+      "sha256": "07c0cda4e464188afc23df0639fcf703e97ee672ccb069ba58af4fb719b56b1e"
     },
     {
       "path": "icons/svg/paper/link.svg",
@@ -2101,13 +2126,13 @@
     },
     {
       "path": "icons/svg/paper/linkedin.svg",
-      "bytes": 631,
-      "sha256": "1cd0b50e951f9cdeb594aef95381011c15640e1a653dcaadc02bf132b5326bf9"
+      "bytes": 401,
+      "sha256": "bc150c25c0c974c70588c4b5445613dac5fe5808d84d319e77fc6f515bc80d25"
     },
     {
       "path": "icons/svg/paper/linux.svg",
-      "bytes": 5487,
-      "sha256": "c55779e947cf35b7f46f0907a359e9d91289501ce9a29571c9dcb28aca2627e6"
+      "bytes": 472,
+      "sha256": "4b49e694206f87826ee029a92f7ebcc4e74074fe75e1f90c23e4a7f33404144d"
     },
     {
       "path": "icons/svg/paper/mail.svg",
@@ -2117,67 +2142,67 @@
     {
       "path": "icons/svg/paper/map.svg",
       "bytes": 286,
-      "sha256": "d5cd5582d39953389720d6f96bfff8400a2e97ab6def3caa64db8c139e6fffc9"
+      "sha256": "e30683ee79b368ec39e5c1ae2d0e43add91501b1ca963e42d2a37427e1dc276b"
     },
     {
       "path": "icons/svg/paper/message-circle.svg",
       "bytes": 281,
-      "sha256": "a7cd49ae00250076cd4254b45fd8f8e0e132ec0059d7841a4db8773e0f35f4d8"
+      "sha256": "d0db7fefc71037d85f72f1b98e00e0d7b555802d90a58cd61c7074519cb8218b"
     },
     {
       "path": "icons/svg/paper/next-js.svg",
-      "bytes": 344,
-      "sha256": "9950ad19389dc881eee1ce7787374929d082572165be4e7e7935ceffa96eb5fb"
+      "bytes": 404,
+      "sha256": "00319077c75030d680435a64becfa82bf45579736c56f17f3466f42377d09b17"
     },
     {
       "path": "icons/svg/paper/node-js.svg",
-      "bytes": 1630,
-      "sha256": "c03406e073092cba01f078eae2784519fc70e88acb2607f08854a7f7cd2c59e2"
+      "bytes": 451,
+      "sha256": "1ca25ee19d6dacfca9ed88c27cb0609a9a069b8b9787e1f0d4bebc034c280615"
     },
     {
       "path": "icons/svg/paper/pause.svg",
-      "bytes": 215,
-      "sha256": "7d5a2966a09620c0fa5b73b8c61e3ccc735670ad9883ee8afa35a650b07d027e"
+      "bytes": 368,
+      "sha256": "40c021f6256e11c11d9acf47e5b78050d1900c9c75582d4997c0ea0620e74df0"
     },
     {
       "path": "icons/svg/paper/play.svg",
-      "bytes": 225,
-      "sha256": "e0c5dcd7067e696bcba3854ddb2cfd4cb9d5ec5b93d198aba357553f5d29692b"
+      "bytes": 255,
+      "sha256": "ba1137d2fdec2c02531161f8f18988163bbd87356192fb0fee5028ff55a776a7"
     },
     {
       "path": "icons/svg/paper/plus.svg",
-      "bytes": 229,
-      "sha256": "ec1f7e6df9beb2abf2ef6621ad027299103aef29652f0be90f0b966325e2c64d"
+      "bytes": 369,
+      "sha256": "ab3a185f53680f53502d174e731393b89434657686a3c298915f53183fa083a2"
     },
     {
       "path": "icons/svg/paper/postgresql.svg",
-      "bytes": 5224,
-      "sha256": "3935fce71079632bad13dc711ec1294b5e6e8f22586ac810ff614ea01ff038af"
+      "bytes": 779,
+      "sha256": "ab65ebbb5e2cd5b199a06686ba507149cb2a015e304fa67a14d6054554e635c3"
     },
     {
       "path": "icons/svg/paper/python.svg",
-      "bytes": 1541,
-      "sha256": "41224e47eed7be66bfcc7f15144ef64cb8592e746168f04afc29af7b8a7b2b8e"
+      "bytes": 624,
+      "sha256": "689fd7fd930954f43cb3698af4ddff0497f73b6302018b3a263d51303798cada"
     },
     {
       "path": "icons/svg/paper/react.svg",
-      "bytes": 2950,
-      "sha256": "d4719ba4ab94677443f47732d7c390fb0bf98b4861ba4a0c1d42c6d994b724c6"
+      "bytes": 749,
+      "sha256": "3168c3b567d88567da61d2ec68bd78775d2cdf8097ff6802762e149c543ee2e6"
     },
     {
       "path": "icons/svg/paper/redis.svg",
-      "bytes": 762,
-      "sha256": "bd9b2f3c100a26b357833d479002f589868f060a9a281eae2639a2aa1380ef43"
+      "bytes": 415,
+      "sha256": "a6f3d8c9da768092d9493b29b1178fe52f4501e7774f1ce4397213612912f393"
     },
     {
       "path": "icons/svg/paper/rocket.svg",
       "bytes": 320,
-      "sha256": "5834c113a077528e64aae8e2a2eeb383b0dc3f3172b4240c6ce8927cb7176ceb"
+      "sha256": "e8aebfc3b4f7702bb56ace1094d984412446044ca9e9780c85199d7d6a466c97"
     },
     {
       "path": "icons/svg/paper/scale.svg",
-      "bytes": 284,
-      "sha256": "f31d920d9e70de566e36300f6f68aa2d70eb559d05ad95dabf526cdc4397b247"
+      "bytes": 283,
+      "sha256": "7a7c925a219374c1d94b5bc0e64fc735a62fe4c9df92e5fa832fd6401e10f6e1"
     },
     {
       "path": "icons/svg/paper/search.svg",
@@ -2187,12 +2212,12 @@
     {
       "path": "icons/svg/paper/settings.svg",
       "bytes": 278,
-      "sha256": "00eca23bebae6e20e81d408d64800c295b71561e1c22313dae8f164651eddb6d"
+      "sha256": "59be738bec3fcba48734f66e00cef1323492066d55207c81f9ee12e33c0cfbcc"
     },
     {
       "path": "icons/svg/paper/shield.svg",
       "bytes": 282,
-      "sha256": "8bb98c6335a64d056ee74e229f2a0d2dd0b8fe9439be30a98d980fb07ecfca9d"
+      "sha256": "24834cef7c4c530a113068ae815bfdb02a52d1ff6cbfbe39e071eed2787b4050"
     },
     {
       "path": "icons/svg/paper/sparkles.svg",
@@ -2206,33 +2231,33 @@
     },
     {
       "path": "icons/svg/paper/sqlite.svg",
-      "bytes": 1443,
-      "sha256": "5dd1eb1470d7393178446c2920856ab7a4a75559bb092a8dd7dba543ad1d155c"
+      "bytes": 429,
+      "sha256": "21470f3346f619e9e8204d1a9193837858c69ad446edd5a2a0ab2d8750f7cdd4"
     },
     {
       "path": "icons/svg/paper/star.svg",
       "bytes": 285,
-      "sha256": "5bca5a68b30807f6531f696ac4f0ad819fd04f054a6bb8dfcb1b58dcf183ac29"
+      "sha256": "3a57d757201ba18a7298410ce76148eb91b9c571505c7d73b10894fd8c905bb3"
     },
     {
       "path": "icons/svg/paper/svelte.svg",
-      "bytes": 1519,
-      "sha256": "8762f1a1ab1f4d442845125ab35dfeeb460bd5bed804a9327bf52db339af0a3c"
+      "bytes": 326,
+      "sha256": "f957c64135f9b01c95c7c9e93b4f2922a75113e59a40de5ac4916bb3ab081d70"
     },
     {
       "path": "icons/svg/paper/tag.svg",
       "bytes": 266,
-      "sha256": "67d18f2b4aafa4d958e250d2f6cd7fa36232db6e65c82593179a16f279e514ac"
+      "sha256": "7e87dd2e2bf98ebd1cc4224a17f8e267cfe6b32303335e0682000db483463f30"
     },
     {
       "path": "icons/svg/paper/tailwind-css.svg",
-      "bytes": 619,
-      "sha256": "98c0fc4e97d57d7f7469ded993fad9101b82c844d67739484b984ebde6f07dad"
+      "bytes": 284,
+      "sha256": "990712456599a434d7a570a21ce3a8b87704c2aba1ed2d5202b9a2cda39a6f04"
     },
     {
       "path": "icons/svg/paper/telegram.svg",
-      "bytes": 763,
-      "sha256": "9e09197d616bdcacbd75659eeef8e39132454f25d43a03eaa393cf63dc5a3f34"
+      "bytes": 289,
+      "sha256": "a4e396a1bda3da36d79caea41e56ef54695278cbd4e04ee3bc6a8426f4d8fce1"
     },
     {
       "path": "icons/svg/paper/terminal.svg",
@@ -2241,13 +2266,13 @@
     },
     {
       "path": "icons/svg/paper/three-js.svg",
-      "bytes": 918,
-      "sha256": "874cf081c6f54329196ef052799f054970b7caf04bd9ee97febfcf630efc4437"
+      "bytes": 300,
+      "sha256": "aa9589b50ad2ffddda904d6de069fadb29b6d78d89301875a11ae6af77d68a52"
     },
     {
       "path": "icons/svg/paper/typescript.svg",
-      "bytes": 1313,
-      "sha256": "da2c9fc8cc75929999079099a292098843851f8a7f6ee98ce791a427cd89a978"
+      "bytes": 539,
+      "sha256": "2b3635056b585cd54e7b2f97a771260f7cb2bb62030d217e99b799434f646f15"
     },
     {
       "path": "icons/svg/paper/user.svg",
@@ -2256,83 +2281,83 @@
     },
     {
       "path": "icons/svg/paper/users.svg",
-      "bytes": 342,
-      "sha256": "0d33ebdf96324f98d01c00f6dbc7139bd3f5ed218e67c099c9b586a3cd1a01cb"
+      "bytes": 336,
+      "sha256": "07e92f7edc042bd552f36f7f862ad1741614ed13031755521dbae5ccce301fc0"
     },
     {
       "path": "icons/svg/paper/vercel.svg",
-      "bytes": 155,
-      "sha256": "1b494cec358c7b140adb36f764d5b29995ad130e5f1a931b1763e17e2fd9ebf3"
+      "bytes": 247,
+      "sha256": "96082f3227a2e6accbb46d6b7aaf50af6d1d973150dbf11a83c2c7199677fab1"
     },
     {
       "path": "icons/svg/paper/vite.svg",
-      "bytes": 472,
-      "sha256": "88014476341a600bef60139548f3dfcfbcd819d6704a08f1ff157127a0cdfd01"
+      "bytes": 280,
+      "sha256": "93cf4660fb972649b67f370b0b88f74c66d0cc3e61482d4373af464604b3494c"
     },
     {
       "path": "icons/svg/paper/vue.svg",
-      "bytes": 225,
-      "sha256": "f1f9bf7dee920609f2642a918cac3c1ca36662d6b3d53cced6cddc29a023f1b6"
+      "bytes": 280,
+      "sha256": "84ac0d77ebe85af11d17d178b73c576f4417f991a83d746b4ba5a5ef7ff2554e"
     },
     {
       "path": "icons/svg/paper/whatsapp.svg",
-      "bytes": 1237,
-      "sha256": "561e3f5f5f084e7568e1656a5b1329f8b48886cc618664ee96f05c9fa7d327c3"
+      "bytes": 442,
+      "sha256": "4dcaa5c2ae75f599540206ac29a425097748dbe3e125637cd1a5edc291340508"
     },
     {
       "path": "icons/svg/paper/x.svg",
-      "bytes": 327,
-      "sha256": "d57a4d2070ccbc07e0b56e4e09ac167713898b02e2d185d9d52d459d872ed8f5"
+      "bytes": 271,
+      "sha256": "7a52b7e39647cbb217878e097f7bb2fa989de7615fa80f5d92f93b92b0927366"
     },
     {
       "path": "icons/svg/paper/youtube.svg",
-      "bytes": 481,
-      "sha256": "7159718ab1d032c37bb1c4e534b84858f2b8a4408ac4e28c6d648b6dc33a56ca"
+      "bytes": 418,
+      "sha256": "8ca8090043a331593443d57665827970f590b90c0375a02f10fca1043a6dd295"
     },
     {
       "path": "icons/svg/pause.svg",
-      "bytes": 225,
-      "sha256": "6c0b0ce73cd57002f6cb3efe608785f854bf5e9c4ad33af209e4f9bb48784cb5"
+      "bytes": 378,
+      "sha256": "62fa0d6b773bc18088de90025e1d1764ea70d655ebbb0c56b5d761cc0f5daee4"
     },
     {
       "path": "icons/svg/play.svg",
-      "bytes": 235,
-      "sha256": "e147152d2db864a94f7bbcc1f0fbb073e0ee2fce06a248624ab7daaa81cbbb0e"
+      "bytes": 265,
+      "sha256": "acaa524bb4eb0c533a6412f82c0aa8de5bfc15965db89f804f0837ca6dfafc5c"
     },
     {
       "path": "icons/svg/plus.svg",
-      "bytes": 239,
-      "sha256": "c69d036e440da9942f365b9904e7946bd7e6d860f9b42acd35c0b5d8382567f0"
+      "bytes": 379,
+      "sha256": "b04712adb38c0c915d8bfbf273fe8186dcc6ccbabcd1f890a8303e5ad3c9fe38"
     },
     {
       "path": "icons/svg/postgresql.svg",
-      "bytes": 5234,
-      "sha256": "46506d6e10b37790a7e7d191a9ea9789b1e9bd16cabe8617e775de8b7b7ef469"
+      "bytes": 789,
+      "sha256": "4e82b8a7752074553f546252755d06eab12a5ffb159147260f5117e649b9fec7"
     },
     {
       "path": "icons/svg/python.svg",
-      "bytes": 1551,
-      "sha256": "7bfa42b64d20f6ad30c6baa3ed984b9a2ac6d18f1375d8268399fd1375dcc1eb"
+      "bytes": 634,
+      "sha256": "29d1e369b2868e1044014a9a783c6cd658840dab8f4cf491b86f05531b651553"
     },
     {
       "path": "icons/svg/react.svg",
-      "bytes": 2960,
-      "sha256": "7dbe717460b6e7b63e1784858922b3cfebc868d82d0631048544c6b76da7b9a8"
+      "bytes": 759,
+      "sha256": "9ec9811c63d2198fa1dae0b8f3db3509d24b9568318a6328c0aa9b13effe4e9e"
     },
     {
       "path": "icons/svg/redis.svg",
-      "bytes": 772,
-      "sha256": "544f2a654e91d48038e4d20bb163ccb976f88bedf06111a2a23f0093842f6b9e"
+      "bytes": 425,
+      "sha256": "fc7f2da1da0926da0774a47dc72dcc10338d716ac3be6789b187bcb7a9a4450c"
     },
     {
       "path": "icons/svg/rocket.svg",
       "bytes": 330,
-      "sha256": "1eafc206ed9b03bb2348de7e886e7c74c079bd3617ac53422d62f384fbec8e56"
+      "sha256": "7639d71f18a081ccb37f8dfeb6999473d967344bc333cd5d45121a605c64e005"
     },
     {
       "path": "icons/svg/scale.svg",
-      "bytes": 294,
-      "sha256": "341ebc09ed5efaa647387265353a426e0fc30da3cf4ed26c4e3edabdac538815"
+      "bytes": 293,
+      "sha256": "a701cb9d597429e12b595464b17e0f10d5a244c53ec6c9e39abd5ca77ca85945"
     },
     {
       "path": "icons/svg/search.svg",
@@ -2342,12 +2367,12 @@
     {
       "path": "icons/svg/settings.svg",
       "bytes": 288,
-      "sha256": "19252c6912a07d39185a3d8ddcc6176f2f2e374ec3a9265b5b80fc554a56796b"
+      "sha256": "fa3bd0b9c2d74ebcf775355e0aa960c2e1a01960767fd3eadce3599a0a799ca8"
     },
     {
       "path": "icons/svg/shield.svg",
       "bytes": 292,
-      "sha256": "c736d7cebd579efdd739a47188c2c266dd2d09151d8f9e695423fbe67e48c639"
+      "sha256": "02a09c840f51c4a700eea462e8b41bcc076faaff3d7ba04fb0e1596446859bff"
     },
     {
       "path": "icons/svg/sparkles.svg",
@@ -2361,33 +2386,33 @@
     },
     {
       "path": "icons/svg/sqlite.svg",
-      "bytes": 1453,
-      "sha256": "10eb5b6ffccc5eb9209d2605924bc56dd42ddee415bf355f9128b6f93ce16d3e"
+      "bytes": 439,
+      "sha256": "c9a9c6efc552236fbfc639e044ca7aacafa41797385f157159c4e23692b61cb5"
     },
     {
       "path": "icons/svg/star.svg",
       "bytes": 295,
-      "sha256": "c88989bf8b11e339027895beba5c51b1831e65ce3e42dc874bc3116a2ca18451"
+      "sha256": "058a6fc0f96e9c7b56bb029567f8aa97769ddb0feef72905d3ce25e108001f98"
     },
     {
       "path": "icons/svg/svelte.svg",
-      "bytes": 1529,
-      "sha256": "99327fdf8659e8e65dd554834d9ca9a9d35075a290dedf5a319b6eb2bae3a027"
+      "bytes": 336,
+      "sha256": "7fc18bc16a354cbfe80eb917605c3af3950575266679179a2740018d91d8fb52"
     },
     {
       "path": "icons/svg/tag.svg",
       "bytes": 276,
-      "sha256": "8bca272aecf9995548e1e6b2e6007129706bb4f6f8930aaf0ed5775e192ec81a"
+      "sha256": "0b85829d1e5dd5f655c2fb05f3d522dd22d618de4fb06d6fec8fa39c7806d607"
     },
     {
       "path": "icons/svg/tailwind-css.svg",
-      "bytes": 629,
-      "sha256": "1fc391068753e7cddbbe1f3f66b324a4ee062794d13dc4cfedefe892bbefc3a7"
+      "bytes": 294,
+      "sha256": "c579e9a7ed50b5fe8363fc61a150769ecb3e11e406dadcfec102a7e849ecf381"
     },
     {
       "path": "icons/svg/telegram.svg",
-      "bytes": 773,
-      "sha256": "6d74a0dd06784bb03a8fc48cfbdf83c4536bb0a80e9c9bd2fdad68362099a0de"
+      "bytes": 299,
+      "sha256": "e30e7c092cc633c832c53e3566b4fa574d8629bcec06b2bfcc97f32488dff3e6"
     },
     {
       "path": "icons/svg/terminal.svg",
@@ -2396,13 +2421,13 @@
     },
     {
       "path": "icons/svg/three-js.svg",
-      "bytes": 928,
-      "sha256": "925d2cb2a3221245e46b87c59740bbcd6218b5537d648ae786d0c7b43ade6510"
+      "bytes": 310,
+      "sha256": "9f0e09047fbc6f6b278df2eff870c0d1afb2e5ae835d65c74e2d7b34b4245e35"
     },
     {
       "path": "icons/svg/typescript.svg",
-      "bytes": 1323,
-      "sha256": "d168d9d9d65f55c020f1eae2a87ba01f22eb22ada784228628b8494607f1dddf"
+      "bytes": 549,
+      "sha256": "71a4471fde47b30bf23062b283b1e366d97212981e3adbfc5e1cbc2c97dde76f"
     },
     {
       "path": "icons/svg/user.svg",
@@ -2411,48 +2436,48 @@
     },
     {
       "path": "icons/svg/users.svg",
-      "bytes": 352,
-      "sha256": "6047cfef7962b6461ee9b954f434893af90cd352fd6d6cc13f8353f14ae2d234"
+      "bytes": 346,
+      "sha256": "25514c391a05fca9359a2aa7d416008ad6b22bff2e3e573ce08664bbfd2dbc53"
     },
     {
       "path": "icons/svg/vercel.svg",
-      "bytes": 165,
-      "sha256": "e44b87fbe3e285a6d3413d8383b7ea2721936155af7bea9de3a4db6ac8e93dc4"
+      "bytes": 257,
+      "sha256": "561964e743a5acc1dea131e1533723461d02f6280d57ebb343699fcfebe55e38"
     },
     {
       "path": "icons/svg/vite.svg",
-      "bytes": 482,
-      "sha256": "b941004700c4c0cf48af1bdb56699f1fa038aab5a77a1ec89a15972cb2103bbe"
+      "bytes": 290,
+      "sha256": "b52a67be45f6a2047f2f467ab35b91208eedcb8534fa75333941d28e4d526d89"
     },
     {
       "path": "icons/svg/vue.svg",
-      "bytes": 235,
-      "sha256": "dfc4b31e4dc6ec5d1787c93666ae707ebc0344852e0c7710bf38c4c2ae7bad3f"
+      "bytes": 290,
+      "sha256": "0863e26adc5aef9668f4e563c89d2e2f8216db14af5940746208b02d7e7effa1"
     },
     {
       "path": "icons/svg/whatsapp.svg",
-      "bytes": 1247,
-      "sha256": "dac2757bf912323adc2552284b4d718aff4d8e100c44cefe403777f3a35c6133"
+      "bytes": 452,
+      "sha256": "ae48559fbb5e5b40f8e61bf281dd72d577d958cfe15e83b85d2f8296bf9bb81c"
     },
     {
       "path": "icons/svg/x.svg",
-      "bytes": 337,
-      "sha256": "7300353ca608fdf1464471059596fd7f84646c283e12942b5dbdeda836b5aa3f"
+      "bytes": 281,
+      "sha256": "e57f18a220f3540b989b98caae4345360a28fd07a93c1dbd10ecf1179f56d870"
     },
     {
       "path": "icons/svg/youtube.svg",
-      "bytes": 491,
-      "sha256": "5fbf8c09b6814b3142dbbd805e22a821ad597d06d985858c5a55fc01fa367727"
+      "bytes": 428,
+      "sha256": "d228000aa3a828af13f4880352e3afc47d2b44eb781a7f92c5a1b388c6c81213"
     },
     {
       "path": "icons/THIRD-PARTY.md",
-      "bytes": 643,
-      "sha256": "13b758184d7880581b76b7d80db3dd85de9c6af1e07500406ffc89655c746b0b"
+      "bytes": 848,
+      "sha256": "9bc9027fbea8bbe3887f6e146c7d035304a9072d74aed01ec0d64c803537a5ea"
     },
     {
       "path": "index.html",
-      "bytes": 319110,
-      "sha256": "e8d89d8e3f65192f6f11c1686842fbb81aaf1cb28166dd04998224ea7b8149e9"
+      "bytes": 241473,
+      "sha256": "a6dfdf3c25a58312ddbc31df7856fe8fb6c56078edb943141bec2a698e5b1fba"
     },
     {
       "path": "LICENSE.md",
@@ -2461,13 +2486,13 @@
     },
     {
       "path": "README.md",
-      "bytes": 3200,
-      "sha256": "d0024da8a3fd47b1a35c5d8ff3c75e057662a7f4e22e8f563bb5751a8d31e2be"
+      "bytes": 3412,
+      "sha256": "81827c1c13ee80a288cab715efe256e046252af5d417cbb7d5f266e902340b5c"
     },
     {
       "path": "site/app.js",
-      "bytes": 6779,
-      "sha256": "e31dcab634ec38414df455f7c53977f5b73578600a9b6b67098fe3a304318604"
+      "bytes": 6800,
+      "sha256": "4187130dd25389100392b26e305620b49b3c56460b941a5bf6eec040a7de1d61"
     },
     {
       "path": "site/fonts/InstrumentSans-OFL.txt",

@@ -1,5 +1,13 @@
 # Notas de distribuição
 
+## Não publicado — família estática monoline
+
+- Padronizados os 82 ícones e 164 badges: traço 1,75 na grade 24, terminais retos, junções arredondadas e sem preenchimento.
+- Logos redesenhados em linhas centrais simplificadas; PostgreSQL com detalhes reduzidos para leitura em 16–32 px.
+- Drizzle ORM incluído. Fonte histórica preservada; variantes animadas ficam fora da geração e exportação padrão.
+
+
+
 ## Não publicado — frameworks backend
 
 - Adicionados Hono, Fastify e Express a partir de Simple Icons 16.35.0, com proveniência, aliases e tags de backend.
