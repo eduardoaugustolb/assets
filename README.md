@@ -25,9 +25,9 @@ O [manifesto](manifest.json) lista os arquivos distribuídos e seus hashes SHA-2
 
 ## Ícones
 
-A coleção reúne **82 ícones e 164 badges em revisão** para tecnologias, redes sociais, contato, seções de README e estados. Os seis ícones do piloto foram adaptados ao mesmo padrão de traço. Os pictogramas próprios e os logos de terceiros têm proveniência separada no [manifesto de ícones](icons/manifest.json) e nos [créditos e condições](icons/THIRD-PARTY.md). Não há versão estável aprovada.
+A coleção reúne **82 ícones e 164 badges em revisão** para tecnologias, redes sociais, contato, seções de README e estados. Os seis desenhos originais do piloto foram restaurados. Os pictogramas próprios e os logos de terceiros têm proveniência separada no [manifesto de ícones](icons/manifest.json) e nos [créditos e condições](icons/THIRD-PARTY.md). Não há versão estável aprovada.
 
-A família estática usa traço de 1,75 na grade 24 × 24, terminais retos, junções arredondadas e sem preenchimento. Logos são adaptações simplificadas, identificadas no manifesto.
+A família estática preserva as geometrias originais, incluindo preenchimentos e espaços internos. Ícones de contorno usam stroke de 1,75; os preenchidos recebem apenas reforço de peso de 0,3 da mesma cor. Não há redesenho monoline dos logos.
 
 O catálogo permite buscar nomes, tags e aliases PT-BR/EN, combinando categoria e várias tags por E. Oferece badges claros/escuros e cópia de Markdown, HTML e URL. Exemplos de stack, links sociais e cabeçalhos estão na [documentação](icons/README.md).
 O lote inclui SVGs com `currentColor` para inclusão inline e variantes `ink` e `paper` para imagens externas. Componentes React e uma integração Astro distribuível continuam planejados; a primeira integração Astro é local ao portfólio. Não há pacote publicado em registro nem comando de instalação disponível nesta etapa.

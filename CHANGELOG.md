@@ -1,5 +1,13 @@
 # Notas de distribuição
 
+## 0.5.0-draft.2 — restaurar geometrias originais
+
+- Restaurados os paths, preenchimentos e espaços internos originais dos 82 ícones, incluindo React, PostgreSQL, Linux, Express, Bun e Go.
+- Correção limitada ao peso: contornos de 1,75 e reforço de 0,3 nas formas preenchidas, da mesma cor.
+- Redesenhos monoline rejeitados preservados no arquivo; testes agora detectam paths substituídos e perda de preenchimento.
+- Badges e catálogo regenerados; animações fora da alteração.
+
+
 ## Não publicado — família estática monoline
 
 - Padronizados os 82 ícones e 164 badges: traço 1,75 na grade 24, terminais retos, junções arredondadas e sem preenchimento.

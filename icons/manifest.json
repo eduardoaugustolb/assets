@@ -39,12 +39,13 @@
     "website": "Site"
   },
   "stroke": {
-    "width": 1.75,
+    "outlineWidth": 1.75,
+    "filledReinforcement": 0.3,
     "linecap": "butt",
     "linejoin": "round",
-    "fill": "none"
+    "fill": "original"
   },
-  "version": "0.5.0-draft.1",
+  "version": "0.5.0-draft.2",
   "status": "draft",
   "license": "All rights reserved",
   "licenseScope": "Own pictograms and code only; third-party logos retain their individual conditions in provenance and THIRD-PARTY.md",
@@ -65,7 +66,7 @@
         "author": "Eduardo Augusto",
         "license": "All rights reserved",
         "kind": "original",
-        "adaptation": "Static monoline redraw; 1.75-unit stroke, butt caps, round joins; historical source paths retained separately."
+        "adaptation": "Original paths and fills preserved; outlined icons use 1.75-unit stroke; filled icons receive a 0.3-unit same-color stroke reinforcement. No monoline redraw."
       },
       "badges": {
         "light": "badges/light/arrow-up-right.svg",
@@ -91,7 +92,7 @@
         "author": "Eduardo Augusto",
         "license": "All rights reserved",
         "kind": "original",
-        "adaptation": "Static monoline redraw; 1.75-unit stroke, butt caps, round joins; historical source paths retained separately."
+        "adaptation": "Original paths and fills preserved; outlined icons use 1.75-unit stroke; filled icons receive a 0.3-unit same-color stroke reinforcement. No monoline redraw."
       },
       "badges": {
         "light": "badges/light/arrow-down.svg",
@@ -117,7 +118,7 @@
         "author": "Eduardo Augusto",
         "license": "All rights reserved",
         "kind": "original",
-        "adaptation": "Static monoline redraw; 1.75-unit stroke, butt caps, round joins; historical source paths retained separately."
+        "adaptation": "Original paths and fills preserved; outlined icons use 1.75-unit stroke; filled icons receive a 0.3-unit same-color stroke reinforcement. No monoline redraw."
       },
       "badges": {
         "light": "badges/light/arrow-up.svg",
@@ -143,7 +144,7 @@
         "author": "Eduardo Augusto",
         "license": "All rights reserved",
         "kind": "original",
-        "adaptation": "Static monoline redraw; 1.75-unit stroke, butt caps, round joins; historical source paths retained separately."
+        "adaptation": "Original paths and fills preserved; outlined icons use 1.75-unit stroke; filled icons receive a 0.3-unit same-color stroke reinforcement. No monoline redraw."
       },
       "badges": {
         "light": "badges/light/plus.svg",
@@ -169,7 +170,7 @@
         "author": "Eduardo Augusto",
         "license": "All rights reserved",
         "kind": "original",
-        "adaptation": "Static monoline redraw; 1.75-unit stroke, butt caps, round joins; historical source paths retained separately."
+        "adaptation": "Original paths and fills preserved; outlined icons use 1.75-unit stroke; filled icons receive a 0.3-unit same-color stroke reinforcement. No monoline redraw."
       },
       "badges": {
         "light": "badges/light/pause.svg",
@@ -195,7 +196,7 @@
         "author": "Eduardo Augusto",
         "license": "All rights reserved",
         "kind": "original",
-        "adaptation": "Static monoline redraw; 1.75-unit stroke, butt caps, round joins; historical source paths retained separately."
+        "adaptation": "Original paths and fills preserved; outlined icons use 1.75-unit stroke; filled icons receive a 0.3-unit same-color stroke reinforcement. No monoline redraw."
       },
       "badges": {
         "light": "badges/light/play.svg",
@@ -230,7 +231,7 @@
         "license": null,
         "guidelines": null,
         "collectionLicense": "simple-icons-16-LICENSE.md",
-        "adaptation": "Static monoline redraw; 1.75-unit stroke, butt caps, round joins; historical source paths retained separately."
+        "adaptation": "Original paths and fills preserved; outlined icons use 1.75-unit stroke; filled icons receive a 0.3-unit same-color stroke reinforcement. No monoline redraw."
       },
       "badges": {
         "light": "badges/light/html.svg",
@@ -265,7 +266,7 @@
         "license": null,
         "guidelines": "https://github.com/CSS-Next/logo.css",
         "collectionLicense": "simple-icons-16-LICENSE.md",
-        "adaptation": "Static monoline redraw; 1.75-unit stroke, butt caps, round joins; historical source paths retained separately."
+        "adaptation": "Original paths and fills preserved; outlined icons use 1.75-unit stroke; filled icons receive a 0.3-unit same-color stroke reinforcement. No monoline redraw."
       },
       "badges": {
         "light": "badges/light/css.svg",
@@ -303,7 +304,7 @@
         },
         "guidelines": null,
         "collectionLicense": "simple-icons-16-LICENSE.md",
-        "adaptation": "Static monoline redraw; 1.75-unit stroke, butt caps, round joins; historical source paths retained separately."
+        "adaptation": "Original paths and fills preserved; outlined icons use 1.75-unit stroke; filled icons receive a 0.3-unit same-color stroke reinforcement. No monoline redraw."
       },
       "badges": {
         "light": "badges/light/javascript.svg",
@@ -338,7 +339,7 @@
         "license": null,
         "guidelines": "https://www.typescriptlang.org/branding",
         "collectionLicense": "simple-icons-16-LICENSE.md",
-        "adaptation": "Static monoline redraw; 1.75-unit stroke, butt caps, round joins; historical source paths retained separately."
+        "adaptation": "Original paths and fills preserved; outlined icons use 1.75-unit stroke; filled icons receive a 0.3-unit same-color stroke reinforcement. No monoline redraw."
       },
       "badges": {
         "light": "badges/light/typescript.svg",
@@ -373,7 +374,7 @@
         "license": null,
         "guidelines": "https://blog.golang.org/go-brand",
         "collectionLicense": "simple-icons-16-LICENSE.md",
-        "adaptation": "Static monoline redraw; 1.75-unit stroke, butt caps, round joins; historical source paths retained separately."
+        "adaptation": "Original paths and fills preserved; outlined icons use 1.75-unit stroke; filled icons receive a 0.3-unit same-color stroke reinforcement. No monoline redraw."
       },
       "badges": {
         "light": "badges/light/go.svg",
@@ -408,7 +409,7 @@
         "license": null,
         "guidelines": "https://www.python.org/community/logos/",
         "collectionLicense": "simple-icons-16-LICENSE.md",
-        "adaptation": "Static monoline redraw; 1.75-unit stroke, butt caps, round joins; historical source paths retained separately."
+        "adaptation": "Original paths and fills preserved; outlined icons use 1.75-unit stroke; filled icons receive a 0.3-unit same-color stroke reinforcement. No monoline redraw."
       },
       "badges": {
         "light": "badges/light/python.svg",
@@ -445,7 +446,7 @@
         },
         "guidelines": "https://github.com/odb/official-bash-logo",
         "collectionLicense": "simple-icons-16-LICENSE.md",
-        "adaptation": "Static monoline redraw; 1.75-unit stroke, butt caps, round joins; historical source paths retained separately."
+        "adaptation": "Original paths and fills preserved; outlined icons use 1.75-unit stroke; filled icons receive a 0.3-unit same-color stroke reinforcement. No monoline redraw."
       },
       "badges": {
         "light": "badges/light/bash.svg",
@@ -480,7 +481,7 @@
         "license": null,
         "guidelines": null,
         "collectionLicense": "simple-icons-16-LICENSE.md",
-        "adaptation": "Static monoline redraw; 1.75-unit stroke, butt caps, round joins; historical source paths retained separately."
+        "adaptation": "Original paths and fills preserved; outlined icons use 1.75-unit stroke; filled icons receive a 0.3-unit same-color stroke reinforcement. No monoline redraw."
       },
       "badges": {
         "light": "badges/light/react.svg",
@@ -515,7 +516,7 @@
         "license": null,
         "guidelines": "https://vercel.com/design/brands#next-js",
         "collectionLicense": "simple-icons-16-LICENSE.md",
-        "adaptation": "Static monoline redraw; 1.75-unit stroke, butt caps, round joins; historical source paths retained separately."
+        "adaptation": "Original paths and fills preserved; outlined icons use 1.75-unit stroke; filled icons receive a 0.3-unit same-color stroke reinforcement. No monoline redraw."
       },
       "badges": {
         "light": "badges/light/next-js.svg",
@@ -550,7 +551,7 @@
         "license": null,
         "guidelines": null,
         "collectionLicense": "simple-icons-16-LICENSE.md",
-        "adaptation": "Static monoline redraw; 1.75-unit stroke, butt caps, round joins; historical source paths retained separately."
+        "adaptation": "Original paths and fills preserved; outlined icons use 1.75-unit stroke; filled icons receive a 0.3-unit same-color stroke reinforcement. No monoline redraw."
       },
       "badges": {
         "light": "badges/light/astro.svg",
@@ -588,7 +589,7 @@
         },
         "guidelines": "https://github.com/vuejs/art/blob/a1c78b74569b70a25300925b4eacfefcc143b8f6/README.md",
         "collectionLicense": "simple-icons-16-LICENSE.md",
-        "adaptation": "Static monoline redraw; 1.75-unit stroke, butt caps, round joins; historical source paths retained separately."
+        "adaptation": "Original paths and fills preserved; outlined icons use 1.75-unit stroke; filled icons receive a 0.3-unit same-color stroke reinforcement. No monoline redraw."
       },
       "badges": {
         "light": "badges/light/vue.svg",
@@ -623,7 +624,7 @@
         "license": null,
         "guidelines": null,
         "collectionLicense": "simple-icons-16-LICENSE.md",
-        "adaptation": "Static monoline redraw; 1.75-unit stroke, butt caps, round joins; historical source paths retained separately."
+        "adaptation": "Original paths and fills preserved; outlined icons use 1.75-unit stroke; filled icons receive a 0.3-unit same-color stroke reinforcement. No monoline redraw."
       },
       "badges": {
         "light": "badges/light/svelte.svg",
@@ -658,7 +659,7 @@
         "license": null,
         "guidelines": "https://tailwindcss.com/brand",
         "collectionLicense": "simple-icons-16-LICENSE.md",
-        "adaptation": "Static monoline redraw; 1.75-unit stroke, butt caps, round joins; historical source paths retained separately."
+        "adaptation": "Original paths and fills preserved; outlined icons use 1.75-unit stroke; filled icons receive a 0.3-unit same-color stroke reinforcement. No monoline redraw."
       },
       "badges": {
         "light": "badges/light/tailwind-css.svg",
@@ -696,7 +697,7 @@
         "license": null,
         "guidelines": null,
         "collectionLicense": "simple-icons-16-LICENSE.md",
-        "adaptation": "Static monoline redraw; 1.75-unit stroke, butt caps, round joins; historical source paths retained separately."
+        "adaptation": "Original paths and fills preserved; outlined icons use 1.75-unit stroke; filled icons receive a 0.3-unit same-color stroke reinforcement. No monoline redraw."
       },
       "badges": {
         "light": "badges/light/bun.svg",
@@ -731,7 +732,7 @@
         "license": null,
         "guidelines": "https://nodejs.org/en/about/branding",
         "collectionLicense": "simple-icons-16-LICENSE.md",
-        "adaptation": "Static monoline redraw; 1.75-unit stroke, butt caps, round joins; historical source paths retained separately."
+        "adaptation": "Original paths and fills preserved; outlined icons use 1.75-unit stroke; filled icons receive a 0.3-unit same-color stroke reinforcement. No monoline redraw."
       },
       "badges": {
         "light": "badges/light/node-js.svg",
@@ -765,7 +766,7 @@
         "license": null,
         "guidelines": null,
         "collectionLicense": "simple-icons-16-LICENSE.md",
-        "adaptation": "Static monoline redraw; 1.75-unit stroke, butt caps, round joins; historical source paths retained separately."
+        "adaptation": "Original paths and fills preserved; outlined icons use 1.75-unit stroke; filled icons receive a 0.3-unit same-color stroke reinforcement. No monoline redraw."
       },
       "badges": {
         "light": "badges/light/vite.svg",
@@ -802,7 +803,7 @@
         },
         "guidelines": null,
         "collectionLicense": "simple-icons-16-LICENSE.md",
-        "adaptation": "Static monoline redraw; 1.75-unit stroke, butt caps, round joins; historical source paths retained separately."
+        "adaptation": "Original paths and fills preserved; outlined icons use 1.75-unit stroke; filled icons receive a 0.3-unit same-color stroke reinforcement. No monoline redraw."
       },
       "badges": {
         "light": "badges/light/git.svg",
@@ -836,7 +837,7 @@
         "license": null,
         "guidelines": null,
         "collectionLicense": "simple-icons-16-LICENSE.md",
-        "adaptation": "Static monoline redraw; 1.75-unit stroke, butt caps, round joins; historical source paths retained separately."
+        "adaptation": "Original paths and fills preserved; outlined icons use 1.75-unit stroke; filled icons receive a 0.3-unit same-color stroke reinforcement. No monoline redraw."
       },
       "badges": {
         "light": "badges/light/docker.svg",
@@ -870,7 +871,7 @@
         "license": null,
         "guidelines": null,
         "collectionLicense": "simple-icons-16-LICENSE.md",
-        "adaptation": "Static monoline redraw; 1.75-unit stroke, butt caps, round joins; historical source paths retained separately."
+        "adaptation": "Original paths and fills preserved; outlined icons use 1.75-unit stroke; filled icons receive a 0.3-unit same-color stroke reinforcement. No monoline redraw."
       },
       "badges": {
         "light": "badges/light/linux.svg",
@@ -904,7 +905,7 @@
         "license": null,
         "guidelines": "https://wiki.archlinux.org/index.php/DeveloperWiki:TrademarkPolicy#Logo_Usage_Guidelines",
         "collectionLicense": "simple-icons-16-LICENSE.md",
-        "adaptation": "Static monoline redraw; 1.75-unit stroke, butt caps, round joins; historical source paths retained separately."
+        "adaptation": "Original paths and fills preserved; outlined icons use 1.75-unit stroke; filled icons receive a 0.3-unit same-color stroke reinforcement. No monoline redraw."
       },
       "badges": {
         "light": "badges/light/arch-linux.svg",
@@ -938,7 +939,7 @@
         "license": null,
         "guidelines": null,
         "collectionLicense": "simple-icons-16-LICENSE.md",
-        "adaptation": "Static monoline redraw; 1.75-unit stroke, butt caps, round joins; historical source paths retained separately."
+        "adaptation": "Original paths and fills preserved; outlined icons use 1.75-unit stroke; filled icons receive a 0.3-unit same-color stroke reinforcement. No monoline redraw."
       },
       "badges": {
         "light": "badges/light/github-actions.svg",
@@ -972,7 +973,7 @@
         "license": null,
         "guidelines": "https://vercel.com/geist/brands",
         "collectionLicense": "simple-icons-16-LICENSE.md",
-        "adaptation": "Static monoline redraw; 1.75-unit stroke, butt caps, round joins; historical source paths retained separately."
+        "adaptation": "Original paths and fills preserved; outlined icons use 1.75-unit stroke; filled icons receive a 0.3-unit same-color stroke reinforcement. No monoline redraw."
       },
       "badges": {
         "light": "badges/light/vercel.svg",
@@ -1006,7 +1007,7 @@
         "license": null,
         "guidelines": null,
         "collectionLicense": "simple-icons-LICENSE.md",
-        "adaptation": "Static monoline redraw; 1.75-unit stroke, butt caps, round joins; historical source paths retained separately."
+        "adaptation": "Original paths and fills preserved; outlined icons use 1.75-unit stroke; filled icons receive a 0.3-unit same-color stroke reinforcement. No monoline redraw."
       },
       "badges": {
         "light": "badges/light/aws.svg",
@@ -1041,7 +1042,7 @@
         "license": null,
         "guidelines": "https://www.postgresql.org/about/policies/trademarks/",
         "collectionLicense": "simple-icons-16-LICENSE.md",
-        "adaptation": "Static monoline redraw; 1.75-unit stroke, butt caps, round joins; historical source paths retained separately."
+        "adaptation": "Original paths and fills preserved; outlined icons use 1.75-unit stroke; filled icons receive a 0.3-unit same-color stroke reinforcement. No monoline redraw."
       },
       "badges": {
         "light": "badges/light/postgresql.svg",
@@ -1076,7 +1077,7 @@
         "license": null,
         "guidelines": null,
         "collectionLicense": "simple-icons-16-LICENSE.md",
-        "adaptation": "Static monoline redraw; 1.75-unit stroke, butt caps, round joins; historical source paths retained separately."
+        "adaptation": "Original paths and fills preserved; outlined icons use 1.75-unit stroke; filled icons receive a 0.3-unit same-color stroke reinforcement. No monoline redraw."
       },
       "badges": {
         "light": "badges/light/sqlite.svg",
@@ -1111,7 +1112,7 @@
         "license": null,
         "guidelines": "https://redis.io/brand-guidelines",
         "collectionLicense": "simple-icons-16-LICENSE.md",
-        "adaptation": "Static monoline redraw; 1.75-unit stroke, butt caps, round joins; historical source paths retained separately."
+        "adaptation": "Original paths and fills preserved; outlined icons use 1.75-unit stroke; filled icons receive a 0.3-unit same-color stroke reinforcement. No monoline redraw."
       },
       "badges": {
         "light": "badges/light/redis.svg",
@@ -1145,7 +1146,7 @@
         "license": null,
         "guidelines": "https://www.figma.com/using-the-figma-brand/",
         "collectionLicense": "simple-icons-16-LICENSE.md",
-        "adaptation": "Static monoline redraw; 1.75-unit stroke, butt caps, round joins; historical source paths retained separately."
+        "adaptation": "Original paths and fills preserved; outlined icons use 1.75-unit stroke; filled icons receive a 0.3-unit same-color stroke reinforcement. No monoline redraw."
       },
       "badges": {
         "light": "badges/light/figma.svg",
@@ -1180,7 +1181,7 @@
         "license": null,
         "guidelines": "https://www.blender.org/about/logo",
         "collectionLicense": "simple-icons-16-LICENSE.md",
-        "adaptation": "Static monoline redraw; 1.75-unit stroke, butt caps, round joins; historical source paths retained separately."
+        "adaptation": "Original paths and fills preserved; outlined icons use 1.75-unit stroke; filled icons receive a 0.3-unit same-color stroke reinforcement. No monoline redraw."
       },
       "badges": {
         "light": "badges/light/blender.svg",
@@ -1215,7 +1216,7 @@
         "license": null,
         "guidelines": null,
         "collectionLicense": "simple-icons-16-LICENSE.md",
-        "adaptation": "Static monoline redraw; 1.75-unit stroke, butt caps, round joins; historical source paths retained separately."
+        "adaptation": "Original paths and fills preserved; outlined icons use 1.75-unit stroke; filled icons receive a 0.3-unit same-color stroke reinforcement. No monoline redraw."
       },
       "badges": {
         "light": "badges/light/three-js.svg",
@@ -1249,7 +1250,7 @@
         "license": null,
         "guidelines": "https://gsap.com/brand/",
         "collectionLicense": "simple-icons-16-LICENSE.md",
-        "adaptation": "Static monoline redraw; 1.75-unit stroke, butt caps, round joins; historical source paths retained separately."
+        "adaptation": "Original paths and fills preserved; outlined icons use 1.75-unit stroke; filled icons receive a 0.3-unit same-color stroke reinforcement. No monoline redraw."
       },
       "badges": {
         "light": "badges/light/gsap.svg",
@@ -1286,7 +1287,7 @@
         "license": null,
         "guidelines": "https://github.com/logos",
         "collectionLicense": "simple-icons-16-LICENSE.md",
-        "adaptation": "Static monoline redraw; 1.75-unit stroke, butt caps, round joins; historical source paths retained separately."
+        "adaptation": "Original paths and fills preserved; outlined icons use 1.75-unit stroke; filled icons receive a 0.3-unit same-color stroke reinforcement. No monoline redraw."
       },
       "badges": {
         "light": "badges/light/github.svg",
@@ -1323,7 +1324,7 @@
         "license": null,
         "guidelines": "https://about.gitlab.com/handbook/marketing/corporate-marketing/brand-activation/trademark-guidelines/",
         "collectionLicense": "simple-icons-16-LICENSE.md",
-        "adaptation": "Static monoline redraw; 1.75-unit stroke, butt caps, round joins; historical source paths retained separately."
+        "adaptation": "Original paths and fills preserved; outlined icons use 1.75-unit stroke; filled icons receive a 0.3-unit same-color stroke reinforcement. No monoline redraw."
       },
       "badges": {
         "light": "badges/light/gitlab.svg",
@@ -1355,7 +1356,7 @@
         "license": null,
         "guidelines": "https://brand.linkedin.com/policies",
         "collectionLicense": "simple-icons-LICENSE.md",
-        "adaptation": "Static monoline redraw; 1.75-unit stroke, butt caps, round joins; historical source paths retained separately."
+        "adaptation": "Original paths and fills preserved; outlined icons use 1.75-unit stroke; filled icons receive a 0.3-unit same-color stroke reinforcement. No monoline redraw."
       },
       "badges": {
         "light": "badges/light/linkedin.svg",
@@ -1386,7 +1387,7 @@
         "license": null,
         "guidelines": "https://about.meta.com/brand/resources/instagram",
         "collectionLicense": "simple-icons-16-LICENSE.md",
-        "adaptation": "Static monoline redraw; 1.75-unit stroke, butt caps, round joins; historical source paths retained separately."
+        "adaptation": "Original paths and fills preserved; outlined icons use 1.75-unit stroke; filled icons receive a 0.3-unit same-color stroke reinforcement. No monoline redraw."
       },
       "badges": {
         "light": "badges/light/instagram.svg",
@@ -1417,7 +1418,7 @@
         "license": null,
         "guidelines": "https://www.youtube.com/howyoutubeworks/resources/brand-resources/#logos-icons-and-colors",
         "collectionLicense": "simple-icons-16-LICENSE.md",
-        "adaptation": "Static monoline redraw; 1.75-unit stroke, butt caps, round joins; historical source paths retained separately."
+        "adaptation": "Original paths and fills preserved; outlined icons use 1.75-unit stroke; filled icons receive a 0.3-unit same-color stroke reinforcement. No monoline redraw."
       },
       "badges": {
         "light": "badges/light/youtube.svg",
@@ -1450,7 +1451,7 @@
         "license": null,
         "guidelines": "https://about.x.com/en/who-we-are/brand-toolkit",
         "collectionLicense": "simple-icons-16-LICENSE.md",
-        "adaptation": "Static monoline redraw; 1.75-unit stroke, butt caps, round joins; historical source paths retained separately."
+        "adaptation": "Original paths and fills preserved; outlined icons use 1.75-unit stroke; filled icons receive a 0.3-unit same-color stroke reinforcement. No monoline redraw."
       },
       "badges": {
         "light": "badges/light/x.svg",
@@ -1481,7 +1482,7 @@
         "license": null,
         "guidelines": "https://bsky.social/about/blog/press-faq",
         "collectionLicense": "simple-icons-16-LICENSE.md",
-        "adaptation": "Static monoline redraw; 1.75-unit stroke, butt caps, round joins; historical source paths retained separately."
+        "adaptation": "Original paths and fills preserved; outlined icons use 1.75-unit stroke; filled icons receive a 0.3-unit same-color stroke reinforcement. No monoline redraw."
       },
       "badges": {
         "light": "badges/light/bluesky.svg",
@@ -1512,7 +1513,7 @@
         "license": null,
         "guidelines": "https://discord.com/branding",
         "collectionLicense": "simple-icons-16-LICENSE.md",
-        "adaptation": "Static monoline redraw; 1.75-unit stroke, butt caps, round joins; historical source paths retained separately."
+        "adaptation": "Original paths and fills preserved; outlined icons use 1.75-unit stroke; filled icons receive a 0.3-unit same-color stroke reinforcement. No monoline redraw."
       },
       "badges": {
         "light": "badges/light/discord.svg",
@@ -1544,7 +1545,7 @@
         "license": null,
         "guidelines": "https://about.meta.com/brand/resources/whatsapp/whatsapp-brand",
         "collectionLicense": "simple-icons-16-LICENSE.md",
-        "adaptation": "Static monoline redraw; 1.75-unit stroke, butt caps, round joins; historical source paths retained separately."
+        "adaptation": "Original paths and fills preserved; outlined icons use 1.75-unit stroke; filled icons receive a 0.3-unit same-color stroke reinforcement. No monoline redraw."
       },
       "badges": {
         "light": "badges/light/whatsapp.svg",
@@ -1576,7 +1577,7 @@
         "license": null,
         "guidelines": null,
         "collectionLicense": "simple-icons-16-LICENSE.md",
-        "adaptation": "Static monoline redraw; 1.75-unit stroke, butt caps, round joins; historical source paths retained separately."
+        "adaptation": "Original paths and fills preserved; outlined icons use 1.75-unit stroke; filled icons receive a 0.3-unit same-color stroke reinforcement. No monoline redraw."
       },
       "badges": {
         "light": "badges/light/telegram.svg",
@@ -1604,7 +1605,7 @@
         "kind": "original",
         "author": "Eduardo Augusto",
         "license": "All rights reserved",
-        "adaptation": "Static monoline redraw; 1.75-unit stroke, butt caps, round joins; historical source paths retained separately."
+        "adaptation": "Original paths and fills preserved; outlined icons use 1.75-unit stroke; filled icons receive a 0.3-unit same-color stroke reinforcement. No monoline redraw."
       },
       "badges": {
         "light": "badges/light/sql.svg",
@@ -1633,7 +1634,7 @@
         "kind": "original",
         "author": "Eduardo Augusto",
         "license": "All rights reserved",
-        "adaptation": "Static monoline redraw; 1.75-unit stroke, butt caps, round joins; historical source paths retained separately."
+        "adaptation": "Original paths and fills preserved; outlined icons use 1.75-unit stroke; filled icons receive a 0.3-unit same-color stroke reinforcement. No monoline redraw."
       },
       "badges": {
         "light": "badges/light/mail.svg",
@@ -1663,7 +1664,7 @@
         "kind": "original",
         "author": "Eduardo Augusto",
         "license": "All rights reserved",
-        "adaptation": "Static monoline redraw; 1.75-unit stroke, butt caps, round joins; historical source paths retained separately."
+        "adaptation": "Original paths and fills preserved; outlined icons use 1.75-unit stroke; filled icons receive a 0.3-unit same-color stroke reinforcement. No monoline redraw."
       },
       "badges": {
         "light": "badges/light/globe.svg",
@@ -1691,7 +1692,7 @@
         "kind": "original",
         "author": "Eduardo Augusto",
         "license": "All rights reserved",
-        "adaptation": "Static monoline redraw; 1.75-unit stroke, butt caps, round joins; historical source paths retained separately."
+        "adaptation": "Original paths and fills preserved; outlined icons use 1.75-unit stroke; filled icons receive a 0.3-unit same-color stroke reinforcement. No monoline redraw."
       },
       "badges": {
         "light": "badges/light/user.svg",
@@ -1719,7 +1720,7 @@
         "kind": "original",
         "author": "Eduardo Augusto",
         "license": "All rights reserved",
-        "adaptation": "Static monoline redraw; 1.75-unit stroke, butt caps, round joins; historical source paths retained separately."
+        "adaptation": "Original paths and fills preserved; outlined icons use 1.75-unit stroke; filled icons receive a 0.3-unit same-color stroke reinforcement. No monoline redraw."
       },
       "badges": {
         "light": "badges/light/code.svg",
@@ -1747,7 +1748,7 @@
         "kind": "original",
         "author": "Eduardo Augusto",
         "license": "All rights reserved",
-        "adaptation": "Static monoline redraw; 1.75-unit stroke, butt caps, round joins; historical source paths retained separately."
+        "adaptation": "Original paths and fills preserved; outlined icons use 1.75-unit stroke; filled icons receive a 0.3-unit same-color stroke reinforcement. No monoline redraw."
       },
       "badges": {
         "light": "badges/light/folder.svg",
@@ -1774,7 +1775,7 @@
         "kind": "original",
         "author": "Eduardo Augusto",
         "license": "All rights reserved",
-        "adaptation": "Static monoline redraw; 1.75-unit stroke, butt caps, round joins; historical source paths retained separately."
+        "adaptation": "Original paths and fills preserved; outlined icons use 1.75-unit stroke; filled icons receive a 0.3-unit same-color stroke reinforcement. No monoline redraw."
       },
       "badges": {
         "light": "badges/light/sparkles.svg",
@@ -1802,7 +1803,7 @@
         "kind": "original",
         "author": "Eduardo Augusto",
         "license": "All rights reserved",
-        "adaptation": "Static monoline redraw; 1.75-unit stroke, butt caps, round joins; historical source paths retained separately."
+        "adaptation": "Original paths and fills preserved; outlined icons use 1.75-unit stroke; filled icons receive a 0.3-unit same-color stroke reinforcement. No monoline redraw."
       },
       "badges": {
         "light": "badges/light/rocket.svg",
@@ -1831,7 +1832,7 @@
         "kind": "original",
         "author": "Eduardo Augusto",
         "license": "All rights reserved",
-        "adaptation": "Static monoline redraw; 1.75-unit stroke, butt caps, round joins; historical source paths retained separately."
+        "adaptation": "Original paths and fills preserved; outlined icons use 1.75-unit stroke; filled icons receive a 0.3-unit same-color stroke reinforcement. No monoline redraw."
       },
       "badges": {
         "light": "badges/light/download.svg",
@@ -1860,7 +1861,7 @@
         "kind": "original",
         "author": "Eduardo Augusto",
         "license": "All rights reserved",
-        "adaptation": "Static monoline redraw; 1.75-unit stroke, butt caps, round joins; historical source paths retained separately."
+        "adaptation": "Original paths and fills preserved; outlined icons use 1.75-unit stroke; filled icons receive a 0.3-unit same-color stroke reinforcement. No monoline redraw."
       },
       "badges": {
         "light": "badges/light/terminal.svg",
@@ -1889,7 +1890,7 @@
         "kind": "original",
         "author": "Eduardo Augusto",
         "license": "All rights reserved",
-        "adaptation": "Static monoline redraw; 1.75-unit stroke, butt caps, round joins; historical source paths retained separately."
+        "adaptation": "Original paths and fills preserved; outlined icons use 1.75-unit stroke; filled icons receive a 0.3-unit same-color stroke reinforcement. No monoline redraw."
       },
       "badges": {
         "light": "badges/light/book-open.svg",
@@ -1916,7 +1917,7 @@
         "kind": "original",
         "author": "Eduardo Augusto",
         "license": "All rights reserved",
-        "adaptation": "Static monoline redraw; 1.75-unit stroke, butt caps, round joins; historical source paths retained separately."
+        "adaptation": "Original paths and fills preserved; outlined icons use 1.75-unit stroke; filled icons receive a 0.3-unit same-color stroke reinforcement. No monoline redraw."
       },
       "badges": {
         "light": "badges/light/layers.svg",
@@ -1944,7 +1945,7 @@
         "kind": "original",
         "author": "Eduardo Augusto",
         "license": "All rights reserved",
-        "adaptation": "Static monoline redraw; 1.75-unit stroke, butt caps, round joins; historical source paths retained separately."
+        "adaptation": "Original paths and fills preserved; outlined icons use 1.75-unit stroke; filled icons receive a 0.3-unit same-color stroke reinforcement. No monoline redraw."
       },
       "badges": {
         "light": "badges/light/settings.svg",
@@ -1972,7 +1973,7 @@
         "kind": "original",
         "author": "Eduardo Augusto",
         "license": "All rights reserved",
-        "adaptation": "Static monoline redraw; 1.75-unit stroke, butt caps, round joins; historical source paths retained separately."
+        "adaptation": "Original paths and fills preserved; outlined icons use 1.75-unit stroke; filled icons receive a 0.3-unit same-color stroke reinforcement. No monoline redraw."
       },
       "badges": {
         "light": "badges/light/flask.svg",
@@ -1999,7 +2000,7 @@
         "kind": "original",
         "author": "Eduardo Augusto",
         "license": "All rights reserved",
-        "adaptation": "Static monoline redraw; 1.75-unit stroke, butt caps, round joins; historical source paths retained separately."
+        "adaptation": "Original paths and fills preserved; outlined icons use 1.75-unit stroke; filled icons receive a 0.3-unit same-color stroke reinforcement. No monoline redraw."
       },
       "badges": {
         "light": "badges/light/map.svg",
@@ -2028,7 +2029,7 @@
         "kind": "original",
         "author": "Eduardo Augusto",
         "license": "All rights reserved",
-        "adaptation": "Static monoline redraw; 1.75-unit stroke, butt caps, round joins; historical source paths retained separately."
+        "adaptation": "Original paths and fills preserved; outlined icons use 1.75-unit stroke; filled icons receive a 0.3-unit same-color stroke reinforcement. No monoline redraw."
       },
       "badges": {
         "light": "badges/light/users.svg",
@@ -2057,7 +2058,7 @@
         "kind": "original",
         "author": "Eduardo Augusto",
         "license": "All rights reserved",
-        "adaptation": "Static monoline redraw; 1.75-unit stroke, butt caps, round joins; historical source paths retained separately."
+        "adaptation": "Original paths and fills preserved; outlined icons use 1.75-unit stroke; filled icons receive a 0.3-unit same-color stroke reinforcement. No monoline redraw."
       },
       "badges": {
         "light": "badges/light/git-pull-request.svg",
@@ -2085,7 +2086,7 @@
         "kind": "original",
         "author": "Eduardo Augusto",
         "license": "All rights reserved",
-        "adaptation": "Static monoline redraw; 1.75-unit stroke, butt caps, round joins; historical source paths retained separately."
+        "adaptation": "Original paths and fills preserved; outlined icons use 1.75-unit stroke; filled icons receive a 0.3-unit same-color stroke reinforcement. No monoline redraw."
       },
       "badges": {
         "light": "badges/light/history.svg",
@@ -2113,7 +2114,7 @@
         "kind": "original",
         "author": "Eduardo Augusto",
         "license": "All rights reserved",
-        "adaptation": "Static monoline redraw; 1.75-unit stroke, butt caps, round joins; historical source paths retained separately."
+        "adaptation": "Original paths and fills preserved; outlined icons use 1.75-unit stroke; filled icons receive a 0.3-unit same-color stroke reinforcement. No monoline redraw."
       },
       "badges": {
         "light": "badges/light/tag.svg",
@@ -2140,7 +2141,7 @@
         "kind": "original",
         "author": "Eduardo Augusto",
         "license": "All rights reserved",
-        "adaptation": "Static monoline redraw; 1.75-unit stroke, butt caps, round joins; historical source paths retained separately."
+        "adaptation": "Original paths and fills preserved; outlined icons use 1.75-unit stroke; filled icons receive a 0.3-unit same-color stroke reinforcement. No monoline redraw."
       },
       "badges": {
         "light": "badges/light/scale.svg",
@@ -2169,7 +2170,7 @@
         "kind": "original",
         "author": "Eduardo Augusto",
         "license": "All rights reserved",
-        "adaptation": "Static monoline redraw; 1.75-unit stroke, butt caps, round joins; historical source paths retained separately."
+        "adaptation": "Original paths and fills preserved; outlined icons use 1.75-unit stroke; filled icons receive a 0.3-unit same-color stroke reinforcement. No monoline redraw."
       },
       "badges": {
         "light": "badges/light/message-circle.svg",
@@ -2197,7 +2198,7 @@
         "kind": "original",
         "author": "Eduardo Augusto",
         "license": "All rights reserved",
-        "adaptation": "Static monoline redraw; 1.75-unit stroke, butt caps, round joins; historical source paths retained separately."
+        "adaptation": "Original paths and fills preserved; outlined icons use 1.75-unit stroke; filled icons receive a 0.3-unit same-color stroke reinforcement. No monoline redraw."
       },
       "badges": {
         "light": "badges/light/link.svg",
@@ -2223,7 +2224,7 @@
         "kind": "original",
         "author": "Eduardo Augusto",
         "license": "All rights reserved",
-        "adaptation": "Static monoline redraw; 1.75-unit stroke, butt caps, round joins; historical source paths retained separately."
+        "adaptation": "Original paths and fills preserved; outlined icons use 1.75-unit stroke; filled icons receive a 0.3-unit same-color stroke reinforcement. No monoline redraw."
       },
       "badges": {
         "light": "badges/light/copy.svg",
@@ -2251,7 +2252,7 @@
         "kind": "original",
         "author": "Eduardo Augusto",
         "license": "All rights reserved",
-        "adaptation": "Static monoline redraw; 1.75-unit stroke, butt caps, round joins; historical source paths retained separately."
+        "adaptation": "Original paths and fills preserved; outlined icons use 1.75-unit stroke; filled icons receive a 0.3-unit same-color stroke reinforcement. No monoline redraw."
       },
       "badges": {
         "light": "badges/light/search.svg",
@@ -2279,7 +2280,7 @@
         "kind": "original",
         "author": "Eduardo Augusto",
         "license": "All rights reserved",
-        "adaptation": "Static monoline redraw; 1.75-unit stroke, butt caps, round joins; historical source paths retained separately."
+        "adaptation": "Original paths and fills preserved; outlined icons use 1.75-unit stroke; filled icons receive a 0.3-unit same-color stroke reinforcement. No monoline redraw."
       },
       "badges": {
         "light": "badges/light/check.svg",
@@ -2306,7 +2307,7 @@
         "kind": "original",
         "author": "Eduardo Augusto",
         "license": "All rights reserved",
-        "adaptation": "Static monoline redraw; 1.75-unit stroke, butt caps, round joins; historical source paths retained separately."
+        "adaptation": "Original paths and fills preserved; outlined icons use 1.75-unit stroke; filled icons receive a 0.3-unit same-color stroke reinforcement. No monoline redraw."
       },
       "badges": {
         "light": "badges/light/alert-triangle.svg",
@@ -2333,7 +2334,7 @@
         "kind": "original",
         "author": "Eduardo Augusto",
         "license": "All rights reserved",
-        "adaptation": "Static monoline redraw; 1.75-unit stroke, butt caps, round joins; historical source paths retained separately."
+        "adaptation": "Original paths and fills preserved; outlined icons use 1.75-unit stroke; filled icons receive a 0.3-unit same-color stroke reinforcement. No monoline redraw."
       },
       "badges": {
         "light": "badges/light/info.svg",
@@ -2360,7 +2361,7 @@
         "kind": "original",
         "author": "Eduardo Augusto",
         "license": "All rights reserved",
-        "adaptation": "Static monoline redraw; 1.75-unit stroke, butt caps, round joins; historical source paths retained separately."
+        "adaptation": "Original paths and fills preserved; outlined icons use 1.75-unit stroke; filled icons receive a 0.3-unit same-color stroke reinforcement. No monoline redraw."
       },
       "badges": {
         "light": "badges/light/star.svg",
@@ -2388,7 +2389,7 @@
         "kind": "original",
         "author": "Eduardo Augusto",
         "license": "All rights reserved",
-        "adaptation": "Static monoline redraw; 1.75-unit stroke, butt caps, round joins; historical source paths retained separately."
+        "adaptation": "Original paths and fills preserved; outlined icons use 1.75-unit stroke; filled icons receive a 0.3-unit same-color stroke reinforcement. No monoline redraw."
       },
       "badges": {
         "light": "badges/light/heart.svg",
@@ -2416,7 +2417,7 @@
         "kind": "original",
         "author": "Eduardo Augusto",
         "license": "All rights reserved",
-        "adaptation": "Static monoline redraw; 1.75-unit stroke, butt caps, round joins; historical source paths retained separately."
+        "adaptation": "Original paths and fills preserved; outlined icons use 1.75-unit stroke; filled icons receive a 0.3-unit same-color stroke reinforcement. No monoline redraw."
       },
       "badges": {
         "light": "badges/light/chart.svg",
@@ -2444,7 +2445,7 @@
         "kind": "original",
         "author": "Eduardo Augusto",
         "license": "All rights reserved",
-        "adaptation": "Static monoline redraw; 1.75-unit stroke, butt caps, round joins; historical source paths retained separately."
+        "adaptation": "Original paths and fills preserved; outlined icons use 1.75-unit stroke; filled icons receive a 0.3-unit same-color stroke reinforcement. No monoline redraw."
       },
       "badges": {
         "light": "badges/light/shield.svg",
@@ -2472,7 +2473,7 @@
         "kind": "original",
         "author": "Eduardo Augusto",
         "license": "All rights reserved",
-        "adaptation": "Static monoline redraw; 1.75-unit stroke, butt caps, round joins; historical source paths retained separately."
+        "adaptation": "Original paths and fills preserved; outlined icons use 1.75-unit stroke; filled icons receive a 0.3-unit same-color stroke reinforcement. No monoline redraw."
       },
       "badges": {
         "light": "badges/light/bug.svg",
@@ -2510,7 +2511,7 @@
         "license": null,
         "guidelines": null,
         "collectionLicense": "simple-icons-16-LICENSE.md",
-        "adaptation": "Static monoline redraw; 1.75-unit stroke, butt caps, round joins; historical source paths retained separately."
+        "adaptation": "Original paths and fills preserved; outlined icons use 1.75-unit stroke; filled icons receive a 0.3-unit same-color stroke reinforcement. No monoline redraw."
       },
       "badges": {
         "light": "badges/light/hono.svg",
@@ -2547,7 +2548,7 @@
         "license": null,
         "guidelines": null,
         "collectionLicense": "simple-icons-16-LICENSE.md",
-        "adaptation": "Static monoline redraw; 1.75-unit stroke, butt caps, round joins; historical source paths retained separately."
+        "adaptation": "Original paths and fills preserved; outlined icons use 1.75-unit stroke; filled icons receive a 0.3-unit same-color stroke reinforcement. No monoline redraw."
       },
       "badges": {
         "light": "badges/light/fastify.svg",
@@ -2585,7 +2586,7 @@
         "license": null,
         "guidelines": null,
         "collectionLicense": "simple-icons-16-LICENSE.md",
-        "adaptation": "Static monoline redraw; 1.75-unit stroke, butt caps, round joins; historical source paths retained separately."
+        "adaptation": "Original paths and fills preserved; outlined icons use 1.75-unit stroke; filled icons receive a 0.3-unit same-color stroke reinforcement. No monoline redraw."
       },
       "badges": {
         "light": "badges/light/express.svg",
@@ -2623,7 +2624,7 @@
         "license": null,
         "guidelines": null,
         "collectionLicense": "simple-icons-16-LICENSE.md",
-        "adaptation": "Static monoline redraw; 1.75-unit stroke, butt caps, round joins; historical source paths retained separately."
+        "adaptation": "Original paths and fills preserved; outlined icons use 1.75-unit stroke; filled icons receive a 0.3-unit same-color stroke reinforcement. No monoline redraw."
       },
       "badges": {
         "light": "badges/light/drizzle.svg",
